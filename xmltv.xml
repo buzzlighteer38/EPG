@@ -20,21 +20,12 @@
 		<display-name>CA| RDS INFO HD</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/74610/s74610_h3_aa.png" />
 	</channel>
-	<programme start="20220820140000 -0400" stop="20220820143000 -0400" channel="ICA| RDS HD.58592.zap2it.com">
-		<title lang="en">30 images/seconde</title>
-		<desc lang="en">Des palmarès percutants réunissant les moments forts du monde du sport.</desc>
-		<category lang="en">News</category>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p319970_b_v13_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00726419&amp;tmsId=SH007264190000</url>
-		<episode-num system="dd_progid">SH00726419.0000</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
+	<channel id="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<display-name>TVASPTH</display-name>
+		<display-name>CA| TVA SPORTS HD TVASPTH</display-name>
+		<display-name>CA| TVA SPORTS HD</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/73142/s73142_h3_aa.png" />
+	</channel>
 	<programme start="20220820143000 -0400" stop="20220820153000 -0400" channel="ICA| RDS HD.58592.zap2it.com">
 		<title lang="en">UFC le décompte</title>
 		<sub-title lang="en">UFC 278: Usman c. Edwards 2</sub-title>
@@ -2674,22 +2665,6 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820140000 -0400" stop="20220820143000 -0400" channel="ICA| RDS 2 HD.73275.zap2it.com">
-		<title lang="en">Le show de moto</title>
-		<desc lang="en">L&apos;émission propose de l&apos;information aux motocyclistes sur les routes du Québec.</desc>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p8570048_b_v13_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01393308&amp;tmsId=EP013933080056</url>
-		<episode-num system="common">S12E05</episode-num>
-		<episode-num system="dd_progid">EP01393308.0056</episode-num>
-		<episode-num system="xmltv_ns">11.4.</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
 	<programme start="20220820143000 -0400" stop="20220820160000 -0400" channel="ICA| RDS 2 HD.73275.zap2it.com">
 		<title lang="en">Course automobile: NASCAR</title>
 		<sub-title lang="en">Série Pinty&apos;s: Bayer 300</sub-title>
@@ -5240,28 +5215,6 @@
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03430723&amp;tmsId=EP034307230042</url>
 		<episode-num system="dd_progid">EP03430723.0042</episode-num>
 		<new />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220820140000 -0400" stop="20220820143000 -0400" channel="ICA| RDS INFO HD.74610.zap2it.com">
-		<title lang="en">Sports 30</title>
-		<desc lang="en">Les plus récents dénouements dans le monde du sport. On analyse en profondeur les résultats des dernières 24 heures dans toutes les disciplines. Hockey, football, baseball, Formule 1, rien n&apos;échappe à nos animateurs.</desc>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p17960825_b_v13_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168398&amp;tmsId=SH001683980000</url>
-		<episode-num system="dd_progid">SH00168398.0000</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220820143000 -0400" stop="20220820150000 -0400" channel="ICA| RDS INFO HD.74610.zap2it.com">
-		<title lang="en">Sports 30</title>
-		<desc lang="en">Les plus récents dénouements dans le monde du sport. On analyse en profondeur les résultats des dernières 24 heures dans toutes les disciplines. Hockey, football, baseball, Formule 1, rien n&apos;échappe à nos animateurs.</desc>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p17960825_b_v13_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168398&amp;tmsId=SH001683980000</url>
-		<episode-num system="dd_progid">SH00168398.0000</episode-num>
-		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
 	<programme start="20220820150000 -0400" stop="20220820170000 -0400" channel="ICA| RDS INFO HD.74610.zap2it.com">
@@ -9427,6 +9380,2300 @@
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168398&amp;tmsId=SH001683980000</url>
 		<episode-num system="dd_progid">SH00168398.0000</episode-num>
 		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820140000 -0400" stop="20220820170000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Brewers de Milwaukee c. Cubs de Chicago</sub-title>
+		<desc lang="en">En provenance du Wrigley Field de Chicago.</desc>
+		<date>20220820</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21155434_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732872</url>
+		<episode-num system="dd_progid">EP00428973.2872</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820170000 -0400" stop="20220820173000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820173000 -0400" stop="20220820180000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390136</url>
+		<episode-num system="common">S11E06</episode-num>
+		<episode-num system="dd_progid">EP00257439.0136</episode-num>
+		<episode-num system="xmltv_ns">10.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220820180000 -0400" stop="20220820183000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le magazine CF</title>
+		<desc lang="en">Frédérique Guay, Frédéric Lord, Vincent Destouches et Patrice Bernier passent en revue l&apos;actualité entourant le CF Montréal et la MLS dans ce magazine hebdomadaire produit par TVA Sports.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20303920_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03927763&amp;tmsId=EP039277630035</url>
+		<episode-num system="common">S02E24</episode-num>
+		<episode-num system="dd_progid">EP03927763.0035</episode-num>
+		<episode-num system="xmltv_ns">1.23.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220820183000 -0400" stop="20220820193000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Avant-match CF Montréal</title>
+		<desc lang="en">En compagnie de Frédérique Guay, Vincent Destouches, Fred Lord et Patrice Bernier, on suit l&apos;avant-match du CF Montréal; ensemble, on met la table pour le match.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19739632_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03818931&amp;tmsId=SH038189310000</url>
+		<episode-num system="dd_progid">SH03818931.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820193000 -0400" stop="20220820213000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Soccer MLS</title>
+		<sub-title lang="en">Revolution de la Nouvelle-Angleterre c. CF Montréal</sub-title>
+		<desc lang="en">En provenance du stade Saputo de Montréal.</desc>
+		<date>20220820</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21284754_tb2_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01480796&amp;tmsId=EP014807960715</url>
+		<episode-num system="dd_progid">EP01480796.0715</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820213000 -0400" stop="20220820223000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les minutes ajoutées</title>
+		<desc lang="en">En compagnie de Frédérique Guay, Vincent Destouches, Frédéric Lord et Patrice Bernier, on suit l&apos;après-match du CF Montréal; ensemble, on décortique les jeux clés du match.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19739641_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04004529&amp;tmsId=SH040045290000</url>
+		<episode-num system="dd_progid">SH04004529.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820223000 -0400" stop="20220821003000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Western &amp; Southern Open, demi-finale 1</sub-title>
+		<desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22671230_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350736</url>
+		<episode-num system="dd_progid">EP01969335.0736</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821003000 -0400" stop="20220821023000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Western &amp; Southern Open, demi-finale 2</sub-title>
+		<desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22671256_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350735</url>
+		<episode-num system="dd_progid">EP01969335.0735</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821023000 -0400" stop="20220821043000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Soccer MLS</title>
+		<sub-title lang="en">Revolution de la Nouvelle-Angleterre c. CF Montréal</sub-title>
+		<desc lang="en">En provenance du stade Saputo de Montréal.</desc>
+		<date>20220820</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21284754_tb2_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01480796&amp;tmsId=EP014807960715</url>
+		<episode-num system="dd_progid">EP01480796.0715</episode-num>
+		<previously-shown start="20220820000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821043000 -0400" stop="20220821053000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les minutes ajoutées</title>
+		<desc lang="en">En compagnie de Frédérique Guay, Vincent Destouches, Frédéric Lord et Patrice Bernier, on suit l&apos;après-match du CF Montréal; ensemble, on décortique les jeux clés du match.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19739641_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04004529&amp;tmsId=SH040045290000</url>
+		<episode-num system="dd_progid">SH04004529.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821053000 -0400" stop="20220821060000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390136</url>
+		<episode-num system="common">S11E06</episode-num>
+		<episode-num system="dd_progid">EP00257439.0136</episode-num>
+		<episode-num system="xmltv_ns">10.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821060000 -0400" stop="20220821063000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Crankworx</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22666332_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399904&amp;tmsId=EP043999040001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399904.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821063000 -0400" stop="20220821090000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Basketball 3x3 FIBA</title>
+		<sub-title lang="en">Suisse</sub-title>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">150</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17280006_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03295462&amp;tmsId=EP032954620007</url>
+		<episode-num system="dd_progid">EP03295462.0007</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821090000 -0400" stop="20220821093000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les pros</title>
+		<desc lang="en">Les meilleurs golfeurs du Québec et du Canada s&apos;affrontent dans des compétitions de haut niveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18760269_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03609418&amp;tmsId=EP036094180021</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP03609418.0021</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220821093000 -0400" stop="20220821100000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Alexis le randonneur</title>
+		<desc lang="en">Alexis visite pour la première fois le parc des Appalaches et complète une boucle de 12 kilomètres en longeant une rivière, un cap rocheux, une érablière et une tourbière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17021310_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03246218&amp;tmsId=EP032462180027</url>
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="dd_progid">EP03246218.0027</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220821100000 -0400" stop="20220821103000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">VeloVelo</title>
+		<desc lang="en">En plus de nous permettre de découvrir des coins magnifiques de la belle province, on suit lors d&apos;une journée un passionné de vélo qui nous entraine à la découverte de son bolide et de sa routine d&apos;entrainement.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20254308_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03922835&amp;tmsId=EP039228350016</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP03922835.0016</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821103000 -0400" stop="20220821123000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Soccer MLS</title>
+		<sub-title lang="en">Revolution de la Nouvelle-Angleterre c. CF Montréal</sub-title>
+		<desc lang="en">En provenance du stade Saputo de Montréal.</desc>
+		<date>20220820</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21284754_tb2_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01480796&amp;tmsId=EP014807960715</url>
+		<episode-num system="dd_progid">EP01480796.0715</episode-num>
+		<previously-shown start="20220820000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821123000 -0400" stop="20220821133000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les minutes ajoutées</title>
+		<desc lang="en">En compagnie de Frédérique Guay, Vincent Destouches, Frédéric Lord et Patrice Bernier, on suit l&apos;après-match du CF Montréal; ensemble, on décortique les jeux clés du match.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19739641_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04004529&amp;tmsId=SH040045290000</url>
+		<episode-num system="dd_progid">SH04004529.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821133000 -0400" stop="20220821163000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Blue Jays de Toronto c. Yankees de New York</sub-title>
+		<desc lang="en">En provenance du Yankee Stadium de New York.</desc>
+		<date>20220821</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21155450_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732858</url>
+		<episode-num system="dd_progid">EP00428973.2858</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821163000 -0400" stop="20220821173000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Lutte WWE: Raw</title>
+		<desc lang="en">Matchs de lutte professionnelle.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p434327_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00176358&amp;tmsId=SH001763580000</url>
+		<episode-num system="dd_progid">SH00176358.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220821173000 -0400" stop="20220821180000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390138</url>
+		<episode-num system="common">S11E07</episode-num>
+		<episode-num system="dd_progid">EP00257439.0138</episode-num>
+		<episode-num system="xmltv_ns">10.6.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821180000 -0400" stop="20220821200000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Western &amp; Southern Open, finale</sub-title>
+		<desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665439_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350729</url>
+		<episode-num system="dd_progid">EP01969335.0729</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821200000 -0400" stop="20220821230000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Blue Jays de Toronto c. Yankees de New York</sub-title>
+		<desc lang="en">En provenance du Yankee Stadium de New York.</desc>
+		<date>20220821</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21155450_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732858</url>
+		<episode-num system="dd_progid">EP00428973.2858</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821230000 -0400" stop="20220822010000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Western &amp; Southern Open, finale</sub-title>
+		<desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665439_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350729</url>
+		<episode-num system="dd_progid">EP01969335.0729</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822010000 -0400" stop="20220822020000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Cliff Diving</title>
+		<desc lang="en">Compétition de plongeon.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8336298_b_v9_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01515250&amp;tmsId=SH015152500000</url>
+		<episode-num system="dd_progid">SH01515250.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822020000 -0400" stop="20220822050000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Blue Jays de Toronto c. Yankees de New York</sub-title>
+		<desc lang="en">En provenance du Yankee Stadium de New York.</desc>
+		<date>20220821</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21155450_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732858</url>
+		<episode-num system="dd_progid">EP00428973.2858</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822050000 -0400" stop="20220822053000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390138</url>
+		<episode-num system="common">S11E07</episode-num>
+		<episode-num system="dd_progid">EP00257439.0138</episode-num>
+		<episode-num system="xmltv_ns">10.6.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822053000 -0400" stop="20220822060000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822060000 -0400" stop="20220822063000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le guide de l&apos;auto</title>
+		<desc lang="en">Antoine part à la découverte de la camionnette Ford F-150 Lightning, 100% électrique; on met aussi à l&apos;essai le Genesis GV70 en le comparant à la très forte concurrence alors que Mathieu Roy nous plonge dans le monde du rétronouveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22422404_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04347712&amp;tmsId=EP043477120009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP04347712.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822063000 -0400" stop="20220822070000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Roulez au suivant</title>
+		<desc lang="en">On redonne une seconde vie à une voiture abandonnée ou mal entretenue en mettant en lumière différents métiers de l&apos;automobile afin de prouver qu&apos;il est écologiquement et économiquement viable d&apos;entretenir plutôt que de remplacer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20398288_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03945420&amp;tmsId=EP039454200010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP03945420.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822070000 -0400" stop="20220822073000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull - UCI - vélo de montagne</title>
+		<desc lang="en">Un aperçu de la course de vélo de montagne de la Coupe du monde UCI.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22330883_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04333913&amp;tmsId=EP043339130006</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP04333913.0006</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822073000 -0400" stop="20220822080000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Born to Hunt, un mode de vie</title>
+		<desc lang="en">Une série télévisée qui emmène les téléspectateurs dans des aventures impromptues et pleines d&apos;adrénaline avec quatre personnages fascinants.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13742363_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02607686&amp;tmsId=EP026076860073</url>
+		<episode-num system="common">S06E07</episode-num>
+		<episode-num system="dd_progid">EP02607686.0073</episode-num>
+		<episode-num system="xmltv_ns">5.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822080000 -0400" stop="20220822083000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les pros</title>
+		<desc lang="en">Les meilleurs golfeurs du Québec et du Canada s&apos;affrontent dans des compétitions de haut niveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18760269_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03609418&amp;tmsId=EP036094180021</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP03609418.0021</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822083000 -0400" stop="20220822090000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390138</url>
+		<episode-num system="common">S11E07</episode-num>
+		<episode-num system="dd_progid">EP00257439.0138</episode-num>
+		<episode-num system="xmltv_ns">10.6.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822090000 -0400" stop="20220822093000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Alexis le randonneur</title>
+		<desc lang="en">Alexis visite pour la première fois le parc des Appalaches et complète une boucle de 12 kilomètres en longeant une rivière, un cap rocheux, une érablière et une tourbière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17021310_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03246218&amp;tmsId=EP032462180027</url>
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="dd_progid">EP03246218.0027</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822093000 -0400" stop="20220822100000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">VeloVelo</title>
+		<desc lang="en">En plus de nous permettre de découvrir des coins magnifiques de la belle province, on suit lors d&apos;une journée un passionné de vélo qui nous entraine à la découverte de son bolide et de sa routine d&apos;entrainement.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20254308_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03922835&amp;tmsId=EP039228350016</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP03922835.0016</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Cliff Diving</title>
+		<desc lang="en">Compétition de plongeon.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8336298_b_v9_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01515250&amp;tmsId=SH015152500000</url>
+		<episode-num system="dd_progid">SH01515250.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822110000 -0400" stop="20220822113000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">L&apos;académie du guide de l&apos;auto</title>
+		<desc lang="en">Sabrina Cournoyer et Félix-Antoine Tremblay se livrent un duel enlevant à bord de la foudroyante Polestar 1.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20886071_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03475330&amp;tmsId=EP034753300020</url>
+		<episode-num system="common">S02E10</episode-num>
+		<episode-num system="dd_progid">EP03475330.0020</episode-num>
+		<episode-num system="xmltv_ns">1.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822113000 -0400" stop="20220822120000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Sortez, golfez</title>
+		<sub-title lang="en">Frappes-tu loin?</sub-title>
+		<desc lang="en">Un des grands plaisirs du golf, c&apos;est de frapper loin, le plus loin possible; c&apos;est même un sport en soi; Max Lalonde s&apos;est rendu du côté de la Vallée des forts pour le championnat amateur de Long Drive Canadien.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20486747_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03963564&amp;tmsId=EP039635640011</url>
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="dd_progid">EP03963564.0011</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822120000 -0400" stop="20220822123000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">50 ans de sports</title>
+		<desc lang="en">On nous fait revivre les plus grands moments du sport de chaque année.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21462575_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04176559&amp;tmsId=EP041765590003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04176559.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822123000 -0400" stop="20220822130000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822130000 -0400" stop="20220822133000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le guide de l&apos;auto</title>
+		<desc lang="en">Antoine part à la découverte de la camionnette Ford F-150 Lightning, 100% électrique; on met aussi à l&apos;essai le Genesis GV70 en le comparant à la très forte concurrence alors que Mathieu Roy nous plonge dans le monde du rétronouveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22422404_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04347712&amp;tmsId=EP043477120009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP04347712.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822133000 -0400" stop="20220822163000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Blue Jays de Toronto c. Yankees de New York</sub-title>
+		<desc lang="en">En provenance du Yankee Stadium de New York.</desc>
+		<date>20220821</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21155450_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732858</url>
+		<episode-num system="dd_progid">EP00428973.2858</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822163000 -0400" stop="20220822170000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les pros</title>
+		<desc lang="en">Les meilleurs golfeurs du Québec et du Canada s&apos;affrontent dans des compétitions de haut niveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18760269_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03609418&amp;tmsId=EP036094180018</url>
+		<episode-num system="common">S03E05</episode-num>
+		<episode-num system="dd_progid">EP03609418.0018</episode-num>
+		<episode-num system="xmltv_ns">2.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822170000 -0400" stop="20220822190000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Ninja Warrior: le parcours ultime</title>
+		<sub-title lang="en">Qualifications 3</sub-title>
+		<desc lang="en">Dans le troisième tour des qualifications, les ninjas, dont Jessie Graff, Najee Richardson, Michelle Warnky et Adam Rayl, doivent affronter six obstacles difficiles dont le High-flying Beehive, une nouveauté.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18771784_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02926025&amp;tmsId=EP029260250037</url>
+		<episode-num system="common">S12E03</episode-num>
+		<episode-num system="dd_progid">EP02926025.0037</episode-num>
+		<episode-num system="xmltv_ns">11.2.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822190000 -0400" stop="20220822211500 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">À toute vitesse</title>
+		<sub-title lang="en">Movie (2001)</sub-title>
+		<desc lang="en">Voulant plaire au propriétaire de l&apos;équipe (Burt Reynolds), un champion de course automobile (Sylvester Stallone) sort de sa retraite et devient le mentor d&apos;un pilote impétueux (Kip Pardue).</desc>
+		<date>2001</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">135</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p27554_b_v9_al.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00113941&amp;tmsId=MV001139410000</url>
+		<episode-num system="dd_progid">MV00113941.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822211500 -0400" stop="20220822213000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Connexions LNH</title>
+		<category lang="en">Series</category>
+		<length units="minutes">15</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21849564_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04240614&amp;tmsId=SH042406140000</url>
+		<episode-num system="dd_progid">SH04240614.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822213000 -0400" stop="20220822220000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822220000 -0400" stop="20220823000000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Western &amp; Southern Open, finale</sub-title>
+		<desc lang="en">From Lindner Family Tennis Center in Cincinnati.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665439_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350729</url>
+		<episode-num system="dd_progid">EP01969335.0729</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823000000 -0400" stop="20220823010000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Cliff Diving</title>
+		<desc lang="en">Compétition de plongeon.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8336298_b_v9_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01515250&amp;tmsId=SH015152500000</url>
+		<episode-num system="dd_progid">SH01515250.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823010000 -0400" stop="20220823013000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Sortez, golfez</title>
+		<sub-title lang="en">Frappes-tu loin?</sub-title>
+		<desc lang="en">Un des grands plaisirs du golf, c&apos;est de frapper loin, le plus loin possible; c&apos;est même un sport en soi; Max Lalonde s&apos;est rendu du côté de la Vallée des forts pour le championnat amateur de Long Drive Canadien.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20486747_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03963564&amp;tmsId=EP039635640011</url>
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="dd_progid">EP03963564.0011</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823013000 -0400" stop="20220823020000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">50 ans de sports</title>
+		<desc lang="en">On nous fait revivre les plus grands moments du sport de chaque année.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21462575_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04176559&amp;tmsId=EP041765590003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04176559.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823020000 -0400" stop="20220823023000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823023000 -0400" stop="20220823030000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le guide de l&apos;auto</title>
+		<desc lang="en">Antoine part à la découverte de la camionnette Ford F-150 Lightning, 100% électrique; on met aussi à l&apos;essai le Genesis GV70 en le comparant à la très forte concurrence alors que Mathieu Roy nous plonge dans le monde du rétronouveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22422404_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04347712&amp;tmsId=EP043477120009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP04347712.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823030000 -0400" stop="20220823033000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les pros</title>
+		<desc lang="en">Les meilleurs golfeurs du Québec et du Canada s&apos;affrontent dans des compétitions de haut niveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18760269_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03609418&amp;tmsId=EP036094180018</url>
+		<episode-num system="common">S03E05</episode-num>
+		<episode-num system="dd_progid">EP03609418.0018</episode-num>
+		<episode-num system="xmltv_ns">2.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823033000 -0400" stop="20220823040000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390138</url>
+		<episode-num system="common">S11E07</episode-num>
+		<episode-num system="dd_progid">EP00257439.0138</episode-num>
+		<episode-num system="xmltv_ns">10.6.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823040000 -0400" stop="20220823043000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Alexis le randonneur</title>
+		<desc lang="en">Alexis visite pour la première fois le parc des Appalaches et complète une boucle de 12 kilomètres en longeant une rivière, un cap rocheux, une érablière et une tourbière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17021310_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03246218&amp;tmsId=EP032462180027</url>
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="dd_progid">EP03246218.0027</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823043000 -0400" stop="20220823050000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">VeloVelo</title>
+		<desc lang="en">En plus de nous permettre de découvrir des coins magnifiques de la belle province, on suit lors d&apos;une journée un passionné de vélo qui nous entraine à la découverte de son bolide et de sa routine d&apos;entrainement.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20254308_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03922835&amp;tmsId=EP039228350016</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP03922835.0016</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823050000 -0400" stop="20220823060000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Cliff Diving</title>
+		<desc lang="en">Compétition de plongeon.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8336298_b_v9_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01515250&amp;tmsId=SH015152500000</url>
+		<episode-num system="dd_progid">SH01515250.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les dessous du repêchage LNH 2022</title>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22612861_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04389060&amp;tmsId=SH043890600000</url>
+		<episode-num system="dd_progid">SH04389060.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823070000 -0400" stop="20220823073000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823073000 -0400" stop="20220823083000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Cliff Diving</title>
+		<desc lang="en">Compétition de plongeon.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8336298_b_v9_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01515250&amp;tmsId=SH015152500000</url>
+		<episode-num system="dd_progid">SH01515250.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823083000 -0400" stop="20220823090000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Sortez, golfez</title>
+		<sub-title lang="en">Frappes-tu loin?</sub-title>
+		<desc lang="en">Un des grands plaisirs du golf, c&apos;est de frapper loin, le plus loin possible; c&apos;est même un sport en soi; Max Lalonde s&apos;est rendu du côté de la Vallée des forts pour le championnat amateur de Long Drive Canadien.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20486747_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03963564&amp;tmsId=EP039635640011</url>
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="dd_progid">EP03963564.0011</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823090000 -0400" stop="20220823093000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">50 ans de sports</title>
+		<desc lang="en">On nous fait revivre les plus grands moments du sport de chaque année.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21462575_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04176559&amp;tmsId=EP041765590003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04176559.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823093000 -0400" stop="20220823100000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823100000 -0400" stop="20220823103000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le guide de l&apos;auto</title>
+		<desc lang="en">Antoine part à la découverte de la camionnette Ford F-150 Lightning, 100% électrique; on met aussi à l&apos;essai le Genesis GV70 en le comparant à la très forte concurrence alors que Mathieu Roy nous plonge dans le monde du rétronouveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22422404_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04347712&amp;tmsId=EP043477120009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP04347712.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823103000 -0400" stop="20220823110000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les pros</title>
+		<desc lang="en">Les meilleurs golfeurs du Québec et du Canada s&apos;affrontent dans des compétitions de haut niveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18760269_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03609418&amp;tmsId=EP036094180018</url>
+		<episode-num system="common">S03E05</episode-num>
+		<episode-num system="dd_progid">EP03609418.0018</episode-num>
+		<episode-num system="xmltv_ns">2.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823110000 -0400" stop="20220823113000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390138</url>
+		<episode-num system="common">S11E07</episode-num>
+		<episode-num system="dd_progid">EP00257439.0138</episode-num>
+		<episode-num system="xmltv_ns">10.6.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823113000 -0400" stop="20220823120000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Alexis le randonneur</title>
+		<desc lang="en">Alexis visite pour la première fois le parc des Appalaches et complète une boucle de 12 kilomètres en longeant une rivière, un cap rocheux, une érablière et une tourbière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17021310_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03246218&amp;tmsId=EP032462180027</url>
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="dd_progid">EP03246218.0027</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823120000 -0400" stop="20220823123000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">VeloVelo</title>
+		<desc lang="en">En plus de nous permettre de découvrir des coins magnifiques de la belle province, on suit lors d&apos;une journée un passionné de vélo qui nous entraine à la découverte de son bolide et de sa routine d&apos;entrainement.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20254308_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03922835&amp;tmsId=EP039228350016</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP03922835.0016</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823123000 -0400" stop="20220823133000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Cliff Diving</title>
+		<desc lang="en">Compétition de plongeon.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8336298_b_v9_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01515250&amp;tmsId=SH015152500000</url>
+		<episode-num system="dd_progid">SH01515250.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823133000 -0400" stop="20220823143000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Larmes de joie: les Mets de New York, édition 2015</title>
+		<desc lang="en">En 2015, on a assisté au plus grand revirement de six semaines de l&apos;histoire du baseball, celle qui a captivé une base de fans et revigoré New York.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12401021_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03511564&amp;tmsId=SH035115640000</url>
+		<episode-num system="dd_progid">SH03511564.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823143000 -0400" stop="20220823150000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">MLB: les moments marquants</title>
+		<desc lang="en">Les moments marquants de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12982093_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02450194&amp;tmsId=EP024501940030</url>
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="dd_progid">EP02450194.0030</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les dessous du repêchage LNH 2022</title>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22612861_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04389060&amp;tmsId=SH043890600000</url>
+		<episode-num system="dd_progid">SH04389060.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823160000 -0400" stop="20220823163000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823163000 -0400" stop="20220823170000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Femmes de sport</title>
+		<desc lang="en">Promotion du sport féminin.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18150687_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03478357&amp;tmsId=EP034783570033</url>
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="dd_progid">EP03478357.0033</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823170000 -0400" stop="20220823190000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Ninja Warrior: le parcours ultime</title>
+		<sub-title lang="en">Qualifications 4</sub-title>
+		<desc lang="en">Dans la dernière épreuve des qualifications, les ninjas, dont Meagan Martin, Joe Moravsky, Tiana Webberley, Michael Torres et le cowboy ninja Lance Pekus, doivent affronter six obstacles difficiles, dont le Off the Hook et le nouveau Sideways.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18771797_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02926025&amp;tmsId=EP029260250038</url>
+		<episode-num system="common">S12E04</episode-num>
+		<episode-num system="dd_progid">EP02926025.0038</episode-num>
+		<episode-num system="xmltv_ns">11.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823190000 -0400" stop="20220823220000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Mets de New York c. Yankees de New York</sub-title>
+		<desc lang="en">En provenance du Yankee Stadium de New York.</desc>
+		<date>20220823</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21156974_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732859</url>
+		<episode-num system="dd_progid">EP00428973.2859</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823220000 -0400" stop="20220823223000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le magazine CF</title>
+		<desc lang="en">Frédérique Guay, Frédéric Lord, Vincent Destouches et Patrice Bernier passent en revue l&apos;actualité entourant le CF Montréal et la MLS dans ce magazine hebdomadaire produit par TVA Sports.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20303920_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03927763&amp;tmsId=EP039277630033</url>
+		<episode-num system="common">S02E25</episode-num>
+		<episode-num system="dd_progid">EP03927763.0033</episode-num>
+		<episode-num system="xmltv_ns">1.24.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823223000 -0400" stop="20220823233000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les dessous du repêchage LNH 2022</title>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22612861_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04389060&amp;tmsId=SH043890600000</url>
+		<episode-num system="dd_progid">SH04389060.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823233000 -0400" stop="20220824000000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824000000 -0400" stop="20220824003000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824003000 -0400" stop="20220824013000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Cliff Diving</title>
+		<desc lang="en">Compétition de plongeon.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8336298_b_v9_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01515250&amp;tmsId=SH015152500000</url>
+		<episode-num system="dd_progid">SH01515250.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220824013000 -0400" stop="20220824043000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Mets de New York c. Yankees de New York</sub-title>
+		<desc lang="en">En provenance du Yankee Stadium de New York.</desc>
+		<date>20220823</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21156974_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732859</url>
+		<episode-num system="dd_progid">EP00428973.2859</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824043000 -0400" stop="20220824050000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060016</url>
+		<episode-num system="common">S01E16</episode-num>
+		<episode-num system="dd_progid">EP04272506.0016</episode-num>
+		<episode-num system="xmltv_ns">0.15.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824050000 -0400" stop="20220824053000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060017</url>
+		<episode-num system="common">S01E17</episode-num>
+		<episode-num system="dd_progid">EP04272506.0017</episode-num>
+		<episode-num system="xmltv_ns">0.16.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824053000 -0400" stop="20220824060000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824060000 -0400" stop="20220824090000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Mets de New York c. Yankees de New York</sub-title>
+		<desc lang="en">En provenance du Yankee Stadium de New York.</desc>
+		<date>20220823</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21156974_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732859</url>
+		<episode-num system="dd_progid">EP00428973.2859</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824090000 -0400" stop="20220824093000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">World Enduro Super Series</title>
+		<desc lang="en">Les meilleurs motocyclistes à travers les courses les plus emblématiques du monde. On plonge dans la culture Enduro avec Paul Bolton.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p315504_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03284877&amp;tmsId=SH032848770000</url>
+		<episode-num system="dd_progid">SH03284877.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824093000 -0400" stop="20220824100000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull - UCI - vélo de montagne</title>
+		<desc lang="en">Un aperçu de la course de vélo de montagne de la Coupe du monde UCI.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22330883_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04333913&amp;tmsId=EP043339130004</url>
+		<episode-num system="common">S02E04</episode-num>
+		<episode-num system="dd_progid">EP04333913.0004</episode-num>
+		<episode-num system="xmltv_ns">1.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824100000 -0400" stop="20220824110000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull Cliff Diving</title>
+		<desc lang="en">Compétition de plongeon.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8336298_b_v9_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01515250&amp;tmsId=SH015152500000</url>
+		<episode-num system="dd_progid">SH01515250.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220824110000 -0400" stop="20220824120000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les dessous du repêchage LNH 2022</title>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22612861_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04389060&amp;tmsId=SH043890600000</url>
+		<episode-num system="dd_progid">SH04389060.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824120000 -0400" stop="20220824123000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824123000 -0400" stop="20220824130000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390138</url>
+		<episode-num system="common">S11E07</episode-num>
+		<episode-num system="dd_progid">EP00257439.0138</episode-num>
+		<episode-num system="xmltv_ns">10.6.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824130000 -0400" stop="20220824133000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824133000 -0400" stop="20220824163000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Mets de New York c. Yankees de New York</sub-title>
+		<desc lang="en">En provenance du Yankee Stadium de New York.</desc>
+		<date>20220823</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21156974_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732859</url>
+		<episode-num system="dd_progid">EP00428973.2859</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824163000 -0400" stop="20220824170000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le magazine CF</title>
+		<desc lang="en">Frédérique Guay, Frédéric Lord, Vincent Destouches et Patrice Bernier passent en revue l&apos;actualité entourant le CF Montréal et la MLS dans ce magazine hebdomadaire produit par TVA Sports.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20303920_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03927763&amp;tmsId=EP039277630033</url>
+		<episode-num system="common">S02E25</episode-num>
+		<episode-num system="dd_progid">EP03927763.0033</episode-num>
+		<episode-num system="xmltv_ns">1.24.</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824170000 -0400" stop="20220824190000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Ninja Warrior: le parcours ultime</title>
+		<sub-title lang="en">Demi-finales 1</sub-title>
+		<desc lang="en">Dans la première manche des demi-finales, les concurrents, dont Daniel Gil, Jesse Labreck, Sandy Zimmerman, Jody Avila et Grant McCartney, doivent affronter 10 obstacles redoutables, dont le Clockwork et le nouveau et étourdissant Corkscrew.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18830077_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02926025&amp;tmsId=EP029260250039</url>
+		<episode-num system="common">S12E05</episode-num>
+		<episode-num system="dd_progid">EP02926025.0039</episode-num>
+		<episode-num system="xmltv_ns">11.4.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824190000 -0400" stop="20220824220000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Blue Jays de Toronto c. Red Sox de Boston</sub-title>
+		<desc lang="en">En provenance de Fenway Park de Boston.</desc>
+		<date>20220824</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21157326_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732861</url>
+		<episode-num system="dd_progid">EP00428973.2861</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824220000 -0400" stop="20220824223000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">La rentrée du football universitaire RSEQ</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665404_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399768&amp;tmsId=SH043997680000</url>
+		<episode-num system="dd_progid">SH04399768.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824223000 -0400" stop="20220824230000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le guide de l&apos;auto</title>
+		<desc lang="en">Le monde de l&apos;automobile d&apos;aujourd&apos;hui.</desc>
+		<date>20220825</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425620_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00299947&amp;tmsId=EP002999470013</url>
+		<episode-num system="dd_progid">EP00299947.0013</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220824230000 -0400" stop="20220824233000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">L&apos;académie du guide de l&apos;auto</title>
+		<desc lang="en">Sabrina Cournoyer et Félix-Antoine Tremblay se livrent un duel enlevant à bord de la foudroyante Polestar 1.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20886071_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03475330&amp;tmsId=EP034753300020</url>
+		<episode-num system="common">S02E10</episode-num>
+		<episode-num system="dd_progid">EP03475330.0020</episode-num>
+		<episode-num system="xmltv_ns">1.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824233000 -0400" stop="20220825000000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Roulez au suivant</title>
+		<desc lang="en">On redonne une seconde vie à une voiture abandonnée ou mal entretenue en mettant en lumière différents métiers de l&apos;automobile afin de prouver qu&apos;il est écologiquement et économiquement viable d&apos;entretenir plutôt que de remplacer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20398288_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03945420&amp;tmsId=EP039454200010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP03945420.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220825000000 -0400" stop="20220825030000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Blue Jays de Toronto c. Red Sox de Boston</sub-title>
+		<desc lang="en">En provenance de Fenway Park de Boston.</desc>
+		<date>20220824</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21157326_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732861</url>
+		<episode-num system="dd_progid">EP00428973.2861</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825030000 -0400" stop="20220825033000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Femmes de sport</title>
+		<desc lang="en">Promotion du sport féminin.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18150687_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03478357&amp;tmsId=EP034783570033</url>
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="dd_progid">EP03478357.0033</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825033000 -0400" stop="20220825043000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les dessous du repêchage LNH 2022</title>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22612861_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04389060&amp;tmsId=SH043890600000</url>
+		<episode-num system="dd_progid">SH04389060.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825043000 -0400" stop="20220825050000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060018</url>
+		<episode-num system="common">S01E18</episode-num>
+		<episode-num system="dd_progid">EP04272506.0018</episode-num>
+		<episode-num system="xmltv_ns">0.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825050000 -0400" stop="20220825053000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">World Enduro Super Series</title>
+		<desc lang="en">Les meilleurs motocyclistes à travers les courses les plus emblématiques du monde. On plonge dans la culture Enduro avec Paul Bolton.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p315504_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03284877&amp;tmsId=SH032848770000</url>
+		<episode-num system="dd_progid">SH03284877.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825053000 -0400" stop="20220825060000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull - UCI - vélo de montagne</title>
+		<desc lang="en">Un aperçu de la course de vélo de montagne de la Coupe du monde UCI.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22330883_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04333913&amp;tmsId=EP043339130005</url>
+		<episode-num system="common">S02E05</episode-num>
+		<episode-num system="dd_progid">EP04333913.0005</episode-num>
+		<episode-num system="xmltv_ns">1.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825060000 -0400" stop="20220825090000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Blue Jays de Toronto c. Red Sox de Boston</sub-title>
+		<desc lang="en">En provenance de Fenway Park de Boston.</desc>
+		<date>20220824</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21157326_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732861</url>
+		<episode-num system="dd_progid">EP00428973.2861</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825090000 -0400" stop="20220825093000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Alexis le randonneur</title>
+		<desc lang="en">Alexis visite pour la première fois le parc des Appalaches et complète une boucle de 12 kilomètres en longeant une rivière, un cap rocheux, une érablière et une tourbière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17021310_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03246218&amp;tmsId=EP032462180027</url>
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="dd_progid">EP03246218.0027</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825093000 -0400" stop="20220825100000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">VeloVelo</title>
+		<desc lang="en">En plus de nous permettre de découvrir des coins magnifiques de la belle province, on suit lors d&apos;une journée un passionné de vélo qui nous entraine à la découverte de son bolide et de sa routine d&apos;entrainement.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20254308_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03922835&amp;tmsId=EP039228350016</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP03922835.0016</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825100000 -0400" stop="20220825103000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le guide de l&apos;auto</title>
+		<desc lang="en">Antoine et Gabriel mettent à l&apos;essai le Toyota bZ4X 2023, 100 % électrique; on se déplace également du côté de la Californie pour un premier tour d&apos;horizon du GMC Sierra AT4X; Mathieu nous propose un cours d&apos;électricité 101.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22422404_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04347712&amp;tmsId=EP043477120010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP04347712.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220825103000 -0400" stop="20220825110000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">L&apos;académie du guide de l&apos;auto</title>
+		<desc lang="en">Sabrina Cournoyer et Félix-Antoine Tremblay se livrent un duel enlevant à bord de la foudroyante Polestar 1.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20886071_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03475330&amp;tmsId=EP034753300020</url>
+		<episode-num system="common">S02E10</episode-num>
+		<episode-num system="dd_progid">EP03475330.0020</episode-num>
+		<episode-num system="xmltv_ns">1.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220825110000 -0400" stop="20220825113000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Roulez au suivant</title>
+		<desc lang="en">On redonne une seconde vie à une voiture abandonnée ou mal entretenue en mettant en lumière différents métiers de l&apos;automobile afin de prouver qu&apos;il est écologiquement et économiquement viable d&apos;entretenir plutôt que de remplacer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20398288_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03945420&amp;tmsId=EP039454200010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP03945420.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220825113000 -0400" stop="20220825120000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825120000 -0400" stop="20220825140000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, quarts de finale 1</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220825</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350737</url>
+		<episode-num system="dd_progid">EP01969335.0737</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825140000 -0400" stop="20220825160000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, quarts de finale 2</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220825</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350738</url>
+		<episode-num system="dd_progid">EP01969335.0738</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825160000 -0400" stop="20220825180000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, quarts de finale 3</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220825</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350739</url>
+		<episode-num system="dd_progid">EP01969335.0739</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825180000 -0400" stop="20220825200000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, quarts de finale 4</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220825</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350740</url>
+		<episode-num system="dd_progid">EP01969335.0740</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825200000 -0400" stop="20220825230000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Twins du Minnesota c. Astros de Houston</sub-title>
+		<desc lang="en">En provenance du Minute Maid Park, à Houston, au Texas.</desc>
+		<date>20220826</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21157621_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732863</url>
+		<episode-num system="dd_progid">EP00428973.2863</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825230000 -0400" stop="20220825233000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060019</url>
+		<episode-num system="common">S01E19</episode-num>
+		<episode-num system="dd_progid">EP04272506.0019</episode-num>
+		<episode-num system="xmltv_ns">0.18.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825233000 -0400" stop="20220826003000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Lutte WWE: Raw</title>
+		<desc lang="en">Matchs de lutte professionnelle.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p434327_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00176358&amp;tmsId=SH001763580000</url>
+		<episode-num system="dd_progid">SH00176358.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220826003000 -0400" stop="20220826033000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Twins du Minnesota c. Astros de Houston</sub-title>
+		<desc lang="en">En provenance du Minute Maid Park, à Houston, au Texas.</desc>
+		<date>20220826</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21157621_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732863</url>
+		<episode-num system="dd_progid">EP00428973.2863</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826033000 -0400" stop="20220826040000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">La rentrée du football universitaire RSEQ</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665404_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399768&amp;tmsId=SH043997680000</url>
+		<episode-num system="dd_progid">SH04399768.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826040000 -0400" stop="20220826043000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les pros</title>
+		<desc lang="en">Les meilleurs golfeurs du Québec et du Canada s&apos;affrontent dans des compétitions de haut niveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18760269_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03609418&amp;tmsId=EP036094180018</url>
+		<episode-num system="common">S03E05</episode-num>
+		<episode-num system="dd_progid">EP03609418.0018</episode-num>
+		<episode-num system="xmltv_ns">2.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826043000 -0400" stop="20220826050000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390138</url>
+		<episode-num system="common">S11E07</episode-num>
+		<episode-num system="dd_progid">EP00257439.0138</episode-num>
+		<episode-num system="xmltv_ns">10.6.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220826050000 -0400" stop="20220826053000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Sortez, golfez</title>
+		<sub-title lang="en">Frappes-tu loin?</sub-title>
+		<desc lang="en">Un des grands plaisirs du golf, c&apos;est de frapper loin, le plus loin possible; c&apos;est même un sport en soi; Max Lalonde s&apos;est rendu du côté de la Vallée des forts pour le championnat amateur de Long Drive Canadien.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20486747_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03963564&amp;tmsId=EP039635640011</url>
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="dd_progid">EP03963564.0011</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826053000 -0400" stop="20220826060000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Red Bull - UCI - vélo de montagne</title>
+		<desc lang="en">Un aperçu de la course de vélo de montagne de la Coupe du monde UCI.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22330883_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04333913&amp;tmsId=EP043339130001</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP04333913.0001</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826060000 -0400" stop="20220826090000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Twins du Minnesota c. Astros de Houston</sub-title>
+		<desc lang="en">En provenance du Minute Maid Park, à Houston, au Texas.</desc>
+		<date>20220826</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21157621_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732863</url>
+		<episode-num system="dd_progid">EP00428973.2863</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826090000 -0400" stop="20220826093000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">La rentrée du football universitaire RSEQ</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665404_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399768&amp;tmsId=SH043997680000</url>
+		<episode-num system="dd_progid">SH04399768.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826093000 -0400" stop="20220826100000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">L&apos;académie du guide de l&apos;auto</title>
+		<desc lang="en">Sabrina Cournoyer et Félix-Antoine Tremblay se livrent un duel enlevant à bord de la foudroyante Polestar 1.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20886071_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03475330&amp;tmsId=EP034753300020</url>
+		<episode-num system="common">S02E10</episode-num>
+		<episode-num system="dd_progid">EP03475330.0020</episode-num>
+		<episode-num system="xmltv_ns">1.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220826100000 -0400" stop="20220826103000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826103000 -0400" stop="20220826110000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060019</url>
+		<episode-num system="common">S01E19</episode-num>
+		<episode-num system="dd_progid">EP04272506.0019</episode-num>
+		<episode-num system="xmltv_ns">0.18.</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826110000 -0400" stop="20220826113000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Alexis le randonneur</title>
+		<desc lang="en">Alexis visite pour la première fois le parc des Appalaches et complète une boucle de 12 kilomètres en longeant une rivière, un cap rocheux, une érablière et une tourbière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17021310_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03246218&amp;tmsId=EP032462180027</url>
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="dd_progid">EP03246218.0027</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826113000 -0400" stop="20220826133000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, quarts de finale 4</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220825</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350740</url>
+		<episode-num system="dd_progid">EP01969335.0740</episode-num>
+		<previously-shown start="20220825000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826133000 -0400" stop="20220826143000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Lutte WWE: Raw</title>
+		<desc lang="en">Matchs de lutte professionnelle.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p434327_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00176358&amp;tmsId=SH001763580000</url>
+		<episode-num system="dd_progid">SH00176358.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220826143000 -0400" stop="20220826163000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, demi-finale 1</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220826</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350741</url>
+		<episode-num system="dd_progid">EP01969335.0741</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826163000 -0400" stop="20220826170000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le magazine de la WTA</title>
+		<desc lang="en">Le magazine de la WTA dresse un portrait d&apos;événements marquants du prestigieux circuit de tennis féminin.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19010486_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03938022&amp;tmsId=SH039380220000</url>
+		<episode-num system="dd_progid">SH03938022.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220826170000 -0400" stop="20220826173000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826173000 -0400" stop="20220826180000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">La rentrée du football universitaire RSEQ</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665404_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399768&amp;tmsId=SH043997680000</url>
+		<episode-num system="dd_progid">SH04399768.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826180000 -0400" stop="20220826200000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, demi-finale 2</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220826</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350742</url>
+		<episode-num system="dd_progid">EP01969335.0742</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826200000 -0400" stop="20220826230000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Baseball MLB</title>
+		<sub-title lang="en">Padres de San Diego c. Royals de Kansas City</sub-title>
+		<desc lang="en">Le baseball des ligues majeures.</desc>
+		<date>20220827</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21157761_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00428973&amp;tmsId=EP004289732884</url>
+		<episode-num system="dd_progid">EP00428973.2884</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826230000 -0400" stop="20220827000000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Lutte WWE: Raw</title>
+		<desc lang="en">Matchs de lutte professionnelle.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p434327_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00176358&amp;tmsId=SH001763580000</url>
+		<episode-num system="dd_progid">SH00176358.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220827000000 -0400" stop="20220827020000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, demi-finale 1</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220826</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350741</url>
+		<episode-num system="dd_progid">EP01969335.0741</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827020000 -0400" stop="20220827040000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, demi-finale 2</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220826</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350742</url>
+		<episode-num system="dd_progid">EP01969335.0742</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827040000 -0400" stop="20220827043000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">La rentrée du football universitaire RSEQ</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665404_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399768&amp;tmsId=SH043997680000</url>
+		<episode-num system="dd_progid">SH04399768.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827043000 -0400" stop="20220827050000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060019</url>
+		<episode-num system="common">S01E19</episode-num>
+		<episode-num system="dd_progid">EP04272506.0019</episode-num>
+		<episode-num system="xmltv_ns">0.18.</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827050000 -0400" stop="20220827053000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Les pros</title>
+		<desc lang="en">Les meilleurs golfeurs du Québec et du Canada s&apos;affrontent dans des compétitions de haut niveau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18760269_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03609418&amp;tmsId=EP036094180018</url>
+		<episode-num system="common">S03E05</episode-num>
+		<episode-num system="dd_progid">EP03609418.0018</episode-num>
+		<episode-num system="xmltv_ns">2.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827053000 -0400" stop="20220827060000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Golf mag</title>
+		<desc lang="en">Magazine sur le golf.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p394676_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00257439&amp;tmsId=EP002574390138</url>
+		<episode-num system="common">S11E07</episode-num>
+		<episode-num system="dd_progid">EP00257439.0138</episode-num>
+		<episode-num system="xmltv_ns">10.6.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220827060000 -0400" stop="20220827063000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Le guide de l&apos;auto</title>
+		<desc lang="en">Antoine et Gabriel mettent à l&apos;essai le Toyota bZ4X 2023, 100 % électrique; on se déplace également du côté de la Californie pour un premier tour d&apos;horizon du GMC Sierra AT4X; Mathieu nous propose un cours d&apos;électricité 101.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22422404_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04347712&amp;tmsId=EP043477120010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP04347712.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220827063000 -0400" stop="20220827070000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">L&apos;académie du guide de l&apos;auto</title>
+		<desc lang="en">Sabrina Cournoyer et Félix-Antoine Tremblay se livrent un duel enlevant à bord de la foudroyante Polestar 1.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20886071_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03475330&amp;tmsId=EP034753300020</url>
+		<episode-num system="common">S02E10</episode-num>
+		<episode-num system="dd_progid">EP03475330.0020</episode-num>
+		<episode-num system="xmltv_ns">1.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220827070000 -0400" stop="20220827073000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Roulez au suivant</title>
+		<desc lang="en">On redonne une seconde vie à une voiture abandonnée ou mal entretenue en mettant en lumière différents métiers de l&apos;automobile afin de prouver qu&apos;il est écologiquement et économiquement viable d&apos;entretenir plutôt que de remplacer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20398288_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03945420&amp;tmsId=EP039454200010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP03945420.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220827073000 -0400" stop="20220827080000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Air: Volaria</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665188_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399720&amp;tmsId=EP043997200001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04399720.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827080000 -0400" stop="20220827083000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">La rentrée du football universitaire RSEQ</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665404_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399768&amp;tmsId=SH043997680000</url>
+		<episode-num system="dd_progid">SH04399768.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827083000 -0400" stop="20220827090000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Jeux de la semaine MLB</title>
+		<desc lang="en">Une présentation des matchs de la Ligue majeure de baseball.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22009227_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272506&amp;tmsId=EP042725060019</url>
+		<episode-num system="common">S01E19</episode-num>
+		<episode-num system="dd_progid">EP04272506.0019</episode-num>
+		<episode-num system="xmltv_ns">0.18.</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827090000 -0400" stop="20220827093000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Alexis le randonneur</title>
+		<desc lang="en">Alexis est de retour en Matawinie dans Lanaudière où il visite le plus vieux parc régional de la région, celui des Sept-Chutes; un parc de montagnes qui offre des points de vue spectaculaires à répétition.</desc>
+		<date>20220827</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17021310_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03246218&amp;tmsId=EP032462180028</url>
+		<episode-num system="common">S03E08</episode-num>
+		<episode-num system="dd_progid">EP03246218.0028</episode-num>
+		<episode-num system="xmltv_ns">2.7.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827093000 -0400" stop="20220827100000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">VeloVelo</title>
+		<desc lang="en">En plus de nous permettre de découvrir des coins magnifiques de la belle province, on suit lors d&apos;une journée un passionné de vélo qui nous entraine à la découverte de son bolide et de sa routine d&apos;entrainement.</desc>
+		<date>20220827</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20254308_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03922835&amp;tmsId=EP039228350017</url>
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="dd_progid">EP03922835.0017</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827100000 -0400" stop="20220827103000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Born to Hunt, un mode de vie</title>
+		<desc lang="en">Une série télévisée qui emmène les téléspectateurs dans des aventures impromptues et pleines d&apos;adrénaline avec quatre personnages fascinants.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13742363_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02607686&amp;tmsId=EP026076860074</url>
+		<episode-num system="common">S06E08</episode-num>
+		<episode-num system="dd_progid">EP02607686.0074</episode-num>
+		<episode-num system="xmltv_ns">5.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220827103000 -0400" stop="20220827110000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Sortez, golfez</title>
+		<sub-title lang="en">Notre été de golf!</sub-title>
+		<desc lang="en">Les événements de golf ont été nombreux cet été; du golf en famille, aux compétitions, en passant par le golf récréatif, cet été, les Québécois jouent au golf.</desc>
+		<date>20220827</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20486747_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03963564&amp;tmsId=EP039635640012</url>
+		<episode-num system="common">S02E08</episode-num>
+		<episode-num system="dd_progid">EP03963564.0012</episode-num>
+		<episode-num system="xmltv_ns">1.7.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827110000 -0400" stop="20220827130000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Tennis WTA</title>
+		<sub-title lang="en">Tournoi WTA de Granby, demi-finale 2</sub-title>
+		<desc lang="en">From Club de Tennis des Loisirs de Granby in Granby, Québec.</desc>
+		<date>20220826</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p986279_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01969335&amp;tmsId=EP019693350742</url>
+		<episode-num system="dd_progid">EP01969335.0742</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827130000 -0400" stop="20220827133000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">La rentrée du football universitaire RSEQ</title>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22665404_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04399768&amp;tmsId=SH043997680000</url>
+		<episode-num system="dd_progid">SH04399768.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827133000 -0400" stop="20220827140000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Avant-match RSEQ</title>
+		<desc lang="en">Football universitaire québécois.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14383038_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02743684&amp;tmsId=SH027436840000</url>
+		<episode-num system="dd_progid">SH02743684.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827140000 -0400" stop="20220827173000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Football universitaire</title>
+		<sub-title lang="en">Montréal c. Concordia</sub-title>
+		<date>20220827</date>
+		<category lang="en">Sports</category>
+		<category lang="en">Series</category>
+		<length units="minutes">210</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p191284_b_v9_ss.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168679&amp;tmsId=EP001686790272</url>
+		<episode-num system="dd_progid">EP00168679.0272</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827173000 -0400" stop="20220827190000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Lutte WWE: Raw</title>
+		<desc lang="en">Matchs de lutte professionnelle.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p434327_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00176358&amp;tmsId=SH001763580000</url>
+		<episode-num system="dd_progid">SH00176358.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220827190000 -0400" stop="20220827200000 -0400" channel="ICA| TVA SPORTS HD.73142.zap2it.com">
+		<title lang="en">Avant-match CF Montréal</title>
+		<desc lang="en">En compagnie de Frédérique Guay, Vincent Destouches, Fred Lord et Patrice Bernier, on suit l&apos;avant-match du CF Montréal; ensemble, on met la table pour le match.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19739632_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03818931&amp;tmsId=SH038189310000</url>
+		<episode-num system="dd_progid">SH03818931.0000</episode-num>
+		<new />
 		<subtitles type="teletext" />
 	</programme>
 </tv>
