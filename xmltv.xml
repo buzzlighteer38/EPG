@@ -8,10 +8,10 @@
 		<display-name>AMI TV HD</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/78791/s78791_h3_aa.png" />
 	</channel>
-	<channel id="IAMI-TELE HD.91112.zap2it.com">
+	<channel id="ICA| AMI-TELE HD.91112.zap2it.com">
 		<display-name>AMITELH</display-name>
-		<display-name>AMI-TELE HD AMITELH</display-name>
-		<display-name>AMI-TELE HD</display-name>
+		<display-name>CA| AMI-TELE HD AMITELH</display-name>
+		<display-name>CA| AMI-TELE HD</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/91112/s91112_h3_aa.png" />
 	</channel>
 	<programme start="20220820130000 -0400" stop="20220820140000 -0400" channel="IAMI TV HD.78791.zap2it.com">
@@ -2942,7 +2942,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820130000 -0400" stop="20220820150000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820130000 -0400" stop="20220820150000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">L&apos;amour à mort</title>
 		<sub-title lang="en">Movie (1984)</sub-title>
 		<desc lang="en">Déclaré mort, puis revenu à la vie, un homme est déchiré entre sa passion pour une femme et son désir de retourner là-bas.</desc>
@@ -2957,7 +2957,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220820150000 -0400" stop="20220820160000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820150000 -0400" stop="20220820160000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -2973,7 +2973,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220820160000 -0400" stop="20220820163000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820160000 -0400" stop="20220820163000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -2988,7 +2988,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820163000 -0400" stop="20220820170000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820163000 -0400" stop="20220820170000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Snood au Centre Gingras-Lindsay</sub-title>
 		<desc lang="en">Snood est un Labernois formé par Mira; c&apos;est un chien de réhabilitation, qui sert à la réadaptation de patients vivant avec des troubles de la motricité; il s&apos;agit en fait d&apos;un outil inscrit dans les modalités de traitement.</desc>
@@ -3002,7 +3002,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820170000 -0400" stop="20220820180000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820170000 -0400" stop="20220820180000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Vivre avec une amputation</sub-title>
 		<desc lang="en">Décider de procéder à une amputation peut améliorer la qualité de vie; aussi, cuisiner avec un jeune handicapé visuel, obtenir son permis de conduire et Jennifer Maccarone, maman engagée et députée sensible.</desc>
@@ -3019,7 +3019,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220820180000 -0400" stop="20220820190000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820180000 -0400" stop="20220820190000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -3030,7 +3030,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820190000 -0400" stop="20220820200000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820190000 -0400" stop="20220820200000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">La faille</title>
 		<sub-title lang="en">À l&apos;écoute (2e partie)</sub-title>
 		<desc lang="en">Une nouvelle disparition inquiète la police: contrairement à son habitude, Dave n&apos;est pas rentré travailler.</desc>
@@ -3044,7 +3044,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820200000 -0400" stop="20220820220000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820200000 -0400" stop="20220820220000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Lanester</title>
 		<sub-title lang="en">À la vue à la mort</sub-title>
 		<desc lang="en">Le commandant de police Lanester, devenu brutalement aveugle, traque un tueur en série d&apos;une rare cruauté, avec l&apos;aide inattendue d&apos;une jeune femme.</desc>
@@ -3061,7 +3061,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220820220000 -0400" stop="20220820230000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820220000 -0400" stop="20220820230000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Alerte Amber</title>
 		<sub-title lang="en">Le camionneur</sub-title>
 		<desc lang="en">L&apos;Escouade tente de démêler les fils alors que les parents décident de chercher leurs fils; cachés, Logan et Éliot sont enfin à l&apos;abri des dangers leur laissant ainsi le temps de comprendre ce qui leur arrive; on rend un dernier hommage à Rico.</desc>
@@ -3075,7 +3075,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820230000 -0400" stop="20220820233000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820230000 -0400" stop="20220820233000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">Donner au suivant</sub-title>
 		<desc lang="en">Martin redémarre sa fondation afin d&apos;organiser un quille-o-thon; David va à la rencontre d&apos;une jeune entrepreneure qu&apos;il a mentorée; Pascal partage ses connaissances à de jeunes joueurs de basketball.</desc>
@@ -3090,7 +3090,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820233000 -0400" stop="20220821000000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220820233000 -0400" stop="20220821000000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">En route vers les Îles</sub-title>
 		<desc lang="en">Yves et Maks prennent la route en direction de l&apos;Est canadien; sur le traversier qui relie l&apos;ile du Prince-Édouard aux Iles de la Madeleine, ils rencontrent le capitaine et le chef cuisinier du navire qui fait goûter des plats locaux servis à bord.</desc>
@@ -3107,7 +3107,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821000000 -0400" stop="20220821030000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821000000 -0400" stop="20220821030000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">La grande évasion</title>
 		<sub-title lang="en">Movie (1963)</sub-title>
 		<desc lang="en">Durant la Seconde Guerre mondiale, des officiers alliés sont prisonniers dans un stalag; 75 d&apos;entre eux parviennent à s&apos;échapper.</desc>
@@ -3122,7 +3122,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821030000 -0400" stop="20220821040000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821030000 -0400" stop="20220821040000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Tirer sa révérence</sub-title>
 		<desc lang="en">Quand doit-on tirer sa révérence; Jonathan Vermette, Lyne Tremblay et Yves Bourque, trois formidables paralympiens, se demandent si le moment de la retraite est venu ou non.</desc>
@@ -3137,7 +3137,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821040000 -0400" stop="20220821050000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821040000 -0400" stop="20220821050000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -3148,7 +3148,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821050000 -0400" stop="20220821053000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821050000 -0400" stop="20220821053000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Faire bouger les enfants, cardio et judo</sub-title>
 		<desc lang="en">Des idées pour faire bouger les enfants, on découvre l&apos;Association Le Coeur et Les Jambes, des exercices pour améliorer le cardio et Yves s&apos;initie au judo.</desc>
@@ -3165,7 +3165,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821053000 -0400" stop="20220821060000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821053000 -0400" stop="20220821060000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">Donner au suivant</sub-title>
 		<desc lang="en">Martin redémarre sa fondation afin d&apos;organiser un quille-o-thon; David va à la rencontre d&apos;une jeune entrepreneure qu&apos;il a mentorée; Pascal partage ses connaissances à de jeunes joueurs de basketball.</desc>
@@ -3180,7 +3180,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -3196,7 +3196,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821070000 -0400" stop="20220821080000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821070000 -0400" stop="20220821080000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Tirer sa révérence</sub-title>
 		<desc lang="en">Quand doit-on tirer sa révérence; Jonathan Vermette, Lyne Tremblay et Yves Bourque, trois formidables paralympiens, se demandent si le moment de la retraite est venu ou non.</desc>
@@ -3211,7 +3211,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821080000 -0400" stop="20220821083000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821080000 -0400" stop="20220821083000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -3229,7 +3229,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821083000 -0400" stop="20220821090000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821083000 -0400" stop="20220821090000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">Donner au suivant</sub-title>
 		<desc lang="en">Martin redémarre sa fondation afin d&apos;organiser un quille-o-thon; David va à la rencontre d&apos;une jeune entrepreneure qu&apos;il a mentorée; Pascal partage ses connaissances à de jeunes joueurs de basketball.</desc>
@@ -3244,7 +3244,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821090000 -0400" stop="20220821100000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821090000 -0400" stop="20220821100000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -3255,7 +3255,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821100000 -0400" stop="20220821120000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821100000 -0400" stop="20220821120000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Lanester</title>
 		<sub-title lang="en">À la vue à la mort</sub-title>
 		<desc lang="en">Le commandant de police Lanester, devenu brutalement aveugle, traque un tueur en série d&apos;une rare cruauté, avec l&apos;aide inattendue d&apos;une jeune femme.</desc>
@@ -3272,7 +3272,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821120000 -0400" stop="20220821130000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821120000 -0400" stop="20220821130000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Vivre avec une amputation</sub-title>
 		<desc lang="en">Décider de procéder à une amputation peut améliorer la qualité de vie; aussi, cuisiner avec un jeune handicapé visuel, obtenir son permis de conduire et Jennifer Maccarone, maman engagée et députée sensible.</desc>
@@ -3289,7 +3289,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821130000 -0400" stop="20220821160000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821130000 -0400" stop="20220821160000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">La grande évasion</title>
 		<sub-title lang="en">Movie (1963)</sub-title>
 		<desc lang="en">Durant la Seconde Guerre mondiale, des officiers alliés sont prisonniers dans un stalag; 75 d&apos;entre eux parviennent à s&apos;échapper.</desc>
@@ -3304,7 +3304,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821160000 -0400" stop="20220821163000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821160000 -0400" stop="20220821163000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">Donner au suivant</sub-title>
 		<desc lang="en">Martin redémarre sa fondation afin d&apos;organiser un quille-o-thon; David va à la rencontre d&apos;une jeune entrepreneure qu&apos;il a mentorée; Pascal partage ses connaissances à de jeunes joueurs de basketball.</desc>
@@ -3319,7 +3319,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821163000 -0400" stop="20220821170000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821163000 -0400" stop="20220821170000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">En route vers les Îles</sub-title>
 		<desc lang="en">Yves et Maks prennent la route en direction de l&apos;Est canadien; sur le traversier qui relie l&apos;ile du Prince-Édouard aux Iles de la Madeleine, ils rencontrent le capitaine et le chef cuisinier du navire qui fait goûter des plats locaux servis à bord.</desc>
@@ -3336,7 +3336,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821170000 -0400" stop="20220821180000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821170000 -0400" stop="20220821180000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -3352,7 +3352,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821180000 -0400" stop="20220821190000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821180000 -0400" stop="20220821190000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Alerte Amber</title>
 		<sub-title lang="en">Le camionneur</sub-title>
 		<desc lang="en">L&apos;Escouade tente de démêler les fils alors que les parents décident de chercher leurs fils; cachés, Logan et Éliot sont enfin à l&apos;abri des dangers leur laissant ainsi le temps de comprendre ce qui leur arrive; on rend un dernier hommage à Rico.</desc>
@@ -3366,7 +3366,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821190000 -0400" stop="20220821200000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821190000 -0400" stop="20220821200000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Plus vite! À la recherche du temps</title>
 		<sub-title lang="en">Le four à micro-ondes</sub-title>
 		<desc lang="en">Découvert par hasard en 1946, le four à micro-ondes a révolutionné les cuisines et est aujourd&apos;hui l&apos;un des appareils ménagers les plus omniprésents au monde, mais ce dernier sert bien plus qu&apos;à faire éclater du maïs soufflé.</desc>
@@ -3380,7 +3380,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821200000 -0400" stop="20220821230000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821200000 -0400" stop="20220821230000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">La grande évasion</title>
 		<sub-title lang="en">Movie (1963)</sub-title>
 		<desc lang="en">Durant la Seconde Guerre mondiale, des officiers alliés sont prisonniers dans un stalag; 75 d&apos;entre eux parviennent à s&apos;échapper.</desc>
@@ -3395,7 +3395,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821230000 -0400" stop="20220822000000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220821230000 -0400" stop="20220822000000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">La faille</title>
 		<sub-title lang="en">À l&apos;écoute (2e partie)</sub-title>
 		<desc lang="en">Une nouvelle disparition inquiète la police: contrairement à son habitude, Dave n&apos;est pas rentré travailler.</desc>
@@ -3409,7 +3409,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822000000 -0400" stop="20220822020000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822000000 -0400" stop="20220822020000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Lanester</title>
 		<sub-title lang="en">À la vue à la mort</sub-title>
 		<desc lang="en">Le commandant de police Lanester, devenu brutalement aveugle, traque un tueur en série d&apos;une rare cruauté, avec l&apos;aide inattendue d&apos;une jeune femme.</desc>
@@ -3426,7 +3426,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822020000 -0400" stop="20220822023000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822020000 -0400" stop="20220822023000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">En route vers les Îles</sub-title>
 		<desc lang="en">Yves et Maks prennent la route en direction de l&apos;Est canadien; sur le traversier qui relie l&apos;ile du Prince-Édouard aux Iles de la Madeleine, ils rencontrent le capitaine et le chef cuisinier du navire qui fait goûter des plats locaux servis à bord.</desc>
@@ -3443,7 +3443,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822023000 -0400" stop="20220822030000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822023000 -0400" stop="20220822030000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -3458,7 +3458,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822030000 -0400" stop="20220822040000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822030000 -0400" stop="20220822040000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -3474,7 +3474,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822040000 -0400" stop="20220822043000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822040000 -0400" stop="20220822043000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -3492,7 +3492,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822043000 -0400" stop="20220822050000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822043000 -0400" stop="20220822050000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Snood au Centre Gingras-Lindsay</sub-title>
 		<desc lang="en">Snood est un Labernois formé par Mira; c&apos;est un chien de réhabilitation, qui sert à la réadaptation de patients vivant avec des troubles de la motricité; il s&apos;agit en fait d&apos;un outil inscrit dans les modalités de traitement.</desc>
@@ -3506,7 +3506,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822050000 -0400" stop="20220822060000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822050000 -0400" stop="20220822060000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Plus vite! À la recherche du temps</title>
 		<sub-title lang="en">Le four à micro-ondes</sub-title>
 		<desc lang="en">Découvert par hasard en 1946, le four à micro-ondes a révolutionné les cuisines et est aujourd&apos;hui l&apos;un des appareils ménagers les plus omniprésents au monde, mais ce dernier sert bien plus qu&apos;à faire éclater du maïs soufflé.</desc>
@@ -3520,7 +3520,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822060000 -0400" stop="20220822063000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822060000 -0400" stop="20220822063000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">En route vers les Îles</sub-title>
 		<desc lang="en">Yves et Maks prennent la route en direction de l&apos;Est canadien; sur le traversier qui relie l&apos;ile du Prince-Édouard aux Iles de la Madeleine, ils rencontrent le capitaine et le chef cuisinier du navire qui fait goûter des plats locaux servis à bord.</desc>
@@ -3537,7 +3537,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822063000 -0400" stop="20220822070000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822063000 -0400" stop="20220822070000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Faire bouger les enfants, cardio et judo</sub-title>
 		<desc lang="en">Des idées pour faire bouger les enfants, on découvre l&apos;Association Le Coeur et Les Jambes, des exercices pour améliorer le cardio et Yves s&apos;initie au judo.</desc>
@@ -3554,7 +3554,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -3565,7 +3565,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822080000 -0400" stop="20220822083000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822080000 -0400" stop="20220822083000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">La sangle abdominale</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -3582,7 +3582,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822083000 -0400" stop="20220822090000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822083000 -0400" stop="20220822090000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Sans gluten</sub-title>
 		<desc lang="en">Gâteau aux carottes et aux ananas, ainsi qu&apos;une pizza chèvre et figues sont au menu; Bob doit étaler la pâte à pizza et la garnir les yeux bandés; l&apos;astuce du jour nous montre comment faire du guacamole.</desc>
@@ -3599,7 +3599,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822090000 -0400" stop="20220822100000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822090000 -0400" stop="20220822100000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Tirer sa révérence</sub-title>
 		<desc lang="en">Quand doit-on tirer sa révérence; Jonathan Vermette, Lyne Tremblay et Yves Bourque, trois formidables paralympiens, se demandent si le moment de la retraite est venu ou non.</desc>
@@ -3614,7 +3614,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La recrue</sub-title>
 		<desc lang="en">Une recrue est transférée au QG de la CIA.</desc>
@@ -3629,7 +3629,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822110000 -0400" stop="20220822120000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822110000 -0400" stop="20220822120000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Vivre avec une amputation</sub-title>
 		<desc lang="en">Décider de procéder à une amputation peut améliorer la qualité de vie; aussi, cuisiner avec un jeune handicapé visuel, obtenir son permis de conduire et Jennifer Maccarone, maman engagée et députée sensible.</desc>
@@ -3646,7 +3646,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822120000 -0400" stop="20220822130000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822120000 -0400" stop="20220822130000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -3662,7 +3662,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822130000 -0400" stop="20220822140000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822130000 -0400" stop="20220822140000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -3673,7 +3673,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822140000 -0400" stop="20220822143000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822140000 -0400" stop="20220822143000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">Donner au suivant</sub-title>
 		<desc lang="en">Martin redémarre sa fondation afin d&apos;organiser un quille-o-thon; David va à la rencontre d&apos;une jeune entrepreneure qu&apos;il a mentorée; Pascal partage ses connaissances à de jeunes joueurs de basketball.</desc>
@@ -3688,7 +3688,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822143000 -0400" stop="20220822150000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822143000 -0400" stop="20220822150000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -3706,7 +3706,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822150000 -0400" stop="20220822153000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822150000 -0400" stop="20220822153000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Snood au Centre Gingras-Lindsay</sub-title>
 		<desc lang="en">Snood est un Labernois formé par Mira; c&apos;est un chien de réhabilitation, qui sert à la réadaptation de patients vivant avec des troubles de la motricité; il s&apos;agit en fait d&apos;un outil inscrit dans les modalités de traitement.</desc>
@@ -3720,7 +3720,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822153000 -0400" stop="20220822160000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822153000 -0400" stop="20220822160000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -3735,7 +3735,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822160000 -0400" stop="20220822163000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822160000 -0400" stop="20220822163000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">La sangle abdominale</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -3752,7 +3752,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822163000 -0400" stop="20220822170000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822163000 -0400" stop="20220822170000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Sans gluten</sub-title>
 		<desc lang="en">Gâteau aux carottes et aux ananas, ainsi qu&apos;une pizza chèvre et figues sont au menu; Bob doit étaler la pâte à pizza et la garnir les yeux bandés; l&apos;astuce du jour nous montre comment faire du guacamole.</desc>
@@ -3769,7 +3769,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822170000 -0400" stop="20220822180000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822170000 -0400" stop="20220822180000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Tirer sa révérence</sub-title>
 		<desc lang="en">Quand doit-on tirer sa révérence; Jonathan Vermette, Lyne Tremblay et Yves Bourque, trois formidables paralympiens, se demandent si le moment de la retraite est venu ou non.</desc>
@@ -3784,7 +3784,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822180000 -0400" stop="20220822190000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822180000 -0400" stop="20220822190000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -3801,7 +3801,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La recrue</sub-title>
 		<desc lang="en">Une recrue est transférée au QG de la CIA.</desc>
@@ -3816,7 +3816,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822200000 -0400" stop="20220822203000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822200000 -0400" stop="20220822203000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -3831,7 +3831,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822203000 -0400" stop="20220822210000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822203000 -0400" stop="20220822210000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -3845,7 +3845,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">La faille</title>
 		<sub-title lang="en">Les Chinois</sub-title>
 		<desc lang="en">Céline et Alex démasquent enfin le Chinois de Justine; un nouveau cadavre est découvert et Céline comprend qui est le tueur.</desc>
@@ -3860,7 +3860,7 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822220000 -0400" stop="20220822223000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822220000 -0400" stop="20220822223000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">En route vers les Îles</sub-title>
 		<desc lang="en">Yves et Maks prennent la route en direction de l&apos;Est canadien; sur le traversier qui relie l&apos;ile du Prince-Édouard aux Iles de la Madeleine, ils rencontrent le capitaine et le chef cuisinier du navire qui fait goûter des plats locaux servis à bord.</desc>
@@ -3877,7 +3877,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822223000 -0400" stop="20220822230000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822223000 -0400" stop="20220822230000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Faire bouger les enfants, cardio et judo</sub-title>
 		<desc lang="en">Des idées pour faire bouger les enfants, on découvre l&apos;Association Le Coeur et Les Jambes, des exercices pour améliorer le cardio et Yves s&apos;initie au judo.</desc>
@@ -3894,7 +3894,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822230000 -0400" stop="20220822233000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822230000 -0400" stop="20220822233000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -3909,7 +3909,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822233000 -0400" stop="20220823000000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220822233000 -0400" stop="20220823000000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -3927,7 +3927,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823000000 -0400" stop="20220823010000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823000000 -0400" stop="20220823010000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La recrue</sub-title>
 		<desc lang="en">Une recrue est transférée au QG de la CIA.</desc>
@@ -3942,7 +3942,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823010000 -0400" stop="20220823020000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823010000 -0400" stop="20220823020000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Tirer sa révérence</sub-title>
 		<desc lang="en">Quand doit-on tirer sa révérence; Jonathan Vermette, Lyne Tremblay et Yves Bourque, trois formidables paralympiens, se demandent si le moment de la retraite est venu ou non.</desc>
@@ -3957,7 +3957,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823020000 -0400" stop="20220823030000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823020000 -0400" stop="20220823030000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -3973,7 +3973,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823030000 -0400" stop="20220823033000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823030000 -0400" stop="20220823033000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Sans gluten</sub-title>
 		<desc lang="en">Gâteau aux carottes et aux ananas, ainsi qu&apos;une pizza chèvre et figues sont au menu; Bob doit étaler la pâte à pizza et la garnir les yeux bandés; l&apos;astuce du jour nous montre comment faire du guacamole.</desc>
@@ -3990,7 +3990,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823033000 -0400" stop="20220823040000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823033000 -0400" stop="20220823040000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">La sangle abdominale</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -4007,7 +4007,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823040000 -0400" stop="20220823050000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823040000 -0400" stop="20220823050000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -4024,7 +4024,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823050000 -0400" stop="20220823053000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823050000 -0400" stop="20220823053000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -4039,7 +4039,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823053000 -0400" stop="20220823060000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823053000 -0400" stop="20220823060000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">En route vers les Îles</sub-title>
 		<desc lang="en">Yves et Maks prennent la route en direction de l&apos;Est canadien; sur le traversier qui relie l&apos;ile du Prince-Édouard aux Iles de la Madeleine, ils rencontrent le capitaine et le chef cuisinier du navire qui fait goûter des plats locaux servis à bord.</desc>
@@ -4056,7 +4056,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -4072,7 +4072,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Tirer sa révérence</sub-title>
 		<desc lang="en">Quand doit-on tirer sa révérence; Jonathan Vermette, Lyne Tremblay et Yves Bourque, trois formidables paralympiens, se demandent si le moment de la retraite est venu ou non.</desc>
@@ -4087,7 +4087,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823080000 -0400" stop="20220823083000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823080000 -0400" stop="20220823083000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">Éveiller le corps entier</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -4104,7 +4104,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823083000 -0400" stop="20220823090000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823083000 -0400" stop="20220823090000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Boîte à lunch</sub-title>
 		<desc lang="en">Bob et Véronique préparent une salade printanière avec tortilla croustillante et des grignotines de pois chiches grillés; Bob coupe les endives lors du défi à l&apos;aveugle; l&apos;astuce du jour propose différentes coupes de légumes et leur utilisation.</desc>
@@ -4121,7 +4121,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823090000 -0400" stop="20220823100000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823090000 -0400" stop="20220823100000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -4132,7 +4132,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823100000 -0400" stop="20220823110000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823100000 -0400" stop="20220823110000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La recrue</sub-title>
 		<desc lang="en">Une recrue est transférée au QG de la CIA.</desc>
@@ -4147,7 +4147,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823110000 -0400" stop="20220823113000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823110000 -0400" stop="20220823113000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">La sangle abdominale</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -4164,7 +4164,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823113000 -0400" stop="20220823120000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823113000 -0400" stop="20220823120000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Sans gluten</sub-title>
 		<desc lang="en">Gâteau aux carottes et aux ananas, ainsi qu&apos;une pizza chèvre et figues sont au menu; Bob doit étaler la pâte à pizza et la garnir les yeux bandés; l&apos;astuce du jour nous montre comment faire du guacamole.</desc>
@@ -4181,7 +4181,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823120000 -0400" stop="20220823123000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823120000 -0400" stop="20220823123000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -4196,7 +4196,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823123000 -0400" stop="20220823130000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823123000 -0400" stop="20220823130000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -4211,7 +4211,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823130000 -0400" stop="20220823140000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823130000 -0400" stop="20220823140000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Plus vite! À la recherche du temps</title>
 		<sub-title lang="en">Le four à micro-ondes</sub-title>
 		<desc lang="en">Découvert par hasard en 1946, le four à micro-ondes a révolutionné les cuisines et est aujourd&apos;hui l&apos;un des appareils ménagers les plus omniprésents au monde, mais ce dernier sert bien plus qu&apos;à faire éclater du maïs soufflé.</desc>
@@ -4225,7 +4225,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823140000 -0400" stop="20220823150000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823140000 -0400" stop="20220823150000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -4242,7 +4242,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -4258,7 +4258,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823160000 -0400" stop="20220823163000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823160000 -0400" stop="20220823163000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">Éveiller le corps entier</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -4275,7 +4275,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823163000 -0400" stop="20220823170000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823163000 -0400" stop="20220823170000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Boîte à lunch</sub-title>
 		<desc lang="en">Bob et Véronique préparent une salade printanière avec tortilla croustillante et des grignotines de pois chiches grillés; Bob coupe les endives lors du défi à l&apos;aveugle; l&apos;astuce du jour propose différentes coupes de légumes et leur utilisation.</desc>
@@ -4292,7 +4292,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823170000 -0400" stop="20220823173000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823170000 -0400" stop="20220823173000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -4306,7 +4306,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823173000 -0400" stop="20220823180000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823173000 -0400" stop="20220823180000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -4324,7 +4324,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823180000 -0400" stop="20220823183000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823180000 -0400" stop="20220823183000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">Des Madelinots passionnés</sub-title>
 		<desc lang="en">Toujours sur les routes des Iles de la Madeleine, les compagnons font une petite virée au Fumoir d&apos;antan, un établissement mythique reconnu pour l&apos;immense variété de produits fumés.</desc>
@@ -4341,7 +4341,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823183000 -0400" stop="20220823190000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823183000 -0400" stop="20220823190000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -4358,7 +4358,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823190000 -0400" stop="20220823200000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823190000 -0400" stop="20220823200000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La recrue</sub-title>
 		<desc lang="en">Une recrue est transférée au QG de la CIA.</desc>
@@ -4373,7 +4373,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823200000 -0400" stop="20220823210000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823200000 -0400" stop="20220823210000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Et après... la vraie vie</sub-title>
 		<desc lang="en">Quelle carrière nous attend, lorsqu&apos;on a consacré une bonne partie de sa vie au sport de haut niveau; des athlètes paralympiques nous entrainent sur le sinueux chemin de la réorientation.</desc>
@@ -4388,7 +4388,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823210000 -0400" stop="20220823220000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823210000 -0400" stop="20220823220000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Alerte Amber</title>
 		<sub-title lang="en">Le jardinier</sub-title>
 		<desc lang="en">De peur d&apos;être retracés, Logan et Éliot doivent quitter la maison précipitamment; l&apos;escouade, Valérie et Jonathan arrivent malheureusement trop tard; Gilbert offre une récompense de 20 000$ à quiconque pouvant ramener ses petits-fils.</desc>
@@ -4402,7 +4402,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823220000 -0400" stop="20220823223000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823220000 -0400" stop="20220823223000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -4417,7 +4417,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823223000 -0400" stop="20220823230000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823223000 -0400" stop="20220823230000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -4431,7 +4431,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823230000 -0400" stop="20220824000000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220823230000 -0400" stop="20220824000000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -4448,7 +4448,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824000000 -0400" stop="20220824010000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824000000 -0400" stop="20220824010000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La recrue</sub-title>
 		<desc lang="en">Une recrue est transférée au QG de la CIA.</desc>
@@ -4463,7 +4463,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824010000 -0400" stop="20220824013000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824010000 -0400" stop="20220824013000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -4478,7 +4478,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824013000 -0400" stop="20220824020000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824013000 -0400" stop="20220824020000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -4496,7 +4496,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824020000 -0400" stop="20220824023000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824020000 -0400" stop="20220824023000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -4510,7 +4510,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824023000 -0400" stop="20220824030000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824023000 -0400" stop="20220824030000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -4527,7 +4527,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824030000 -0400" stop="20220824033000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824030000 -0400" stop="20220824033000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Boîte à lunch</sub-title>
 		<desc lang="en">Bob et Véronique préparent une salade printanière avec tortilla croustillante et des grignotines de pois chiches grillés; Bob coupe les endives lors du défi à l&apos;aveugle; l&apos;astuce du jour propose différentes coupes de légumes et leur utilisation.</desc>
@@ -4544,7 +4544,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824033000 -0400" stop="20220824040000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824033000 -0400" stop="20220824040000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">Éveiller le corps entier</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -4561,7 +4561,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824040000 -0400" stop="20220824050000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824040000 -0400" stop="20220824050000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -4572,7 +4572,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824050000 -0400" stop="20220824060000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824050000 -0400" stop="20220824060000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -4588,7 +4588,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824060000 -0400" stop="20220824063000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824060000 -0400" stop="20220824063000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -4603,7 +4603,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824063000 -0400" stop="20220824070000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824063000 -0400" stop="20220824070000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">Des Madelinots passionnés</sub-title>
 		<desc lang="en">Toujours sur les routes des Iles de la Madeleine, les compagnons font une petite virée au Fumoir d&apos;antan, un établissement mythique reconnu pour l&apos;immense variété de produits fumés.</desc>
@@ -4620,7 +4620,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -4637,7 +4637,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824080000 -0400" stop="20220824083000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824080000 -0400" stop="20220824083000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">Les hanches</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -4654,7 +4654,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824083000 -0400" stop="20220824090000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824083000 -0400" stop="20220824090000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Italien</sub-title>
 		<desc lang="en">Inspirés par l&apos;Italie, Bob et Véro cuisinent des fettucines carbonara et une soupe stracciatella; Véronique met Bob au défi de couper du bacon cru en petits morceaux, les yeux bandés; l&apos;astuce du jour nous montre comment réussir une sauce béchamel.</desc>
@@ -4671,7 +4671,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824090000 -0400" stop="20220824093000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824090000 -0400" stop="20220824093000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -4686,7 +4686,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824093000 -0400" stop="20220824100000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824093000 -0400" stop="20220824100000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -4704,7 +4704,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824100000 -0400" stop="20220824110000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824100000 -0400" stop="20220824110000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">Sur les ondes</sub-title>
 		<desc lang="en">Danielle souhaite confier la garde de ses filles à Annie en cas d&apos;accident; elle hésite, puis refuse; Annie récolte les témoignages de témoins spontanés, plus délirants les uns que les autres; Walter aurait capté et décodé une radio inconnue.</desc>
@@ -4721,7 +4721,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824110000 -0400" stop="20220824113000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824110000 -0400" stop="20220824113000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">Éveiller le corps entier</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -4738,7 +4738,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824113000 -0400" stop="20220824120000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824113000 -0400" stop="20220824120000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Boîte à lunch</sub-title>
 		<desc lang="en">Bob et Véronique préparent une salade printanière avec tortilla croustillante et des grignotines de pois chiches grillés; Bob coupe les endives lors du défi à l&apos;aveugle; l&apos;astuce du jour propose différentes coupes de légumes et leur utilisation.</desc>
@@ -4755,7 +4755,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824120000 -0400" stop="20220824130000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824120000 -0400" stop="20220824130000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Et après... la vraie vie</sub-title>
 		<desc lang="en">Quelle carrière nous attend, lorsqu&apos;on a consacré une bonne partie de sa vie au sport de haut niveau; des athlètes paralympiques nous entrainent sur le sinueux chemin de la réorientation.</desc>
@@ -4770,7 +4770,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824130000 -0400" stop="20220824140000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824130000 -0400" stop="20220824140000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -4786,7 +4786,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824140000 -0400" stop="20220824143000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824140000 -0400" stop="20220824143000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -4800,7 +4800,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824143000 -0400" stop="20220824150000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824143000 -0400" stop="20220824150000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -4817,7 +4817,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824150000 -0400" stop="20220824160000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824150000 -0400" stop="20220824160000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -4828,7 +4828,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824160000 -0400" stop="20220824163000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824160000 -0400" stop="20220824163000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">Les hanches</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -4845,7 +4845,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824163000 -0400" stop="20220824170000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824163000 -0400" stop="20220824170000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Italien</sub-title>
 		<desc lang="en">Inspirés par l&apos;Italie, Bob et Véro cuisinent des fettucines carbonara et une soupe stracciatella; Véronique met Bob au défi de couper du bacon cru en petits morceaux, les yeux bandés; l&apos;astuce du jour nous montre comment réussir une sauce béchamel.</desc>
@@ -4862,7 +4862,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824170000 -0400" stop="20220824180000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824170000 -0400" stop="20220824180000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -4879,7 +4879,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824180000 -0400" stop="20220824183000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824180000 -0400" stop="20220824183000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -4897,7 +4897,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824183000 -0400" stop="20220824190000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824183000 -0400" stop="20220824190000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -4912,7 +4912,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824190000 -0400" stop="20220824200000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824190000 -0400" stop="20220824200000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">Sur les ondes</sub-title>
 		<desc lang="en">Danielle souhaite confier la garde de ses filles à Annie en cas d&apos;accident; elle hésite, puis refuse; Annie récolte les témoignages de témoins spontanés, plus délirants les uns que les autres; Walter aurait capté et décodé une radio inconnue.</desc>
@@ -4929,7 +4929,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824200000 -0400" stop="20220824210000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824200000 -0400" stop="20220824210000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -4945,7 +4945,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824210000 -0400" stop="20220824220000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824210000 -0400" stop="20220824220000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Plus vite! À la recherche du temps</title>
 		<sub-title lang="en">Le four à micro-ondes</sub-title>
 		<desc lang="en">Découvert par hasard en 1946, le four à micro-ondes a révolutionné les cuisines et est aujourd&apos;hui l&apos;un des appareils ménagers les plus omniprésents au monde, mais ce dernier sert bien plus qu&apos;à faire éclater du maïs soufflé.</desc>
@@ -4959,7 +4959,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824220000 -0400" stop="20220824230000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824220000 -0400" stop="20220824230000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Et après... la vraie vie</sub-title>
 		<desc lang="en">Quelle carrière nous attend, lorsqu&apos;on a consacré une bonne partie de sa vie au sport de haut niveau; des athlètes paralympiques nous entrainent sur le sinueux chemin de la réorientation.</desc>
@@ -4974,7 +4974,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824230000 -0400" stop="20220824233000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824230000 -0400" stop="20220824233000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -4991,7 +4991,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824233000 -0400" stop="20220825000000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220824233000 -0400" stop="20220825000000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -5006,7 +5006,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825000000 -0400" stop="20220825010000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825000000 -0400" stop="20220825010000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">Sur les ondes</sub-title>
 		<desc lang="en">Danielle souhaite confier la garde de ses filles à Annie en cas d&apos;accident; elle hésite, puis refuse; Annie récolte les témoignages de témoins spontanés, plus délirants les uns que les autres; Walter aurait capté et décodé une radio inconnue.</desc>
@@ -5023,7 +5023,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825010000 -0400" stop="20220825013000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825010000 -0400" stop="20220825013000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -5037,7 +5037,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825013000 -0400" stop="20220825020000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825013000 -0400" stop="20220825020000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">Des Madelinots passionnés</sub-title>
 		<desc lang="en">Toujours sur les routes des Iles de la Madeleine, les compagnons font une petite virée au Fumoir d&apos;antan, un établissement mythique reconnu pour l&apos;immense variété de produits fumés.</desc>
@@ -5054,7 +5054,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825020000 -0400" stop="20220825030000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825020000 -0400" stop="20220825030000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -5065,7 +5065,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825030000 -0400" stop="20220825033000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825030000 -0400" stop="20220825033000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Italien</sub-title>
 		<desc lang="en">Inspirés par l&apos;Italie, Bob et Véro cuisinent des fettucines carbonara et une soupe stracciatella; Véronique met Bob au défi de couper du bacon cru en petits morceaux, les yeux bandés; l&apos;astuce du jour nous montre comment réussir une sauce béchamel.</desc>
@@ -5082,7 +5082,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825033000 -0400" stop="20220825040000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825033000 -0400" stop="20220825040000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">Les hanches</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -5099,7 +5099,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825040000 -0400" stop="20220825050000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825040000 -0400" stop="20220825050000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yamaska</title>
 		<desc lang="en">C&apos;est l&apos;heure des grandes déclarations chez les Brabant; Étienne et Rachel décident de vivre leur relation au grand jour.</desc>
 		<category lang="en">Series</category>
@@ -5115,7 +5115,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825050000 -0400" stop="20220825060000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825050000 -0400" stop="20220825060000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -5132,7 +5132,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825060000 -0400" stop="20220825070000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825060000 -0400" stop="20220825070000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -5143,7 +5143,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825070000 -0400" stop="20220825073000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825070000 -0400" stop="20220825073000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Enfants ayant un handicap visuel</sub-title>
 		<desc lang="en">Ils ont un handicap visuel, mais ça ne veut pas dire que tout est noir à leurs yeux; ils répondent à toutes nos questions avec la candeur de leur jeunesse; il ne faut surtout pas leur dire qu&apos;ils ne peuvent pas faire tout ce qu&apos;ils veulent.</desc>
@@ -5161,7 +5161,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825073000 -0400" stop="20220825080000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825073000 -0400" stop="20220825080000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -5178,7 +5178,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825080000 -0400" stop="20220825083000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825080000 -0400" stop="20220825083000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">La tête et le cou</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -5195,7 +5195,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825083000 -0400" stop="20220825090000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825083000 -0400" stop="20220825090000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Party de fête pour enfants</sub-title>
 		<desc lang="en">Roulés aux poulet et canneberges, plateau de fruits et trempette au yogourt ainsi que beignes au four sont au menu; le défi de Bob consiste à fourrer et à décorer un beigne; l&apos;astuce du jour présente des trucs pour réussir la cuisson du quinoa.</desc>
@@ -5212,7 +5212,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825090000 -0400" stop="20220825093000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825090000 -0400" stop="20220825093000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">100% passion</title>
 		<sub-title lang="en">Marcel Gauthier et le karaté</sub-title>
 		<desc lang="en">Marcel pratique le karaté depuis son tout jeune âge; en 2016, les premiers symptômes de la maladie de Parkinson font leur apparition; ce qui aurait pu devenir un frein, se révèle une force pour la poursuite de son sport.</desc>
@@ -5227,7 +5227,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825093000 -0400" stop="20220825100000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825093000 -0400" stop="20220825100000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">Des Madelinots passionnés</sub-title>
 		<desc lang="en">Toujours sur les routes des Iles de la Madeleine, les compagnons font une petite virée au Fumoir d&apos;antan, un établissement mythique reconnu pour l&apos;immense variété de produits fumés.</desc>
@@ -5244,7 +5244,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825100000 -0400" stop="20220825110000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825100000 -0400" stop="20220825110000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La Madone de la favela</sub-title>
 		<desc lang="en">Annie doit se rapprocher d&apos;une étudiante.</desc>
@@ -5261,7 +5261,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825110000 -0400" stop="20220825113000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825110000 -0400" stop="20220825113000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">Les hanches</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -5278,7 +5278,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825113000 -0400" stop="20220825120000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825113000 -0400" stop="20220825120000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Italien</sub-title>
 		<desc lang="en">Inspirés par l&apos;Italie, Bob et Véro cuisinent des fettucines carbonara et une soupe stracciatella; Véronique met Bob au défi de couper du bacon cru en petits morceaux, les yeux bandés; l&apos;astuce du jour nous montre comment réussir une sauce béchamel.</desc>
@@ -5295,7 +5295,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825120000 -0400" stop="20220825130000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825120000 -0400" stop="20220825130000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -5312,7 +5312,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825130000 -0400" stop="20220825133000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825130000 -0400" stop="20220825133000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -5326,7 +5326,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825133000 -0400" stop="20220825140000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825133000 -0400" stop="20220825140000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -5341,7 +5341,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825140000 -0400" stop="20220825150000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825140000 -0400" stop="20220825150000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -5352,7 +5352,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825150000 -0400" stop="20220825160000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825150000 -0400" stop="20220825160000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Et après... la vraie vie</sub-title>
 		<desc lang="en">Quelle carrière nous attend, lorsqu&apos;on a consacré une bonne partie de sa vie au sport de haut niveau; des athlètes paralympiques nous entrainent sur le sinueux chemin de la réorientation.</desc>
@@ -5367,7 +5367,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825160000 -0400" stop="20220825163000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825160000 -0400" stop="20220825163000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">La tête et le cou</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -5384,7 +5384,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825163000 -0400" stop="20220825170000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825163000 -0400" stop="20220825170000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Party de fête pour enfants</sub-title>
 		<desc lang="en">Roulés aux poulet et canneberges, plateau de fruits et trempette au yogourt ainsi que beignes au four sont au menu; le défi de Bob consiste à fourrer et à décorer un beigne; l&apos;astuce du jour présente des trucs pour réussir la cuisson du quinoa.</desc>
@@ -5401,7 +5401,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825170000 -0400" stop="20220825173000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825170000 -0400" stop="20220825173000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -5418,7 +5418,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825173000 -0400" stop="20220825180000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825173000 -0400" stop="20220825180000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">Des Madelinots passionnés</sub-title>
 		<desc lang="en">Toujours sur les routes des Iles de la Madeleine, les compagnons font une petite virée au Fumoir d&apos;antan, un établissement mythique reconnu pour l&apos;immense variété de produits fumés.</desc>
@@ -5435,7 +5435,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825180000 -0400" stop="20220825190000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825180000 -0400" stop="20220825190000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -5451,7 +5451,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825190000 -0400" stop="20220825200000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825190000 -0400" stop="20220825200000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La Madone de la favela</sub-title>
 		<desc lang="en">Annie doit se rapprocher d&apos;une étudiante.</desc>
@@ -5468,7 +5468,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825200000 -0400" stop="20220825203000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825200000 -0400" stop="20220825203000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Voir la musique autrement</title>
 		<sub-title lang="en">Des hommes de famille</sub-title>
 		<desc lang="en">L&apos;auteur-compositeur-interprète Lucas Henneman, originaire d&apos;Ottawa, est un chanteur et un guitariste accompli; de son côté, le pianiste Eduardo Ibarra, de Cuernavaca, au Mexique, est un musicien de jazz talentueux et un enseignant dévoué.</desc>
@@ -5483,7 +5483,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825203000 -0400" stop="20220825210000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825203000 -0400" stop="20220825210000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Frères et soeurs de personnes handicapées</sub-title>
 		<desc lang="en">Avoir un frère aveugle ou avec une déficience intellectuelle, une soeur sourde ou en fauteuil roulant, qu&apos;est-ce que ça change dans une vie; si l&apos;on se fie à leurs réponses, on peut dire que ça enrichit leur quotidien.</desc>
@@ -5501,7 +5501,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825210000 -0400" stop="20220825220000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825210000 -0400" stop="20220825220000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -5512,7 +5512,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220825220000 -0400" stop="20220825230000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825220000 -0400" stop="20220825230000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -5529,7 +5529,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220825230000 -0400" stop="20220826000000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220825230000 -0400" stop="20220826000000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">La faille</title>
 		<sub-title lang="en">Les Chinois</sub-title>
 		<desc lang="en">Céline et Alex démasquent enfin le Chinois de Justine; un nouveau cadavre est découvert et Céline comprend qui est le tueur.</desc>
@@ -5544,7 +5544,7 @@
 		<previously-shown start="20220823000000" />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826000000 -0400" stop="20220826010000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826000000 -0400" stop="20220826010000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Missions secrètes</title>
 		<sub-title lang="en">La Madone de la favela</sub-title>
 		<desc lang="en">Annie doit se rapprocher d&apos;une étudiante.</desc>
@@ -5561,7 +5561,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826010000 -0400" stop="20220826020000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826010000 -0400" stop="20220826020000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -5577,7 +5577,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826020000 -0400" stop="20220826030000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826020000 -0400" stop="20220826030000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Alerte Amber</title>
 		<sub-title lang="en">Le jardinier</sub-title>
 		<desc lang="en">De peur d&apos;être retracés, Logan et Éliot doivent quitter la maison précipitamment; l&apos;escouade, Valérie et Jonathan arrivent malheureusement trop tard; Gilbert offre une récompense de 20 000$ à quiconque pouvant ramener ses petits-fils.</desc>
@@ -5591,7 +5591,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826030000 -0400" stop="20220826033000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826030000 -0400" stop="20220826033000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Party de fête pour enfants</sub-title>
 		<desc lang="en">Roulés aux poulet et canneberges, plateau de fruits et trempette au yogourt ainsi que beignes au four sont au menu; le défi de Bob consiste à fourrer et à décorer un beigne; l&apos;astuce du jour présente des trucs pour réussir la cuisson du quinoa.</desc>
@@ -5608,7 +5608,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826033000 -0400" stop="20220826040000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826033000 -0400" stop="20220826040000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">La tête et le cou</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -5625,7 +5625,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826040000 -0400" stop="20220826050000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826040000 -0400" stop="20220826050000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Et après... la vraie vie</sub-title>
 		<desc lang="en">Quelle carrière nous attend, lorsqu&apos;on a consacré une bonne partie de sa vie au sport de haut niveau; des athlètes paralympiques nous entrainent sur le sinueux chemin de la réorientation.</desc>
@@ -5640,7 +5640,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826050000 -0400" stop="20220826053000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826050000 -0400" stop="20220826053000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Frères et soeurs de personnes handicapées</sub-title>
 		<desc lang="en">Avoir un frère aveugle ou avec une déficience intellectuelle, une soeur sourde ou en fauteuil roulant, qu&apos;est-ce que ça change dans une vie; si l&apos;on se fie à leurs réponses, on peut dire que ça enrichit leur quotidien.</desc>
@@ -5658,7 +5658,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826053000 -0400" stop="20220826060000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826053000 -0400" stop="20220826060000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Voir la musique autrement</title>
 		<sub-title lang="en">Des hommes de famille</sub-title>
 		<desc lang="en">L&apos;auteur-compositeur-interprète Lucas Henneman, originaire d&apos;Ottawa, est un chanteur et un guitariste accompli; de son côté, le pianiste Eduardo Ibarra, de Cuernavaca, au Mexique, est un musicien de jazz talentueux et un enseignant dévoué.</desc>
@@ -5673,7 +5673,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826060000 -0400" stop="20220826063000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826060000 -0400" stop="20220826063000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -5690,7 +5690,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826063000 -0400" stop="20220826070000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826063000 -0400" stop="20220826070000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Voir la musique autrement</title>
 		<sub-title lang="en">Des hommes de famille</sub-title>
 		<desc lang="en">L&apos;auteur-compositeur-interprète Lucas Henneman, originaire d&apos;Ottawa, est un chanteur et un guitariste accompli; de son côté, le pianiste Eduardo Ibarra, de Cuernavaca, au Mexique, est un musicien de jazz talentueux et un enseignant dévoué.</desc>
@@ -5705,7 +5705,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826070000 -0400" stop="20220826073000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826070000 -0400" stop="20220826073000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -5719,7 +5719,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826073000 -0400" stop="20220826080000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826073000 -0400" stop="20220826080000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -5734,7 +5734,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826080000 -0400" stop="20220826090000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826080000 -0400" stop="20220826090000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -5750,7 +5750,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826090000 -0400" stop="20220826100000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826090000 -0400" stop="20220826100000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -5767,7 +5767,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826100000 -0400" stop="20220826103000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826100000 -0400" stop="20220826103000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Voir la musique autrement</title>
 		<sub-title lang="en">Des hommes de famille</sub-title>
 		<desc lang="en">L&apos;auteur-compositeur-interprète Lucas Henneman, originaire d&apos;Ottawa, est un chanteur et un guitariste accompli; de son côté, le pianiste Eduardo Ibarra, de Cuernavaca, au Mexique, est un musicien de jazz talentueux et un enseignant dévoué.</desc>
@@ -5782,7 +5782,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826103000 -0400" stop="20220826110000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826103000 -0400" stop="20220826110000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Frères et soeurs de personnes handicapées</sub-title>
 		<desc lang="en">Avoir un frère aveugle ou avec une déficience intellectuelle, une soeur sourde ou en fauteuil roulant, qu&apos;est-ce que ça change dans une vie; si l&apos;on se fie à leurs réponses, on peut dire que ça enrichit leur quotidien.</desc>
@@ -5800,7 +5800,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826110000 -0400" stop="20220826113000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826110000 -0400" stop="20220826113000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Mon guide yoga</title>
 		<sub-title lang="en">La tête et le cou</sub-title>
 		<desc lang="en">Chaque semaine, on pratique un yoga accessible et sans prétention, afin de découvrir tous les bienfaits de cette pratique.</desc>
@@ -5817,7 +5817,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826113000 -0400" stop="20220826120000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826113000 -0400" stop="20220826120000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Pas de panique, on cuisine!</title>
 		<sub-title lang="en">Party de fête pour enfants</sub-title>
 		<desc lang="en">Roulés aux poulet et canneberges, plateau de fruits et trempette au yogourt ainsi que beignes au four sont au menu; le défi de Bob consiste à fourrer et à décorer un beigne; l&apos;astuce du jour présente des trucs pour réussir la cuisson du quinoa.</desc>
@@ -5834,7 +5834,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826120000 -0400" stop="20220826123000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826120000 -0400" stop="20220826123000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">Des Madelinots passionnés</sub-title>
 		<desc lang="en">Toujours sur les routes des Iles de la Madeleine, les compagnons font une petite virée au Fumoir d&apos;antan, un établissement mythique reconnu pour l&apos;immense variété de produits fumés.</desc>
@@ -5851,7 +5851,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826123000 -0400" stop="20220826130000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826123000 -0400" stop="20220826130000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -5868,7 +5868,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826130000 -0400" stop="20220826140000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826130000 -0400" stop="20220826140000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Et après... la vraie vie</sub-title>
 		<desc lang="en">Quelle carrière nous attend, lorsqu&apos;on a consacré une bonne partie de sa vie au sport de haut niveau; des athlètes paralympiques nous entrainent sur le sinueux chemin de la réorientation.</desc>
@@ -5883,7 +5883,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826140000 -0400" stop="20220826150000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826140000 -0400" stop="20220826150000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -5899,7 +5899,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826150000 -0400" stop="20220826170000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826150000 -0400" stop="20220826170000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Lanester</title>
 		<sub-title lang="en">À la vue à la mort</sub-title>
 		<desc lang="en">Le commandant de police Lanester, devenu brutalement aveugle, traque un tueur en série d&apos;une rare cruauté, avec l&apos;aide inattendue d&apos;une jeune femme.</desc>
@@ -5916,7 +5916,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826170000 -0400" stop="20220826180000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826170000 -0400" stop="20220826180000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Jessie sur la route: Nord de l&apos;Ontario</title>
 		<desc lang="en">Jessie prend la route avec son co-pilote à la rencontre de Franco-Ontariens; ils feront plus de 650 kilomètres sur une route bordée de conifères et d&apos;immenses lacs pour aller à la rencontre de gens très colorés.</desc>
 		<category lang="en">Series</category>
@@ -5927,7 +5927,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826180000 -0400" stop="20220826190000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826180000 -0400" stop="20220826190000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">La faille</title>
 		<sub-title lang="en">Les Chinois</sub-title>
 		<desc lang="en">Céline et Alex démasquent enfin le Chinois de Justine; un nouveau cadavre est découvert et Céline comprend qui est le tueur.</desc>
@@ -5942,7 +5942,7 @@
 		<previously-shown start="20220823000000" />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826190000 -0400" stop="20220826193000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826190000 -0400" stop="20220826193000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -5956,7 +5956,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220826193000 -0400" stop="20220826200000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826193000 -0400" stop="20220826200000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">Des Madelinots passionnés</sub-title>
 		<desc lang="en">Toujours sur les routes des Iles de la Madeleine, les compagnons font une petite virée au Fumoir d&apos;antan, un établissement mythique reconnu pour l&apos;immense variété de produits fumés.</desc>
@@ -5973,7 +5973,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826200000 -0400" stop="20220826220000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826200000 -0400" stop="20220826220000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Tintin et le mystère de la toison d&apos;or</title>
 		<sub-title lang="en">Movie (1961)</sub-title>
 		<desc lang="en">Tintin aide le capitaine Haddock à se débarrasser de bandits qui veulent s&apos;emparer du bateau dont il vient d&apos;hériter.</desc>
@@ -5988,7 +5988,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826220000 -0400" stop="20220826230000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826220000 -0400" stop="20220826230000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -6004,7 +6004,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220826230000 -0400" stop="20220827010000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220826230000 -0400" stop="20220827010000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Alerte Amber</title>
 		<sub-title lang="en">Le jardinier</sub-title>
 		<desc lang="en">De peur d&apos;être retracés, Logan et Éliot doivent quitter la maison précipitamment; l&apos;escouade, Valérie et Jonathan arrivent malheureusement trop tard; Gilbert offre une récompense de 20 000$ à quiconque pouvant ramener ses petits-fils.</desc>
@@ -6018,7 +6018,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220827010000 -0400" stop="20220827020000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827010000 -0400" stop="20220827020000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -6035,7 +6035,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220827020000 -0400" stop="20220827040000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827020000 -0400" stop="20220827040000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Tintin et le mystère de la toison d&apos;or</title>
 		<sub-title lang="en">Movie (1961)</sub-title>
 		<desc lang="en">Tintin aide le capitaine Haddock à se débarrasser de bandits qui veulent s&apos;emparer du bateau dont il vient d&apos;hériter.</desc>
@@ -6050,7 +6050,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220827040000 -0400" stop="20220827043000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827040000 -0400" stop="20220827043000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Voir la musique autrement</title>
 		<sub-title lang="en">Des hommes de famille</sub-title>
 		<desc lang="en">L&apos;auteur-compositeur-interprète Lucas Henneman, originaire d&apos;Ottawa, est un chanteur et un guitariste accompli; de son côté, le pianiste Eduardo Ibarra, de Cuernavaca, au Mexique, est un musicien de jazz talentueux et un enseignant dévoué.</desc>
@@ -6065,7 +6065,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220827043000 -0400" stop="20220827050000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827043000 -0400" stop="20220827050000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Frères et soeurs de personnes handicapées</sub-title>
 		<desc lang="en">Avoir un frère aveugle ou avec une déficience intellectuelle, une soeur sourde ou en fauteuil roulant, qu&apos;est-ce que ça change dans une vie; si l&apos;on se fie à leurs réponses, on peut dire que ça enrichit leur quotidien.</desc>
@@ -6083,7 +6083,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220827050000 -0400" stop="20220827060000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827050000 -0400" stop="20220827060000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Et après... la vraie vie</sub-title>
 		<desc lang="en">Quelle carrière nous attend, lorsqu&apos;on a consacré une bonne partie de sa vie au sport de haut niveau; des athlètes paralympiques nous entrainent sur le sinueux chemin de la réorientation.</desc>
@@ -6098,7 +6098,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220827060000 -0400" stop="20220827070000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827060000 -0400" stop="20220827070000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Des familles comme les autres</title>
 		<sub-title lang="en">Études supérieures</sub-title>
 		<desc lang="en">La multitude de services adaptés proposés par les cégeps et les universités pour soutenir la réussite des étudiants ayant des besoins particuliers; des applications pour développer l&apos;autonomie des enfants, on prépare nos visites chez le dentiste.</desc>
@@ -6115,7 +6115,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220827070000 -0400" stop="20220827080000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827070000 -0400" stop="20220827080000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça me regarde</title>
 		<desc lang="en">Pour bien débuter l&apos;année, on découvre la plate-forme d&apos;orientation médicale: Question pour un pro; des objets créent au Québec pour les personnes d&apos;Alzheimer; un joueur d&apos;échecs aveugle revient sur son dernier tournoi international.</desc>
 		<category lang="en">Series</category>
@@ -6131,7 +6131,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220827080000 -0400" stop="20220827083000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827080000 -0400" stop="20220827083000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Voir la musique autrement</title>
 		<sub-title lang="en">Des hommes de famille</sub-title>
 		<desc lang="en">L&apos;auteur-compositeur-interprète Lucas Henneman, originaire d&apos;Ottawa, est un chanteur et un guitariste accompli; de son côté, le pianiste Eduardo Ibarra, de Cuernavaca, au Mexique, est un musicien de jazz talentueux et un enseignant dévoué.</desc>
@@ -6146,7 +6146,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220827083000 -0400" stop="20220827090000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827083000 -0400" stop="20220827090000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ces animaux qui nous veulent du bien</title>
 		<sub-title lang="en">Zoothérapie Essy et Apollo</sub-title>
 		<desc lang="en">Un jeune garçon et sa soeur ont vu leur vie changée par la présence d&apos;animaux de zoothérapie que leur présente leur thérapeute, Marie-Michèle Carreau; parmi ces thérapeutes, on retrouve le lapin Apollo et Essy, la chatte la plus douce du monde.</desc>
@@ -6160,7 +6160,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220827090000 -0400" stop="20220827100000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827090000 -0400" stop="20220827100000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Plus vite! À la recherche du temps</title>
 		<sub-title lang="en">Le four à micro-ondes</sub-title>
 		<desc lang="en">Découvert par hasard en 1946, le four à micro-ondes a révolutionné les cuisines et est aujourd&apos;hui l&apos;un des appareils ménagers les plus omniprésents au monde, mais ce dernier sert bien plus qu&apos;à faire éclater du maïs soufflé.</desc>
@@ -6174,7 +6174,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220827100000 -0400" stop="20220827103000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827100000 -0400" stop="20220827103000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Yves et Maks sur la route</title>
 		<sub-title lang="en">Des Madelinots passionnés</sub-title>
 		<desc lang="en">Toujours sur les routes des Iles de la Madeleine, les compagnons font une petite virée au Fumoir d&apos;antan, un établissement mythique reconnu pour l&apos;immense variété de produits fumés.</desc>
@@ -6191,7 +6191,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220827103000 -0400" stop="20220827110000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827103000 -0400" stop="20220827110000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">3-2-1...on bouge!</title>
 		<sub-title lang="en">Nutrition, flexibilité et ParaskiFlex</sub-title>
 		<desc lang="en">Bien manger pour performer; on rencontre le paracycliste aveugle Daniel Chalifour; des exercices pour favoriser la souplesse; Camille essaie le Paraski Flex.</desc>
@@ -6208,7 +6208,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220827110000 -0400" stop="20220827120000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827110000 -0400" stop="20220827120000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Au-delà des médailles: la vie</title>
 		<sub-title lang="en">Et après... la vraie vie</sub-title>
 		<desc lang="en">Quelle carrière nous attend, lorsqu&apos;on a consacré une bonne partie de sa vie au sport de haut niveau; des athlètes paralympiques nous entrainent sur le sinueux chemin de la réorientation.</desc>
@@ -6223,7 +6223,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220827120000 -0400" stop="20220827123000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827120000 -0400" stop="20220827123000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Sept pieds sur terre</title>
 		<sub-title lang="en">L&apos;odyssée des géants</sub-title>
 		<desc lang="en">Nos quatre protagonistes passent la journée ensemble; que ce soit sur une terrasse de restaurant, au marché Jean-Talon ou au sommet du Mont-Royal, leur grande taille attire les regards et la fascination des passants.</desc>
@@ -6238,7 +6238,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220827123000 -0400" stop="20220827130000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827123000 -0400" stop="20220827130000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Ça ne se demande pas</title>
 		<sub-title lang="en">Frères et soeurs de personnes handicapées</sub-title>
 		<desc lang="en">Avoir un frère aveugle ou avec une déficience intellectuelle, une soeur sourde ou en fauteuil roulant, qu&apos;est-ce que ça change dans une vie; si l&apos;on se fie à leurs réponses, on peut dire que ça enrichit leur quotidien.</desc>
@@ -6256,7 +6256,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220827130000 -0400" stop="20220827150000 -0400" channel="IAMI-TELE HD.91112.zap2it.com">
+	<programme start="20220827130000 -0400" stop="20220827150000 -0400" channel="ICA| AMI-TELE HD.91112.zap2it.com">
 		<title lang="en">Tintin et le mystère de la toison d&apos;or</title>
 		<sub-title lang="en">Movie (1961)</sub-title>
 		<desc lang="en">Tintin aide le capitaine Haddock à se débarrasser de bandits qui veulent s&apos;emparer du bateau dont il vient d&apos;hériter.</desc>
