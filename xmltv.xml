@@ -2,19 +2,19 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv source-info-name="zap2it" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
-	<channel id="I3735.44962.zap2it.com">
+	<channel id="IADDIK TV HD.44962.zap2it.com">
 		<display-name>ADDIK</display-name>
-		<display-name>3735 ADDIK</display-name>
-		<display-name>3735</display-name>
+		<display-name>ADDIK TV HD ADDIK</display-name>
+		<display-name>ADDIK TV HD</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/44962/s44962_h3_aa.png" />
 	</channel>
-	<channel id="I3738.61443.zap2it.com">
+	<channel id="IARTV.61443.zap2it.com">
 		<display-name>ARTVHD</display-name>
-		<display-name>3738 ARTVHD</display-name>
-		<display-name>3738</display-name>
+		<display-name>ARTV ARTVHD</display-name>
+		<display-name>ARTV</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/61443/s61443_h3_aa.png" />
 	</channel>
-	<programme start="20220820130000 -0400" stop="20220820140000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220820130000 -0400" stop="20220820140000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Ça sent le sapin</sub-title>
 		<desc lang="en">Un homme est retrouvé assassiné au cours d&apos;une fête avec de la neige et des rennes.</desc>
@@ -31,7 +31,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820140000 -0400" stop="20220820150000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220820140000 -0400" stop="20220820150000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Le grand méchant loup</sub-title>
 		<desc lang="en">Plusieurs vols ont été commis à bord d&apos;un avion, puis le corps d&apos;une des passagères est retrouvé près de l&apos;aéroport.</desc>
@@ -48,7 +48,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820150000 -0400" stop="20220820160000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220820150000 -0400" stop="20220820160000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">S.W.A.T.</title>
 		<sub-title lang="en">Échec au roi</sub-title>
 		<desc lang="en">Le S.W.A.T. doit arrêter un groupe de dangereux criminels soupçonnés de vol; cette opération oblige Tan à collaborer avec une personne de son passé qu&apos;il aurait préféré ne jamais revoir; par ailleurs, Luca est appelé à remplacer temporairement Hicks.</desc>
@@ -65,7 +65,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820160000 -0400" stop="20220820180000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220820160000 -0400" stop="20220820180000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Vitesse maximum</title>
 		<sub-title lang="en">Movie (2017)</sub-title>
 		<desc lang="en">Les frères Andrew et Garrett Foster sont des pilotes d&apos;exception, mais aussi des voleurs d&apos;exception; leur spécialité: voler les voitures les plus chères au monde.</desc>
@@ -80,7 +80,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820180000 -0400" stop="20220820190000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220820180000 -0400" stop="20220820190000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Nancy Drew</title>
 		<sub-title lang="en">Le visiteur céleste</sub-title>
 		<desc lang="en">Pendant que des événements très étranges se produisent au Claw, un inconnu extravagant débarque à la recherche de Nancy et se présente comme étant le milliardaire Tom Swift.</desc>
@@ -97,7 +97,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820190000 -0400" stop="20220820200000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220820190000 -0400" stop="20220820200000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Couvre-feu</title>
 		<sub-title lang="en">Le secret</sub-title>
 		<desc lang="en">Les participants toujours en vie se rapprochent de la ligne d&apos;arrivée dans les Highlands; Kaye révèle à Michael un secret qu&apos;elle garde depuis des années; alors qu&apos;ils rattrapent les autres coureurs, Kaye et Michael réalisent que rien ne va plus.</desc>
@@ -114,7 +114,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820200000 -0400" stop="20220820220000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220820200000 -0400" stop="20220820220000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Enragé</title>
 		<sub-title lang="en">Movie (2020)</sub-title>
 		<desc lang="en">Rachel se dispute à une lumière rouge avec un étranger. Rapidement, Rachel et tous ceux qu&apos;elle aime deviennent la cible d&apos;un homme ayant décidé de laisser une dernière marque dans ce monde en lui enseignant une violente série de leçons.</desc>
@@ -130,7 +130,7 @@
 		<premiere />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820220000 -0400" stop="20220821000000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220820220000 -0400" stop="20220821000000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">L&apos;enlèvement</title>
 		<sub-title lang="en">Movie (2018)</sub-title>
 		<desc lang="en">Un homme mystérieux avec des intentions cachées voyage au Pakistan pour kidnapper une future épouse. Son complot devient rapidement incontrôlable et l&apos;envoie en fuite avec son otage.</desc>
@@ -145,7 +145,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821000000 -0400" stop="20220821020000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821000000 -0400" stop="20220821020000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">L&apos;intrus</title>
 		<sub-title lang="en">Movie (2019)</sub-title>
 		<desc lang="en">De jeunes mariés achètent une superbe maison qui s&apos;étend sur plusieurs hectares de terrain à Napa Valley, seulement pour découvrir que l&apos;homme à qui ils l&apos;ont achetée refuse d&apos;abandonner sa propriété.</desc>
@@ -160,7 +160,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821020000 -0400" stop="20220821030000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821020000 -0400" stop="20220821030000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Rira bien qui rira le dernier</sub-title>
 		<desc lang="en">Les célébrations de la fête de la Reine sont assombries par la chute mortelle d&apos;un homme; pendant que Murdoch et Crabtree enquêtent, ils rencontrent Charlie Chaplin, un Anglais sûr de lui, qui affirme que la victime pratiquait l&apos;humour d&apos;insultes.</desc>
@@ -177,7 +177,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821030000 -0400" stop="20220821040000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821030000 -0400" stop="20220821040000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Une adolescence tumultueuse</sub-title>
 		<desc lang="en">Brackenreid apprend que son fils cadet est recherché pour meurtre; Murdoch et Ogden craignent que leur voisine ne cherche à les empoisonner en leur offrant un repas; Crabtree soupçonne la nouvelle secrétaire d&apos;Effie d&apos;être la femme qui l&apos;a kidnappé.</desc>
@@ -194,7 +194,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821040000 -0400" stop="20220821050000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821040000 -0400" stop="20220821050000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Code M pour Murdoch</sub-title>
 		<desc lang="en">Murdoch et Ogden sont réveillés en pleine nuit par leur ancien associé, Terence Meyers; ce dernier a intercepté un étrange télégraphe destiné à Murdoch; pendant ce temps, à la morgue, Julia identifie le corps d&apos;un immunologiste de renom.</desc>
@@ -211,7 +211,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821050000 -0400" stop="20220821060000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821050000 -0400" stop="20220821060000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Une expérience électrisante</sub-title>
 		<desc lang="en">Murdoch et Brackenreid enquêtent sur un homme qui a été retrouvé électrocuté; leurs soupçons se portent sur un couple de chercheurs surnommés les Frankenstein; Crabtree se méfie de la secrétaire d&apos;Effie, qui dit avoir vu un bébé se faire enlever.</desc>
@@ -228,7 +228,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Mort d&apos;un prof</sub-title>
 		<desc lang="en">Divorcée, Angela Flynn est la plus audacieuse des enquêteurs de Vancouver; elle se voit confier l&apos;enquête d&apos;un professeur de sciences retrouvé assassiné à son domicile pendant que son épouse dormait.</desc>
@@ -245,7 +245,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821070000 -0400" stop="20220821080000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821070000 -0400" stop="20220821080000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Délit de fuite</sub-title>
 		<desc lang="en">La jeune Tiffany Greenwood est victime d&apos;un délit de fuite pendant qu&apos;elle circulait en bicyclette; lorsque Flynn et son équipe arrivent sur les lieux du drame, ils s&apos;aperçoivent que le meurtrier a également pris possession du sac de l&apos;étudiante.</desc>
@@ -262,7 +262,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821080000 -0400" stop="20220821090000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821080000 -0400" stop="20220821090000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Monsieur Tout-le-monde</sub-title>
 		<desc lang="en">À Stanley Park, un chauffeur de limousine est retrouvé mort près de son véhicule; Angie et Oscar Vega se rendent sur la scène du crime et constatent que la victime a été abattue d&apos;une seule balle de revolver.</desc>
@@ -279,7 +279,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821090000 -0400" stop="20220821110000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821090000 -0400" stop="20220821110000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Sniper 5: l&apos;héritage</title>
 		<sub-title lang="en">Movie (2014)</sub-title>
 		<desc lang="en">Un sergent de l&apos;armée américaine, qui croit à tort que son père officier a été tué par un redoutable assassin, est utilisé comme appât pour capturer ce dernier.</desc>
@@ -294,7 +294,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821110000 -0400" stop="20220821120000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821110000 -0400" stop="20220821120000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Histoire de détectives</title>
 		<sub-title lang="en">Neuf coups de feu</sub-title>
 		<desc lang="en">Un couple de personnes âgées et son petit-fils sont assassinés; la petite ville de Chatham, en Ontario, est sous le choc; le détective Peter Baker s&apos;efforce de trouver un motif à ces meurtres insensés.</desc>
@@ -311,7 +311,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821120000 -0400" stop="20220821130000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821120000 -0400" stop="20220821130000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Nancy Drew</title>
 		<sub-title lang="en">Le visiteur céleste</sub-title>
 		<desc lang="en">Pendant que des événements très étranges se produisent au Claw, un inconnu extravagant débarque à la recherche de Nancy et se présente comme étant le milliardaire Tom Swift.</desc>
@@ -328,7 +328,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821130000 -0400" stop="20220821140000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821130000 -0400" stop="20220821140000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">DC: les légendes de demain</title>
 		<sub-title lang="en">Burger sauce alien</sub-title>
 		<desc lang="en">Avec Spooner à bord, Ava espère que ses capacités spéciales les aideront à localiser les extraterrestres dispersés sur la ligne du temps, ce qui pourrait finalement les conduire à Sara.</desc>
@@ -345,7 +345,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821140000 -0400" stop="20220821160000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821140000 -0400" stop="20220821160000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le roi Scorpion 2: l&apos;avènement d&apos;un guerrier</title>
 		<sub-title lang="en">Movie (2008)</sub-title>
 		<desc lang="en">Dans l&apos;ancienne Égypte, un guerrier part à la recherche de l&apos;épée de Damoclès, laquelle lui permettra de vaincre le sorcier responsable du meurtre de son père.</desc>
@@ -360,7 +360,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821160000 -0400" stop="20220821180000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821160000 -0400" stop="20220821180000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Enragé</title>
 		<sub-title lang="en">Movie (2020)</sub-title>
 		<desc lang="en">Rachel se dispute à une lumière rouge avec un étranger. Rapidement, Rachel et tous ceux qu&apos;elle aime deviennent la cible d&apos;un homme ayant décidé de laisser une dernière marque dans ce monde en lui enseignant une violente série de leçons.</desc>
@@ -375,7 +375,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821180000 -0400" stop="20220821200000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821180000 -0400" stop="20220821200000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">L&apos;enlèvement</title>
 		<sub-title lang="en">Movie (2018)</sub-title>
 		<desc lang="en">Un homme mystérieux avec des intentions cachées voyage au Pakistan pour kidnapper une future épouse. Son complot devient rapidement incontrôlable et l&apos;envoie en fuite avec son otage.</desc>
@@ -390,7 +390,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821200000 -0400" stop="20220821210000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821200000 -0400" stop="20220821210000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">La Brea: le gouffre</title>
 		<sub-title lang="en">Les disparus</sub-title>
 		<desc lang="en">Un énorme gouffre s&apos;ouvre mystérieusement à Los Angeles; il brise une famille en séparant la mère et le fils du père et de la fille.</desc>
@@ -407,7 +407,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821210000 -0400" stop="20220821220000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821210000 -0400" stop="20220821220000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">S.W.A.T.</title>
 		<sub-title lang="en">Échec au roi</sub-title>
 		<desc lang="en">Le S.W.A.T. doit arrêter un groupe de dangereux criminels soupçonnés de vol; cette opération oblige Tan à collaborer avec une personne de son passé qu&apos;il aurait préféré ne jamais revoir; par ailleurs, Luca est appelé à remplacer temporairement Hicks.</desc>
@@ -424,7 +424,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821220000 -0400" stop="20220822000000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220821220000 -0400" stop="20220822000000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Vie</title>
 		<sub-title lang="en">Movie (2017)</sub-title>
 		<desc lang="en">Pour la première fois de l&apos;histoire, des astronautes sont sur le point de découvrir que la vie existe sur Mars. Leurs méthodes de recherche provoquent des conséquences inattendues, et l&apos;organisme s&apos;avère plus intelligent que prévu.</desc>
@@ -439,7 +439,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822000000 -0400" stop="20220822020000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822000000 -0400" stop="20220822020000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Aussi dangereux que séduisant</title>
 		<sub-title lang="en">Movie (2019)</sub-title>
 		<desc lang="en">Tombée amoureuse d&apos;un veuf charismatique, une mère célibataire en vient à soupçonner ce dernier d&apos;être un maître de la manipulation.</desc>
@@ -454,7 +454,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822020000 -0400" stop="20220822030000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822020000 -0400" stop="20220822030000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">La liste noire</title>
 		<sub-title lang="en">Anna McMahon</sub-title>
 		<desc lang="en">La conseillère du président, Anna McMahon, tient tête à Cooper et à l&apos;unité spéciale; la personne qui parviendra à récupérer le dossier manquant contenant les détails d&apos;une vaste conspiration contre les États-Unis raflera la mise.</desc>
@@ -474,7 +474,7 @@
 			<value>13+</value>
 		</rating>
 	</programme>
-	<programme start="20220822030000 -0400" stop="20220822040000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822030000 -0400" stop="20220822040000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">La liste noire</title>
 		<sub-title lang="en">Robert Diaz</sub-title>
 		<desc lang="en">Le plan du président est maintenant connu; Liz et l&apos;équipe d&apos;intervention prennent les choses en main pour éviter un désastre; Red rencontre un homme qui possède des informations sur son passé.</desc>
@@ -491,7 +491,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822040000 -0400" stop="20220822050000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822040000 -0400" stop="20220822050000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Petit déjeuner et meurtre compris</sub-title>
 		<desc lang="en">Murdoch et Ogden s&apos;évadent dans une auberge de campagne le temps d&apos;une fin de semaine; leur escapade romantique se transforme toutefois en enquête lorsqu&apos;un des clients est assassiné; à Toronto, Crabtree et Higgins enquêtent sur un corps décapité.</desc>
@@ -511,7 +511,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220822050000 -0400" stop="20220822060000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822050000 -0400" stop="20220822060000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Dr Harrow</title>
 		<sub-title lang="en">Dr Harrow et Mr Hyde</sub-title>
 		<desc lang="en">Le docteur Daniel Harrow, brillant pathologiste médico-légal, enquête sur le suicide présumé d&apos;une jeune femme dont le père éploré prétend qu&apos;elle a été assassinée.</desc>
@@ -528,7 +528,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822060000 -0400" stop="20220822070000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822060000 -0400" stop="20220822070000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Dr Harrow</title>
 		<sub-title lang="en">Une flèche dans le coeur</sub-title>
 		<desc lang="en">Tandis que son enquête sur les os retrouvés dans la rivière piétine, Harrow tente d&apos;élucider le meurtre d&apos;une femme tuée par une arbalète, croisant ainsi la route d&apos;un dangereux maniaque mû par le goût du frisson.</desc>
@@ -545,7 +545,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Dr Harrow</title>
 		<sub-title lang="en">Le blues du crocodile</sub-title>
 		<desc lang="en">Un bras humain découvert dans le cadavre d&apos;un crocodile conduit Harrow et Dass au nord du Queensland, où ils affrontent crocs et escrocs dans leur quête de la vérité.</desc>
@@ -562,7 +562,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822080000 -0400" stop="20220822090000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822080000 -0400" stop="20220822090000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Quand docteur Langston rencontre</sub-title>
 		<desc lang="en">Des photos des victimes du Dr Jekyll sont découvertes sur le cadavre d&apos;une journaliste.</desc>
@@ -579,7 +579,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822090000 -0400" stop="20220822100000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822090000 -0400" stop="20220822100000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Rencontre Jekill</sub-title>
 		<desc lang="en">Un assassin affirme connaître l&apos;identité du tueur en série; Langston reçoit un paquet.</desc>
@@ -596,7 +596,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Tic tac</sub-title>
 		<desc lang="en">Une unité de la police de Las Vegas utilise la technologie de pointe pour trouver des indices.</desc>
@@ -613,7 +613,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822110000 -0400" stop="20220822120000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822110000 -0400" stop="20220822120000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Personne d&apos;intérêt</title>
 		<sub-title lang="en">La machine</sub-title>
 		<desc lang="en">Le numéro de sécurité sociale d&apos;un jeune procureur fait surface; Reese et Finch doivent travailler ensemble pour déterminer si leur personne d&apos;intérêt est la victime ou l&apos;auteur du crime.</desc>
@@ -630,7 +630,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822120000 -0400" stop="20220822130000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822120000 -0400" stop="20220822130000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Coroner</title>
 		<desc lang="en">La mort suit River et Dennis alors qu&apos;ils emménagent dans un nouveau loft; un corps est retrouvé dans la cage d&apos;ascenseur de leur immeuble, qui devait les protéger des dangers du monde extérieur; pendant ce temps, Peggy vit un deuil difficile.</desc>
 		<category lang="en">Series</category>
@@ -646,7 +646,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822130000 -0400" stop="20220822140000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822130000 -0400" stop="20220822140000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Dr Harrow</title>
 		<sub-title lang="en">L&apos;amour d&apos;une mère</sub-title>
 		<desc lang="en">Lorsqu&apos;un squelette est retrouvé dans un jardin de banlieue, le propriétaire des lieux devient le principal suspect, jusqu&apos;à ce que Harrow mette à jour un funeste secret.</desc>
@@ -663,7 +663,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822140000 -0400" stop="20220822150000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822140000 -0400" stop="20220822150000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Casse-têtes</sub-title>
 		<desc lang="en">Murdoch et Ogden se retrouvent piégés dans la pièce d&apos;une usine désaffectée, tout comme Brackenreid et Crabtree peu de temps après; à l&apos;interphone, une voix leur demande s&apos;ils sont prêts à jouer; pour rester en vie, ils devront résoudre des énigmes.</desc>
@@ -680,7 +680,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822150000 -0400" stop="20220822160000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822150000 -0400" stop="20220822160000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Le Royaume de new South Mimico</sub-title>
 		<desc lang="en">Un meurtre a été commis au domaine des Newsome; arrivés sur place, Murdoch et Watts sont stupéfaits d&apos;apprendre que cette famille a fait sécession pour créer sa propre nation; l&apos;excentrique Rupert Newsome ne compte pas leur faciliter la tâche.</desc>
@@ -697,7 +697,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822160000 -0400" stop="20220822170000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822160000 -0400" stop="20220822170000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Un monde de requins</sub-title>
 		<desc lang="en">Une femme est attaquée par un requin dans la piscine d&apos;un casino.</desc>
@@ -714,7 +714,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822170000 -0400" stop="20220822180000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822170000 -0400" stop="20220822180000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Noces de sang</sub-title>
 		<desc lang="en">Durant un congrès de vampires et de loups-garous à Las Vegas, par un soir de pleine lune, un jeune homme est décapité.</desc>
@@ -731,7 +731,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822180000 -0400" stop="20220822190000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822180000 -0400" stop="20220822190000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Je suis personne</sub-title>
 		<desc lang="en">Un tueur en série terrorise les héros de Las Vegas qui détiennent des secrets.</desc>
@@ -748,7 +748,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Personne d&apos;intérêt</title>
 		<sub-title lang="en">Le dernier jugement</sub-title>
 		<desc lang="en">Reese et Finch doivent enquêter sur un juge.</desc>
@@ -765,7 +765,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822200000 -0400" stop="20220822210000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822200000 -0400" stop="20220822210000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Flash</title>
 		<sub-title lang="en">Abra Kadabra est de retour</sub-title>
 		<desc lang="en">Flash fait face au retour soudain d&apos;Abra Kadabra à Central City; pendant ce temps, Allegra compose avec une situation délicate et Caitlin soupçonne que quelque chose ne va pas avec Frost; Iris doit faire face à un moment sombre de son passé.</desc>
@@ -783,7 +783,7 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Nancy Drew</title>
 		<sub-title lang="en">Les clés volées</sub-title>
 		<desc lang="en">Ryan, Nancy et sa bande s&apos;associent pour faire tomber Everett; pendant ce temps, Carson met Nancy en garde.</desc>
@@ -801,7 +801,7 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822220000 -0400" stop="20220822230000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822220000 -0400" stop="20220822230000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Tueur insoupçonné</title>
 		<sub-title lang="en">Un lien tordu</sub-title>
 		<desc lang="en">Une mère de famille vivant en banlieue a été assassinée chez elle; les enquêteurs se lancent alors à la poursuite d&apos;un tueur insaisissable que personne n&apos;avait vu venir.</desc>
@@ -818,7 +818,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822230000 -0400" stop="20220823000000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220822230000 -0400" stop="20220823000000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">DC: les légendes de demain</title>
 		<sub-title lang="en">Burger sauce alien</sub-title>
 		<desc lang="en">Avec Spooner à bord, Ava espère que ses capacités spéciales les aideront à localiser les extraterrestres dispersés sur la ligne du temps, ce qui pourrait finalement les conduire à Sara.</desc>
@@ -835,7 +835,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823000000 -0400" stop="20220823010000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823000000 -0400" stop="20220823010000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Ma vie avec un tueur</title>
 		<sub-title lang="en">Les petites annonces de l&apos;horreur</sub-title>
 		<desc lang="en">Enfant, Bobby Long a subi de nombreuses blessures à la tête; adulte, il s&apos;est mis à utiliser les petites annonces pour violer des dizaines de femmes, avant de se lancer dans une folie meurtrière pour laquelle il fut finalement arrêté à Tampa.</desc>
@@ -852,7 +852,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823010000 -0400" stop="20220823020000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823010000 -0400" stop="20220823020000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Phénomènes</title>
 		<sub-title lang="en">Vatican III</sub-title>
 		<desc lang="en">Lors de son exorcisme, une femme au foyer avoue avoir commis des meurtres; monseigneur Korecki demande au trio d&apos;enquêter pour savoir si les meurtres correspondent à des affaires en cours et si la femme est vraiment possédée par un démon.</desc>
@@ -869,7 +869,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823020000 -0400" stop="20220823030000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823020000 -0400" stop="20220823030000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Un monde de requins</sub-title>
 		<desc lang="en">Une femme est attaquée par un requin dans la piscine d&apos;un casino.</desc>
@@ -886,7 +886,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823030000 -0400" stop="20220823040000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823030000 -0400" stop="20220823040000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Noces de sang</sub-title>
 		<desc lang="en">Durant un congrès de vampires et de loups-garous à Las Vegas, par un soir de pleine lune, un jeune homme est décapité.</desc>
@@ -903,7 +903,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823040000 -0400" stop="20220823050000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823040000 -0400" stop="20220823050000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Je suis personne</sub-title>
 		<desc lang="en">Un tueur en série terrorise les héros de Las Vegas qui détiennent des secrets.</desc>
@@ -920,7 +920,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823050000 -0400" stop="20220823060000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823050000 -0400" stop="20220823060000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Esprits criminels</title>
 		<sub-title lang="en">Les profileurs</sub-title>
 		<desc lang="en">Après la disparition d&apos;une quatrième femme en l&apos;espace de quelques mois, le FBI décide de refaire appel à Gideon.</desc>
@@ -937,7 +937,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Esprits criminels</title>
 		<sub-title lang="en">Par feu et par sang</sub-title>
 		<desc lang="en">Un campus est sous la menace d&apos;un pyromane.</desc>
@@ -954,7 +954,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Esprits criminels</title>
 		<sub-title lang="en">La machine infernale</sub-title>
 		<desc lang="en">Le département des sciences du comportement traque un poseur de bombes qui terrorise une tranquille communauté.</desc>
@@ -971,7 +971,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823080000 -0400" stop="20220823090000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823080000 -0400" stop="20220823090000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Mort d&apos;un prof</sub-title>
 		<desc lang="en">Divorcée, Angela Flynn est la plus audacieuse des enquêteurs de Vancouver; elle se voit confier l&apos;enquête d&apos;un professeur de sciences retrouvé assassiné à son domicile pendant que son épouse dormait.</desc>
@@ -988,7 +988,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823090000 -0400" stop="20220823100000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823090000 -0400" stop="20220823100000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Délit de fuite</sub-title>
 		<desc lang="en">La jeune Tiffany Greenwood est victime d&apos;un délit de fuite pendant qu&apos;elle circulait en bicyclette; lorsque Flynn et son équipe arrivent sur les lieux du drame, ils s&apos;aperçoivent que le meurtrier a également pris possession du sac de l&apos;étudiante.</desc>
@@ -1005,7 +1005,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823100000 -0400" stop="20220823110000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823100000 -0400" stop="20220823110000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Monsieur Tout-le-monde</sub-title>
 		<desc lang="en">À Stanley Park, un chauffeur de limousine est retrouvé mort près de son véhicule; Angie et Oscar Vega se rendent sur la scène du crime et constatent que la victime a été abattue d&apos;une seule balle de revolver.</desc>
@@ -1022,7 +1022,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823110000 -0400" stop="20220823120000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823110000 -0400" stop="20220823120000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Personne d&apos;intérêt</title>
 		<sub-title lang="en">Besoin de personne</sub-title>
 		<desc lang="en">Lorsqu&apos;on leur fournit le numéro de sécurité sociale d&apos;un adolescent qui a été tué il y a deux ans, Reese et Finch commencent à douter de la fiabilité de la machine.</desc>
@@ -1039,7 +1039,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823120000 -0400" stop="20220823130000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823120000 -0400" stop="20220823130000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Ma vie avec un tueur</title>
 		<sub-title lang="en">Les tueurs de sorcières de San Francisco</sub-title>
 		<desc lang="en">Michael Bear et Suzan Carson ont été surnommés les tueurs de sorcières de San Francisco; ils affirmaient que Dieu les avait investis d&apos;une importante mission: débarrasser la Terre des sorcières.</desc>
@@ -1056,7 +1056,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823130000 -0400" stop="20220823140000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823130000 -0400" stop="20220823140000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Dr Harrow</title>
 		<sub-title lang="en">Lapins rouges</sub-title>
 		<desc lang="en">Harrow vient en aide à Fern après que celle-ci a involontairement vendu des drogues mortelles, causant la mort d&apos;une jeune femme et envoyant d&apos;autres victimes à l&apos;hôpital.</desc>
@@ -1073,7 +1073,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823140000 -0400" stop="20220823150000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823140000 -0400" stop="20220823150000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Une loi à deux vitesses</sub-title>
 		<desc lang="en">Le propriétaire d&apos;un commerce de prêt sur gage a été tué d&apos;une balle dans la tête; Murdoch soupçonne une cargaison d&apos;opium volée d&apos;être à l&apos;origine du crime; de son côté, Brackenreid hésite à aider un ami qui lui demande de retrouver un criminel.</desc>
@@ -1090,7 +1090,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Quand tout se brise (1re partie)</sub-title>
 		<desc lang="en">Le passé revient hanter Murdoch lorsque le corps d&apos;une ancienne amante est retrouvé; pendant ce temps, Ogden accepte d&apos;héberger Ruth, qui met sa patience à rude épreuve; Brackenreid reçoit la visite de son supérieur, qui lui demande sa démission.</desc>
@@ -1107,7 +1107,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823160000 -0400" stop="20220823170000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823160000 -0400" stop="20220823170000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Malchance</sub-title>
 		<desc lang="en">En arrivant au domicile d&apos;un réputé avocat assassiné, Flynn constate que la scène de crime ressemble étrangement à un cambriolage qui a mal tourné; néanmoins, le butin semble trop dérisoire pour qu&apos;il s&apos;agisse du motif du meurtre.</desc>
@@ -1124,7 +1124,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823170000 -0400" stop="20220823180000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823170000 -0400" stop="20220823180000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Sans regret</sub-title>
 		<desc lang="en">Un homme charismatique et sur le point de bâtir un empire est retrouvé mort dans son jacuzzi; la principale suspecte est sa conjointe, Lila, mais leur enquête les mène vers les motivations réelles du tueur.</desc>
@@ -1141,7 +1141,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823180000 -0400" stop="20220823190000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823180000 -0400" stop="20220823190000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Dérapage incontrôlé</sub-title>
 		<desc lang="en">Un courtier en prêts hypothécaires est tué lors d&apos;une soirée à l&apos;extérieur de ses fonctions par étranglement.</desc>
@@ -1158,7 +1158,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823190000 -0400" stop="20220823200000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823190000 -0400" stop="20220823200000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Personne d&apos;intérêt</title>
 		<sub-title lang="en">La Négociatrice</sub-title>
 		<desc lang="en">Reese est captivé par une belle femme.</desc>
@@ -1175,7 +1175,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823200000 -0400" stop="20220823220000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823200000 -0400" stop="20220823220000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Code 211: l&apos;embuscade</title>
 		<sub-title lang="en">Movie (2018)</sub-title>
 		<desc lang="en">L&apos;officier Mike Chandler et un jeune civil se retrouvent seuls et sans issues, lorsque le destin les place dans la mire d&apos;un audacieux vol de banque, mené par une équipe d&apos;hommes surentraînés et lourdement armés.</desc>
@@ -1190,7 +1190,7 @@
 		</audio>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823220000 -0400" stop="20220823230000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823220000 -0400" stop="20220823230000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Couvre-feu</title>
 		<sub-title lang="en">Ligne d&apos;arrivée</sub-title>
 		<desc lang="en">Un acte de sabotage provoque un chaos inimaginable et attire l&apos;attention des créatures; gagner la course tout en restant en vie devient une mission de plus en plus impossible.</desc>
@@ -1207,7 +1207,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823230000 -0400" stop="20220824000000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220823230000 -0400" stop="20220824000000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">La Brea: le gouffre</title>
 		<sub-title lang="en">Les disparus</sub-title>
 		<desc lang="en">Un énorme gouffre s&apos;ouvre mystérieusement à Los Angeles; il brise une famille en séparant la mère et le fils du père et de la fille.</desc>
@@ -1224,7 +1224,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824000000 -0400" stop="20220824010000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824000000 -0400" stop="20220824010000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Coroner</title>
 		<desc lang="en">La mort suit River et Dennis alors qu&apos;ils emménagent dans un nouveau loft; un corps est retrouvé dans la cage d&apos;ascenseur de leur immeuble, qui devait les protéger des dangers du monde extérieur; pendant ce temps, Peggy vit un deuil difficile.</desc>
 		<category lang="en">Series</category>
@@ -1240,7 +1240,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824010000 -0400" stop="20220824020000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824010000 -0400" stop="20220824020000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Phénomènes</title>
 		<sub-title lang="en">Parler à mon père</sub-title>
 		<desc lang="en">David reconnaît l&apos;un des sceaux du Codex Poveglia sur les oeuvres de son père; accompagné de Kristen, il se rend dans une commune isolée pour en étudier la signification et les liens avec sa famille; Ben revoit Vanessa après une trop longue absence.</desc>
@@ -1257,7 +1257,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824020000 -0400" stop="20220824030000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824020000 -0400" stop="20220824030000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Malchance</sub-title>
 		<desc lang="en">En arrivant au domicile d&apos;un réputé avocat assassiné, Flynn constate que la scène de crime ressemble étrangement à un cambriolage qui a mal tourné; néanmoins, le butin semble trop dérisoire pour qu&apos;il s&apos;agisse du motif du meurtre.</desc>
@@ -1274,7 +1274,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824030000 -0400" stop="20220824040000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824030000 -0400" stop="20220824040000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Sans regret</sub-title>
 		<desc lang="en">Un homme charismatique et sur le point de bâtir un empire est retrouvé mort dans son jacuzzi; la principale suspecte est sa conjointe, Lila, mais leur enquête les mène vers les motivations réelles du tueur.</desc>
@@ -1291,7 +1291,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824040000 -0400" stop="20220824050000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824040000 -0400" stop="20220824050000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Le mobile du crime</title>
 		<sub-title lang="en">Dérapage incontrôlé</sub-title>
 		<desc lang="en">Un courtier en prêts hypothécaires est tué lors d&apos;une soirée à l&apos;extérieur de ses fonctions par étranglement.</desc>
@@ -1308,7 +1308,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824050000 -0400" stop="20220824060000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824050000 -0400" stop="20220824060000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Casse-têtes</sub-title>
 		<desc lang="en">Murdoch et Ogden se retrouvent piégés dans la pièce d&apos;une usine désaffectée, tout comme Brackenreid et Crabtree peu de temps après; à l&apos;interphone, une voix leur demande s&apos;ils sont prêts à jouer; pour rester en vie, ils devront résoudre des énigmes.</desc>
@@ -1325,7 +1325,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824060000 -0400" stop="20220824070000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824060000 -0400" stop="20220824070000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Le Royaume de new South Mimico</sub-title>
 		<desc lang="en">Un meurtre a été commis au domaine des Newsome; arrivés sur place, Murdoch et Watts sont stupéfaits d&apos;apprendre que cette famille a fait sécession pour créer sa propre nation; l&apos;excentrique Rupert Newsome ne compte pas leur faciliter la tâche.</desc>
@@ -1342,7 +1342,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Les enquêtes de Murdoch</title>
 		<sub-title lang="en">Une loi à deux vitesses</sub-title>
 		<desc lang="en">Le propriétaire d&apos;un commerce de prêt sur gage a été tué d&apos;une balle dans la tête; Murdoch soupçonne une cargaison d&apos;opium volée d&apos;être à l&apos;origine du crime; de son côté, Brackenreid hésite à aider un ami qui lui demande de retrouver un criminel.</desc>
@@ -1359,7 +1359,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824080000 -0400" stop="20220824090000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824080000 -0400" stop="20220824090000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">La recrue</title>
 		<sub-title lang="en">Premier pas</sub-title>
 		<desc lang="en">Refaire sa vie à 40 ans n&apos;est jamais facile; John Nolan en sait quelque chose; à la suite d&apos;un événement marquant, il décide de poursuivre son rêve en devenant une recrue pour le LAPD; il est toutefois accueilli avec scepticisme par ses collègues.</desc>
@@ -1376,7 +1376,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824090000 -0400" stop="20220824100000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824090000 -0400" stop="20220824100000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">La recrue</title>
 		<sub-title lang="en">Pas de repos pour les braves</sub-title>
 		<desc lang="en">Nolan se remet en question à la suite d&apos;une rencontre avec une victime d&apos;enlèvement; Lucy se voit jumelée avec un nouvel officier de formation qui met sa patience à l&apos;épreuve; Jackson doit apprendre de ses erreurs s&apos;il veut devenir policier un jour.</desc>
@@ -1393,7 +1393,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824100000 -0400" stop="20220824110000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824100000 -0400" stop="20220824110000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">La recrue</title>
 		<sub-title lang="en">Plan B</sub-title>
 		<desc lang="en">Nolan et Talia perdent le contrôle d&apos;une scène de crime; ils débattent alors de la nature fondamentalement bonne ou mauvaise des gens, et ce que cela implique pour les policiers; Lucy s&apos;inquiète pour Tim, qui est de retour en service.</desc>
@@ -1410,7 +1410,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824110000 -0400" stop="20220824120000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824110000 -0400" stop="20220824120000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Personne d&apos;intérêt</title>
 		<sub-title lang="en">Braquages</sub-title>
 		<desc lang="en">Reese doit infiltrer un gang de voleurs de banque.</desc>
@@ -1427,7 +1427,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824120000 -0400" stop="20220824130000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824120000 -0400" stop="20220824130000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Histoire de détectives</title>
 		<sub-title lang="en">La haine</sub-title>
 		<desc lang="en">Mark Mariani est retrouvé mort dans le stationnement d&apos;un centre commercial de Calgary; le détective Dave Sweet ne comprend pas pourquoi quelqu&apos;un voudrait faire du mal à ce brave homme; plus il creuse, plus il en apprend sur ce quartier.</desc>
@@ -1444,7 +1444,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824130000 -0400" stop="20220824140000 -0400" channel="I3735.44962.zap2it.com">
+	<programme start="20220824130000 -0400" stop="20220824140000 -0400" channel="IADDIK TV HD.44962.zap2it.com">
 		<title lang="en">Dr Harrow</title>
 		<sub-title lang="en">Intouchable</sub-title>
 		<desc lang="en">Après la mort de deux jeunes touristes, Harrow soupçonne un homme d&apos;affaires mondialement réputé d&apos;être impliqué, mais les forces bureaucratiques se liguent contre lui.</desc>
@@ -1461,7 +1461,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820120000 -0400" stop="20220820140000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820120000 -0400" stop="20220820140000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les enfants du marais</title>
 		<sub-title lang="en">Movie (1999)</sub-title>
 		<desc lang="en">Loin du chaos du monde, les citoyens d&apos;un paisible marais des bords de la Loire vivent la belle vie au fil des saisons.</desc>
@@ -1477,7 +1477,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220820140000 -0400" stop="20220820160000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820140000 -0400" stop="20220820160000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Tatie Danielle</title>
 		<sub-title lang="en">Movie (1990)</sub-title>
 		<desc lang="en">Une vieille (Tsilla Chelton) acariâtre quitte la campagne pour aller demeurer chez son neveu, à Paris, où elle se plaît à tyranniser sa famille.</desc>
@@ -1493,7 +1493,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220820160000 -0400" stop="20220820163000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820160000 -0400" stop="20220820163000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
 		<sub-title lang="en">Petits plaisirs</sub-title>
 		<desc lang="en">Junior et Mao profitent de la fête des mères.</desc>
@@ -1510,7 +1510,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220820163000 -0400" stop="20220820170000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820163000 -0400" stop="20220820170000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
 		<sub-title lang="en">Bougon en poudre</sub-title>
 		<desc lang="en">Le propriétaire annonce aux Bougon qu&apos;il a obtenu la visite d&apos;un inspecteur de la Régie du logement.</desc>
@@ -1527,7 +1527,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220820170000 -0400" stop="20220820190000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820170000 -0400" stop="20220820190000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Lepage au Soleil: à l&apos;origine de Kanata</title>
 		<sub-title lang="en">Movie (2019)</sub-title>
 		<desc lang="en">Au printemps 2016, Ariane Mnouchkine confie sa troupe, le Théâtre du Soleil, à un autre metteur en scène. L&apos;oeuvre imagine la rencontre d&apos;Européens avec des gens des Premières Nations du Canada sur deux siècles.</desc>
@@ -1539,7 +1539,7 @@
 		<episode-num system="dd_progid">MV01252903.0000</episode-num>
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820190000 -0400" stop="20220820193000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820190000 -0400" stop="20220820193000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
 		<sub-title lang="en">Deuil national</sub-title>
 		<desc lang="en">Pendant que l&apos;on s&apos;occupe des funérailles de Pépère, Dodo et Mao vont chercher la tante Louisette; Junior prépare une surprise à Papa et Mononque.</desc>
@@ -1556,7 +1556,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220820193000 -0400" stop="20220820200000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820193000 -0400" stop="20220820200000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
 		<sub-title lang="en">Coffre et drogue</sub-title>
 		<desc lang="en">Les Bougon tentent d&apos;ouvrir un coffre-fort particulièrement fort tandis que Dolorès confond héroïne et badminton.</desc>
@@ -1573,7 +1573,7 @@
 			<value>13+</value>
 		</rating>
 	</programme>
-	<programme start="20220820200000 -0400" stop="20220820210000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820200000 -0400" stop="20220820210000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Tout simplement country</title>
 		<sub-title lang="en">Gregory Charles, Aie Cobaye et Sacha Lee</sub-title>
 		<desc lang="en">Guylaine Tanguay reçoit le duo Aie Cobaye, la chanteuse Sacha-Lee et le mélomane incomparable Gregory Charles; ceci donne lieu à des rencontres captivantes.</desc>
@@ -1587,7 +1587,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820210000 -0400" stop="20220820233000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820210000 -0400" stop="20220820233000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;odyssée</title>
 		<sub-title lang="en">Movie (2016)</sub-title>
 		<desc lang="en">En 1948, Jacques-Yves Cousteau, sa femme, et ses deux fils vivent au paradis, dans une jolie maison surplombant la mer Méditerranée. Cependant, Cousteau ne rêve que d&apos;aventure.</desc>
@@ -1602,7 +1602,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220820233000 -0400" stop="20220821011500 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220820233000 -0400" stop="20220821011500 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Inquiétante rencontre</title>
 		<sub-title lang="en">Movie (2019)</sub-title>
 		<desc lang="en">En 1987, dans un petit village de Terre-Neuve, l&apos;adolescente Jackie Dunphy aspire à se joindre à la chorale de son école secondaire. Le monde de Jackie rentre en collision avec celui de Dennis, un rejeté de la société.</desc>
@@ -1617,7 +1617,7 @@
 			<value>13+</value>
 		</rating>
 	</programme>
-	<programme start="20220821011500 -0400" stop="20220821013000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821011500 -0400" stop="20220821013000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Capsules pour emporter</title>
 		<sub-title lang="en">Nouvelle carrière politique; Scoop politique</sub-title>
 		<category lang="en">Series</category>
@@ -1628,7 +1628,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821013000 -0400" stop="20220821023000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821013000 -0400" stop="20220821023000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Aminata</title>
 		<desc lang="en">Kidnappée en Afrique par des marchands d&apos;esclaves, Aminata Diallo, 11 ans, subit la dure traversée vers l&apos;Amérique; Aminata s&apos;acclimate à la vie en Caroline du Sud.</desc>
 		<category lang="en">Series</category>
@@ -1647,7 +1647,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220821023000 -0400" stop="20220821033000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821023000 -0400" stop="20220821033000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Aminata</title>
 		<desc lang="en">Aminata, maintenant devenue une belle jeune fille, en bonne santé et éduquée, elle est la princesse des plantations de Robinson Appleby; après avoir rejeté pendant plusieurs saisons les avances d&apos;Appleby, Aminata se marie avec Chekura.</desc>
 		<category lang="en">Series</category>
@@ -1666,7 +1666,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220821033000 -0400" stop="20220821040000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821033000 -0400" stop="20220821040000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Rétroviseur</title>
 		<sub-title lang="en">Marina Orsini</sub-title>
 		<desc lang="en">Marinia Orisini a évolué sous les yeux du public, passant de mannequin à comédienne, puis à animatrice.</desc>
@@ -1681,7 +1681,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821040000 -0400" stop="20220821050000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821040000 -0400" stop="20220821050000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">Reconnaissance</sub-title>
 		<desc lang="en">Aurélie écrit une lettre à Bidou pour lui emprunter une importante somme d&apos;argent.</desc>
@@ -1696,7 +1696,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821050000 -0400" stop="20220821060000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821050000 -0400" stop="20220821060000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">Les soeurs ennemies</sub-title>
 		<desc lang="en">Un drame s&apos;abat sur la maison d&apos;Angélique; sa soeur se montre intraitable et pose un geste de la plus grande cruauté.</desc>
@@ -1711,7 +1711,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Pour emporter</title>
 		<sub-title lang="en">Yoshua Bengio</sub-title>
 		<desc lang="en">France Beaudoin reçoit le chercheur en intelligence artificielle de renommée mondiale Yoshua Bengio; loin du catastrophisme ambiant, il partage avec nous une vision de l&apos;avenir où les idées seront plus importantes que le matériel.</desc>
@@ -1726,7 +1726,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821070000 -0400" stop="20220821075700 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821070000 -0400" stop="20220821075700 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">Affaires de famille</sub-title>
 		<desc lang="en">Elizabeth encourage Nathan à enquêter sur les agissements de son père; Lucas apprécie grandement les premiers chapitres du livre d&apos;Elizabeth; Clara et Jesse préparent leur mariage.</desc>
@@ -1743,7 +1743,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821075700 -0400" stop="20220821085400 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821075700 -0400" stop="20220821085400 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">Douceur et amertume</sub-title>
 		<desc lang="en">Elizabeth, Carson et Faith font face à une épidémie de varicelle; Rosemary tombe malade.</desc>
@@ -1760,7 +1760,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821085400 -0400" stop="20220821095000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821085400 -0400" stop="20220821095000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">Un cadeau inattendu</sub-title>
 		<desc lang="en">Surprise, Elizabeth reçoit un bouquet de fleurs d&apos;un mystérieux prétendant.</desc>
@@ -1777,7 +1777,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821095000 -0400" stop="20220821104700 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821095000 -0400" stop="20220821104700 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">En parfaite cohésion</sub-title>
 		<desc lang="en">Lorsque leurs plans tournent mal, Elizabeth rassemble les habitants de la ville pour offrir à Clara et Jesse le mariage de leurs rêves.</desc>
@@ -1794,7 +1794,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821104700 -0400" stop="20220821114400 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821104700 -0400" stop="20220821114400 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">Un coeur d&apos;écrivain</sub-title>
 		<desc lang="en">Elizabeth part en voyage avec Lucas et doit faire face à ses sentiments pour lui; Lee et Rosemary sont mis au défi de s&apos;occuper de petit Jack.</desc>
@@ -1811,7 +1811,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821114400 -0400" stop="20220821120000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821114400 -0400" stop="20220821120000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Capsules pour emporter</title>
 		<sub-title lang="en">Nouvelle carrière politique; Scoop politique</sub-title>
 		<category lang="en">Series</category>
@@ -1822,7 +1822,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821120000 -0400" stop="20220821130000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821120000 -0400" stop="20220821130000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Ka&apos;kwet élabore un plan; Gilbert se voit offrir une occasion qu&apos;il ne peut refuser; Anne se rend compte que le cours de sa vie pourrait changer.</desc>
 		<category lang="en">Series</category>
@@ -1841,7 +1841,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821130000 -0400" stop="20220821140000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821130000 -0400" stop="20220821140000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Victimes d&apos;un acte de violence particulièrement choquant, Oqwatnuk et Aluk demandent l&apos;aide des Cuthbert; Anne doit faire affronter certaines vérités; Gilbert décide de son destin.</desc>
 		<category lang="en">Series</category>
@@ -1860,7 +1860,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821140000 -0400" stop="20220821150000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821140000 -0400" stop="20220821150000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Tandis que les étudiants se préparent à partir pour l&apos;université, Gilbert tente une dernière chance; Anne fait une rencontre décisive à Charlottetown.</desc>
 		<category lang="en">Series</category>
@@ -1879,7 +1879,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821150000 -0400" stop="20220821160000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821150000 -0400" stop="20220821160000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Joe Fafard, selfie</title>
 		<desc lang="en">L&apos;histoire et le parcours de Joe Fafard, célèbre sculpteur canadien-français, né et établi en Saskatchewan et lauréat de nombreux prix. L&apos;oeuvre de Fafard a fait l&apos;objet de plusieurs rétrospectives au Canada.</desc>
 		<category lang="en">Series</category>
@@ -1890,7 +1890,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821160000 -0400" stop="20220821170000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821160000 -0400" stop="20220821170000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Grantchester</title>
 		<sub-title lang="en">Dieu dans un flacon</sub-title>
 		<desc lang="en">Un étudiant nu court à travers la ville en hurlant que les extraterrestres arrivent; Keating s&apos;apprête à l&apos;arrêter, mais Will lui dit qu&apos;il s&apos;agit probablement d&apos;un excès d&apos;ivresse; l&apos;étudiant est retrouvé mort le lendemain dans un champ.</desc>
@@ -1910,7 +1910,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821170000 -0400" stop="20220821180000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821170000 -0400" stop="20220821180000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La table de Kim</title>
 		<sub-title lang="en">Le goût du risque, faire face à ses peurs</sub-title>
 		<desc lang="en">En réunissant la comédienne Christine Beaulieu, My Lien, le Pharmachien Olivier Bernard et sa compagne l&apos;autrice India Desjardins, Kim les invite à s&apos;échanger sur la part du risque dans toute réussite, que ce soit en arts, en affaires ou en sciences.</desc>
@@ -1925,7 +1925,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821180000 -0400" stop="20220821190000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821180000 -0400" stop="20220821190000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Langevin, tours de ville</title>
 		<desc lang="en">Stéphane Bourgoin provoque Gus avec le défi inusité d&apos;exécuter pour Michèle Deslauriers un tour de magie sous l&apos;eau et en plongée; Luc Langevin, Gus, Stéphane Bourgoin et Viktor Vincent divertissent les passants dans la rue.</desc>
 		<category lang="en">Series</category>
@@ -1938,7 +1938,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220821190000 -0400" stop="20220821200000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821190000 -0400" stop="20220821200000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les jumelles Dionne</title>
 		<category lang="en">Series</category>
 		<length units="minutes">60</length>
@@ -1951,7 +1951,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821200000 -0400" stop="20220821210000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821200000 -0400" stop="20220821210000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les jumelles Dionne</title>
 		<category lang="en">Series</category>
 		<length units="minutes">60</length>
@@ -1964,7 +1964,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821210000 -0400" stop="20220821223600 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821210000 -0400" stop="20220821223600 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La disparition des lucioles</title>
 		<sub-title lang="en">Movie (2018)</sub-title>
 		<desc lang="en">Une adolescente frustrée se libère de l&apos;influence de sa mère et de sa vie étroite dans une petite ville industrielle pour savoir qui elle est vraiment.</desc>
@@ -1979,7 +1979,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220821223600 -0400" stop="20220822003600 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220821223600 -0400" stop="20220822003600 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Tatie Danielle</title>
 		<sub-title lang="en">Movie (1990)</sub-title>
 		<desc lang="en">Une vieille (Tsilla Chelton) acariâtre quitte la campagne pour aller demeurer chez son neveu, à Paris, où elle se plaît à tyranniser sa famille.</desc>
@@ -1994,7 +1994,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822003600 -0400" stop="20220822030000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822003600 -0400" stop="20220822030000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;odyssée</title>
 		<sub-title lang="en">Movie (2016)</sub-title>
 		<desc lang="en">En 1948, Jacques-Yves Cousteau, sa femme, et ses deux fils vivent au paradis, dans une jolie maison surplombant la mer Méditerranée. Cependant, Cousteau ne rêve que d&apos;aventure.</desc>
@@ -2009,7 +2009,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822030000 -0400" stop="20220822040000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822030000 -0400" stop="20220822040000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Pour emporter</title>
 		<sub-title lang="en">Yoshua Bengio</sub-title>
 		<desc lang="en">France Beaudoin reçoit le chercheur en intelligence artificielle de renommée mondiale Yoshua Bengio; loin du catastrophisme ambiant, il partage avec nous une vision de l&apos;avenir où les idées seront plus importantes que le matériel.</desc>
@@ -2024,7 +2024,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822040000 -0400" stop="20220822050000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822040000 -0400" stop="20220822050000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">La page déchirée</sub-title>
 		<desc lang="en">Le gouvernement fait enquête et on exige des explications de Séraphin à propos d&apos;une page déchirée dans un livre de la colonisation.</desc>
@@ -2039,7 +2039,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822050000 -0400" stop="20220822060000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822050000 -0400" stop="20220822060000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">Le réveillon des anciens</sub-title>
 		<desc lang="en">Séraphin refuse d&apos;assister au réveillon des anciens; Alexis avoue à Donalda ne l&apos;avoir jamais oubliée.</desc>
@@ -2054,7 +2054,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822060000 -0400" stop="20220822070000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822060000 -0400" stop="20220822070000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Ka&apos;kwet élabore un plan; Gilbert se voit offrir une occasion qu&apos;il ne peut refuser; Anne se rend compte que le cours de sa vie pourrait changer.</desc>
 		<category lang="en">Series</category>
@@ -2073,7 +2073,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Misérables</title>
 		<desc lang="en">Fantine est obligée de prendre des mesures désespérées pour joindre les deux bouts; manipulé par Javert, Jean Valjean est prêt à se livrer à la justice, mais il fait une promesse à Fantine qui va tout changer.</desc>
 		<category lang="en">Series</category>
@@ -2087,7 +2087,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220822080000 -0400" stop="20220822090000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822080000 -0400" stop="20220822090000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Misérables</title>
 		<desc lang="en">Valjean n&apos;a pas oublié la promesse qu&apos;il a faite à Fantine; à l&apos;auberge des Thénardier, il retrouve Cosette, meurtrie et maltraitée; les deux fuient vers Paris, mais Javert, obsédé, les talonne.</desc>
 		<category lang="en">Series</category>
@@ -2101,7 +2101,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822090000 -0400" stop="20220822100000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822090000 -0400" stop="20220822100000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">Un coeur d&apos;écrivain</sub-title>
 		<desc lang="en">Elizabeth part en voyage avec Lucas et doit faire face à ses sentiments pour lui; Lee et Rosemary sont mis au défi de s&apos;occuper de petit Jack.</desc>
@@ -2118,7 +2118,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Ka&apos;kwet élabore un plan; Gilbert se voit offrir une occasion qu&apos;il ne peut refuser; Anne se rend compte que le cours de sa vie pourrait changer.</desc>
 		<category lang="en">Series</category>
@@ -2137,7 +2137,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822110000 -0400" stop="20220822120000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822110000 -0400" stop="20220822120000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Victimes d&apos;un acte de violence particulièrement choquant, Oqwatnuk et Aluk demandent l&apos;aide des Cuthbert; Anne doit faire affronter certaines vérités; Gilbert décide de son destin.</desc>
 		<category lang="en">Series</category>
@@ -2156,7 +2156,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822120000 -0400" stop="20220822130000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822120000 -0400" stop="20220822130000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Tandis que les étudiants se préparent à partir pour l&apos;université, Gilbert tente une dernière chance; Anne fait une rencontre décisive à Charlottetown.</desc>
 		<category lang="en">Series</category>
@@ -2175,7 +2175,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822130000 -0400" stop="20220822140000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822130000 -0400" stop="20220822140000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Joe Fafard, selfie</title>
 		<desc lang="en">L&apos;histoire et le parcours de Joe Fafard, célèbre sculpteur canadien-français, né et établi en Saskatchewan et lauréat de nombreux prix. L&apos;oeuvre de Fafard a fait l&apos;objet de plusieurs rétrospectives au Canada.</desc>
 		<category lang="en">Series</category>
@@ -2186,7 +2186,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822140000 -0400" stop="20220822150000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822140000 -0400" stop="20220822150000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Grantchester</title>
 		<sub-title lang="en">Dieu dans un flacon</sub-title>
 		<desc lang="en">Un étudiant nu court à travers la ville en hurlant que les extraterrestres arrivent; Keating s&apos;apprête à l&apos;arrêter, mais Will lui dit qu&apos;il s&apos;agit probablement d&apos;un excès d&apos;ivresse; l&apos;étudiant est retrouvé mort le lendemain dans un champ.</desc>
@@ -2206,7 +2206,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822150000 -0400" stop="20220822160000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822150000 -0400" stop="20220822160000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Langevin, tours de ville</title>
 		<desc lang="en">Luc Langevin met au défi Viktor Vincent de réussir à influencer le cerveau de Messmer; Julien Lacroix souhaite que Luc Langevin lui fasse un tour de magie impressionnant avec les objets qu&apos;il apportera lui-même.</desc>
 		<category lang="en">Series</category>
@@ -2219,7 +2219,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822160000 -0400" stop="20220822170000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822160000 -0400" stop="20220822170000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">Dans les bois</sub-title>
 		<desc lang="en">Une tempête met Hope Valley en danger; Elizabeth organise une sortie scolaire avec la moitié de la classe pendant que Carson, l&apos;enseignant suppléant, s&apos;occupe des autres étudiants.</desc>
@@ -2236,7 +2236,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822170000 -0400" stop="20220822180000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822170000 -0400" stop="20220822180000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">Une drôle de bénédiction</sub-title>
 		<desc lang="en">Todore demande à Séraphin de lui donner la bénédiction du jour de l&apos;An.</desc>
@@ -2251,7 +2251,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822180000 -0400" stop="20220822190000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822180000 -0400" stop="20220822190000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">La condamnation</sub-title>
 		<desc lang="en">Séraphin veut condamner la porte du haut-côté, mais Donalda se révolte.</desc>
@@ -2266,7 +2266,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Tout simplement country</title>
 		<sub-title lang="en">Gregory Charles, Aie Cobaye et Sacha Lee</sub-title>
 		<desc lang="en">Guylaine Tanguay reçoit le duo Aie Cobaye, la chanteuse Sacha-Lee et le mélomane incomparable Gregory Charles; ceci donne lieu à des rencontres captivantes.</desc>
@@ -2280,7 +2280,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822200000 -0400" stop="20220822210000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822200000 -0400" stop="20220822210000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Yannick Nézet-séguin et l&apos;Orchestre Métropolitain: la symphonie du fleuve</title>
 		<desc lang="en">Une oeuvre à couper le souffle, entre le talent des musiciens de l&apos;Orchestre Métropolitain, sous la direction inspirée de Yannick Nézet-Séguin, et le mouvement lyrique du fleuve.</desc>
 		<category lang="en">Series</category>
@@ -2291,7 +2291,7 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;Orchestre Métropolitain sur le Mont-Royal</title>
 		<desc lang="en">L&apos;Orchestre Métropolitain et son chef Yannick Nézet-Séguin ont le bonheur de nous offrir une prestation inédite enregistrée cet été sur le Mont-Royal.</desc>
 		<category lang="en">Series</category>
@@ -2302,7 +2302,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822220000 -0400" stop="20220822230000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822220000 -0400" stop="20220822230000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Pour emporter</title>
 		<sub-title lang="en">Sophie Lorain</sub-title>
 		<desc lang="en">France Beaudoin reçoit la comédienne, réalisatrice et productrice Sophie Lorain; allergique aux temps libres et convaincue que le ciel va lui tomber sur la tête, Sophie parle de sa personnalité de bûcheuse et de son apprentissage du métier.</desc>
@@ -2317,7 +2317,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220822230000 -0400" stop="20220823000000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220822230000 -0400" stop="20220823000000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La table de Kim</title>
 		<sub-title lang="en">Le goût du risque, faire face à ses peurs</sub-title>
 		<desc lang="en">En réunissant la comédienne Christine Beaulieu, My Lien, le Pharmachien Olivier Bernard et sa compagne l&apos;autrice India Desjardins, Kim les invite à s&apos;échanger sur la part du risque dans toute réussite, que ce soit en arts, en affaires ou en sciences.</desc>
@@ -2332,7 +2332,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823000000 -0400" stop="20220823010000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823000000 -0400" stop="20220823010000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Des dames de coeur</title>
 		<sub-title lang="en">Roger entre en cure</sub-title>
 		<desc lang="en">Micheline Gagnon fait une présentation remarquée au bureau; Jean-Paul et Chantal tentent d&apos;aider Roger et lui proposent une cure de désintoxication; Évelyne promet de ne pas entamer les procédures de divorce pendant la cure.</desc>
@@ -2346,7 +2346,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823010000 -0400" stop="20220823020000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823010000 -0400" stop="20220823020000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Des dames de coeur</title>
 		<sub-title lang="en">Julie rompt ses fiançailles</sub-title>
 		<desc lang="en">Julie fait le point avec Jean-Paul et lui rend sa bague de fiançailles; les choses ne sont pas faciles entre Lucie et Alexandre; Claire reçoit Lucie, Diane et Nicole à souper.</desc>
@@ -2360,7 +2360,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823020000 -0400" stop="20220823040000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823020000 -0400" stop="20220823040000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les enfants du marais</title>
 		<sub-title lang="en">Movie (1999)</sub-title>
 		<desc lang="en">Loin du chaos du monde, les citoyens d&apos;un paisible marais des bords de la Loire vivent la belle vie au fil des saisons.</desc>
@@ -2375,7 +2375,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823040000 -0400" stop="20220823043000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823040000 -0400" stop="20220823043000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Rétroviseur</title>
 		<sub-title lang="en">France Castel</sub-title>
 		<desc lang="en">Une rencontre émouvante avec la chanteuse, comédienne et animatrice, France Castel; une femme libre qui a toujours été en avance sur son temps.</desc>
@@ -2390,7 +2390,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823043000 -0400" stop="20220823050000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823043000 -0400" stop="20220823050000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La petite patrie</title>
 		<sub-title lang="en">Les préparatifs pour l&apos;hiver</sub-title>
 		<desc lang="en">Clément et son père font les derniers préparatifs pour fermer le chalet pour l&apos;hiver.</desc>
@@ -2407,7 +2407,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823050000 -0400" stop="20220823060000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823050000 -0400" stop="20220823060000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Langevin, tours de ville</title>
 		<desc lang="en">Luc Langevin met au défi Viktor Vincent de réussir à influencer le cerveau de Messmer; Julien Lacroix souhaite que Luc Langevin lui fasse un tour de magie impressionnant avec les objets qu&apos;il apportera lui-même.</desc>
 		<category lang="en">Series</category>
@@ -2420,7 +2420,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Victimes d&apos;un acte de violence particulièrement choquant, Oqwatnuk et Aluk demandent l&apos;aide des Cuthbert; Anne doit faire affronter certaines vérités; Gilbert décide de son destin.</desc>
 		<category lang="en">Series</category>
@@ -2439,7 +2439,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Misérables</title>
 		<desc lang="en">Cosette, adolescente, remet en question sa vie recluse; Valjean et elle commencent une nouvelle vie à Paris, mais Valjean s&apos;inquiète quand Cosette rencontre Marius, un étudiant idéaliste.</desc>
 		<category lang="en">Series</category>
@@ -2453,7 +2453,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220823080000 -0400" stop="20220823090000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823080000 -0400" stop="20220823090000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Misérables</title>
 		<desc lang="en">Le complot des Thénardier contre Jean Valjean se heurte à Javert; Paris est au bord de la révolte, mais Javert ne pense qu&apos;à retrouver l&apos;insaisissable Valjean; Marius, de plus en plus amoureux de Cosette, met de côté la révolution.</desc>
 		<category lang="en">Series</category>
@@ -2467,7 +2467,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220823090000 -0400" stop="20220823100000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823090000 -0400" stop="20220823100000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">Dans les bois</sub-title>
 		<desc lang="en">Une tempête met Hope Valley en danger; Elizabeth organise une sortie scolaire avec la moitié de la classe pendant que Carson, l&apos;enseignant suppléant, s&apos;occupe des autres étudiants.</desc>
@@ -2484,7 +2484,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823100000 -0400" stop="20220823110000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823100000 -0400" stop="20220823110000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La table de Kim</title>
 		<sub-title lang="en">Le goût du risque, faire face à ses peurs</sub-title>
 		<desc lang="en">En réunissant la comédienne Christine Beaulieu, My Lien, le Pharmachien Olivier Bernard et sa compagne l&apos;autrice India Desjardins, Kim les invite à s&apos;échanger sur la part du risque dans toute réussite, que ce soit en arts, en affaires ou en sciences.</desc>
@@ -2499,7 +2499,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823110000 -0400" stop="20220823120000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823110000 -0400" stop="20220823120000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Lumière sur...</title>
 		<sub-title lang="en">Michèle Deslauriers</sub-title>
 		<desc lang="en">Figure dominante de la scène artistique québécoise, la comédienne Michèle Deslauriers trace son chemin dans le jeu et l&apos;humour depuis près de 50 ans; son énergie et son talent pour la comédie contribuent au succès d&apos;une multitude de productions.</desc>
@@ -2513,7 +2513,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220823120000 -0400" stop="20220823130000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823120000 -0400" stop="20220823130000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">Une drôle de bénédiction</sub-title>
 		<desc lang="en">Todore demande à Séraphin de lui donner la bénédiction du jour de l&apos;An.</desc>
@@ -2528,7 +2528,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823130000 -0400" stop="20220823140000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823130000 -0400" stop="20220823140000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">La condamnation</sub-title>
 		<desc lang="en">Séraphin veut condamner la porte du haut-côté, mais Donalda se révolte.</desc>
@@ -2543,7 +2543,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823140000 -0400" stop="20220823150000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823140000 -0400" stop="20220823150000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Misérables</title>
 		<desc lang="en">Fantine est obligée de prendre des mesures désespérées pour joindre les deux bouts; manipulé par Javert, Jean Valjean est prêt à se livrer à la justice, mais il fait une promesse à Fantine qui va tout changer.</desc>
 		<category lang="en">Series</category>
@@ -2557,7 +2557,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Misérables</title>
 		<desc lang="en">Valjean n&apos;a pas oublié la promesse qu&apos;il a faite à Fantine; à l&apos;auberge des Thénardier, il retrouve Cosette, meurtrie et maltraitée; les deux fuient vers Paris, mais Javert, obsédé, les talonne.</desc>
 		<category lang="en">Series</category>
@@ -2571,7 +2571,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823160000 -0400" stop="20220823170000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823160000 -0400" stop="20220823170000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">De nouvelles possibilités</sub-title>
 		<desc lang="en">Elizabeth et Nathan tentent de résoudre leurs différends; Rosemary apprend un secret à propos de Lee; Elizabeth se sent trahie par Lucas, mais l&apos;aide à obtenir les dossiers de la compagnie pétrolière auprès de Gowen.</desc>
@@ -2588,7 +2588,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823170000 -0400" stop="20220823180000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823170000 -0400" stop="20220823180000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">Le rendez-vous clandestin</sub-title>
 		<desc lang="en">Soucieux des bonnes moeurs, Séraphin n&apos;est pas d&apos;accord avec les soirées organisées pour les jeunes chez janvier.</desc>
@@ -2603,7 +2603,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823180000 -0400" stop="20220823190000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823180000 -0400" stop="20220823190000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">La faute d&apos;Aurélie</sub-title>
 		<desc lang="en">Aurélie et son patron René se fiancent, mais la jeune femme commet une faute irréparable.</desc>
@@ -2618,7 +2618,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823190000 -0400" stop="20220823193000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823190000 -0400" stop="20220823193000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Moi et l&apos;autre...</title>
 		<sub-title lang="en">Le journal intime de Dominique</sub-title>
 		<desc lang="en">Dominique veut publier son journal intime, mais Denise veut absolument le lire avant.</desc>
@@ -2635,7 +2635,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823193000 -0400" stop="20220823200000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823193000 -0400" stop="20220823200000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Moi et l&apos;autre...</title>
 		<sub-title lang="en">Bain de soleil</sub-title>
 		<desc lang="en">Les filles veulent se faire bronzer sur le toit de l&apos;immeuble, même s&apos;il n&apos;y a pas de terrasse.</desc>
@@ -2652,7 +2652,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823200000 -0400" stop="20220823220000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823200000 -0400" stop="20220823220000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Le crime de l&apos;Orient-Express</title>
 		<sub-title lang="en">Movie (2017)</sub-title>
 		<desc lang="en">Des passagers se retrouvent prisonniers du célèbre train de l&apos;Orient-Express, alors qu&apos;un meurtre vient d&apos;être commis. Le détective belge Hercule Poirot mène l&apos;enquête.</desc>
@@ -2667,7 +2667,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823220000 -0400" stop="20220823223000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823220000 -0400" stop="20220823223000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
 		<sub-title lang="en">Deuil national</sub-title>
 		<desc lang="en">Pendant que l&apos;on s&apos;occupe des funérailles de Pépère, Dodo et Mao vont chercher la tante Louisette; Junior prépare une surprise à Papa et Mononque.</desc>
@@ -2684,7 +2684,7 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220823223000 -0400" stop="20220823230000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823223000 -0400" stop="20220823230000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
 		<sub-title lang="en">Coffre et drogue</sub-title>
 		<desc lang="en">Les Bougon tentent d&apos;ouvrir un coffre-fort particulièrement fort tandis que Dolorès confond héroïne et badminton.</desc>
@@ -2701,7 +2701,7 @@
 			<value>13+</value>
 		</rating>
 	</programme>
-	<programme start="20220823230000 -0400" stop="20220823233000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823230000 -0400" stop="20220823233000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La petite patrie</title>
 		<sub-title lang="en">Les préparatifs pour l&apos;hiver</sub-title>
 		<desc lang="en">Clément et son père font les derniers préparatifs pour fermer le chalet pour l&apos;hiver.</desc>
@@ -2718,7 +2718,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220823233000 -0400" stop="20220824000000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220823233000 -0400" stop="20220824000000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La petite patrie</title>
 		<sub-title lang="en">L&apos;oncle Édouard</sub-title>
 		<desc lang="en">L&apos;oncle Édouard est en visite chez les Germain.</desc>
@@ -2735,7 +2735,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824000000 -0400" stop="20220824010000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824000000 -0400" stop="20220824010000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Des dames de coeur</title>
 		<sub-title lang="en">Lucie et Claire veulent ouvrir un restaurant</sub-title>
 		<desc lang="en">Carole et Olivier acceptent mal que Luc prenne si facilement la place de leur père; ils décident d&apos;aller vivre en appartement; Lucie et Claire parlent du projet d&apos;ouvrir un restaurant.</desc>
@@ -2749,7 +2749,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824010000 -0400" stop="20220824020000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824010000 -0400" stop="20220824020000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Des dames de coeur</title>
 		<sub-title lang="en">Gilbert pense à sa retraite</sub-title>
 		<desc lang="en">Dès son retour au bureau, Gilbert a droit au rapport de Micheline; à la suite de cette première journée difficile, Gilbert pense à une certaine retraite tandis que Claire pense à accomplir de nouvelles choses.</desc>
@@ -2763,7 +2763,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824020000 -0400" stop="20220824040000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824020000 -0400" stop="20220824040000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Tatie Danielle</title>
 		<sub-title lang="en">Movie (1990)</sub-title>
 		<desc lang="en">Une vieille (Tsilla Chelton) acariâtre quitte la campagne pour aller demeurer chez son neveu, à Paris, où elle se plaît à tyranniser sa famille.</desc>
@@ -2778,7 +2778,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824040000 -0400" stop="20220824043000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824040000 -0400" stop="20220824043000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Rétroviseur</title>
 		<sub-title lang="en">France Castel</sub-title>
 		<desc lang="en">Une rencontre émouvante avec la chanteuse, comédienne et animatrice, France Castel; une femme libre qui a toujours été en avance sur son temps.</desc>
@@ -2793,7 +2793,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824043000 -0400" stop="20220824050000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824043000 -0400" stop="20220824050000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La petite patrie</title>
 		<sub-title lang="en">L&apos;oncle Édouard</sub-title>
 		<desc lang="en">L&apos;oncle Édouard est en visite chez les Germain.</desc>
@@ -2810,7 +2810,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824050000 -0400" stop="20220824060000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824050000 -0400" stop="20220824060000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Lumière sur...</title>
 		<sub-title lang="en">Michèle Deslauriers</sub-title>
 		<desc lang="en">Figure dominante de la scène artistique québécoise, la comédienne Michèle Deslauriers trace son chemin dans le jeu et l&apos;humour depuis près de 50 ans; son énergie et son talent pour la comédie contribuent au succès d&apos;une multitude de productions.</desc>
@@ -2824,7 +2824,7 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220824060000 -0400" stop="20220824070000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824060000 -0400" stop="20220824070000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Anne avec un E</title>
 		<desc lang="en">Tandis que les étudiants se préparent à partir pour l&apos;université, Gilbert tente une dernière chance; Anne fait une rencontre décisive à Charlottetown.</desc>
 		<category lang="en">Series</category>
@@ -2843,7 +2843,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">Une drôle de bénédiction</sub-title>
 		<desc lang="en">Todore demande à Séraphin de lui donner la bénédiction du jour de l&apos;An.</desc>
@@ -2858,7 +2858,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824080000 -0400" stop="20220824090000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824080000 -0400" stop="20220824090000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">La condamnation</sub-title>
 		<desc lang="en">Séraphin veut condamner la porte du haut-côté, mais Donalda se révolte.</desc>
@@ -2873,7 +2873,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824090000 -0400" stop="20220824100000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824090000 -0400" stop="20220824100000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">L&apos;appel du coeur</title>
 		<sub-title lang="en">De nouvelles possibilités</sub-title>
 		<desc lang="en">Elizabeth et Nathan tentent de résoudre leurs différends; Rosemary apprend un secret à propos de Lee; Elizabeth se sent trahie par Lucas, mais l&apos;aide à obtenir les dossiers de la compagnie pétrolière auprès de Gowen.</desc>
@@ -2890,7 +2890,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824100000 -0400" stop="20220824120000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824100000 -0400" stop="20220824120000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">La disparition des lucioles</title>
 		<sub-title lang="en">Movie (2018)</sub-title>
 		<desc lang="en">Une adolescente frustrée se libère de l&apos;influence de sa mère et de sa vie étroite dans une petite ville industrielle pour savoir qui elle est vraiment.</desc>
@@ -2905,7 +2905,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824120000 -0400" stop="20220824130000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824120000 -0400" stop="20220824130000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">Le rendez-vous clandestin</sub-title>
 		<desc lang="en">Soucieux des bonnes moeurs, Séraphin n&apos;est pas d&apos;accord avec les soirées organisées pour les jeunes chez janvier.</desc>
@@ -2920,7 +2920,7 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220824130000 -0400" stop="20220824140000 -0400" channel="I3738.61443.zap2it.com">
+	<programme start="20220824130000 -0400" stop="20220824140000 -0400" channel="IARTV.61443.zap2it.com">
 		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
 		<sub-title lang="en">La faute d&apos;Aurélie</sub-title>
 		<desc lang="en">Aurélie et son patron René se fiancent, mais la jeune femme commet une faute irréparable.</desc>
