@@ -38,6 +38,12 @@
 		<display-name>CA| LCN HD</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/67231/s67231_h3_aa.png" />
 	</channel>
+	<channel id="ICA| ICI RDI HD.60327.zap2it.com">
+		<display-name>RDIHD</display-name>
+		<display-name>CA| ICI RDI HD RDIHD</display-name>
+		<display-name>CA| ICI RDI HD</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/60327/s60327_h3_aa.png" />
+	</channel>
 	<programme start="20220820143000 -0400" stop="20220820153000 -0400" channel="ICA| RDS HD.58592.zap2it.com">
 		<title lang="en">UFC le décompte</title>
 		<sub-title lang="en">UFC 278: Usman c. Edwards 2</sub-title>
@@ -16756,6 +16762,2667 @@
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03833843&amp;tmsId=SH038338430000</url>
 		<episode-num system="dd_progid">SH03833843.0000</episode-num>
 		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820150000 -0400" stop="20220820153000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820153000 -0400" stop="20220820160000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820160000 -0400" stop="20220820163000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820163000 -0400" stop="20220820170000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820170000 -0400" stop="20220820173000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820173000 -0400" stop="20220820180000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;épicerie</title>
+		<sub-title lang="en">L&apos;épicerie se rend en Abitibi-Témiscamingue</sub-title>
+		<desc lang="en">Des fermes d&apos;élevage de bovins aimeraient développer l&apos;achat local, mais elles sont freinées par l&apos;absence d&apos;un abattoir dans la région.</desc>
+		<date>20220820</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p418417_b_v9_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702057&amp;tmsId=EP017020570524</url>
+		<episode-num system="common">S20E42</episode-num>
+		<episode-num system="dd_progid">EP01702057.0524</episode-num>
+		<episode-num system="xmltv_ns">19.41.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820180000 -0400" stop="20220820183000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820183000 -0400" stop="20220820193100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Découverte</title>
+		<sub-title lang="en">Les planètes glacées (Uranus, Neptune, Pluton et la Ceinture de Kuiper)</sub-title>
+		<desc lang="en">On a longtemps pensé qu&apos;Uranus, à peine visible à l&apos;oeil nu, était la planète la plus éloignée du Soleil, mais grâce au télescope, on lui a découvert une compagne: Neptune.</desc>
+		<date>20220820</date>
+		<category lang="en">Series</category>
+		<length units="minutes">61</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p225903_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702051&amp;tmsId=EP017020510339</url>
+		<episode-num system="common">S33E17</episode-num>
+		<episode-num system="dd_progid">EP01702051.0339</episode-num>
+		<episode-num system="xmltv_ns">32.16.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820193100 -0400" stop="20220820200000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820200000 -0400" stop="20220820200100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Bulletin de nouvelles</title>
+		<desc lang="en">L&apos;actualité de la région de Québec avec des reportages approfondis sur les grands enjeux. Explications, analyses et mises en contexte.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">1</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p215473_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00256304&amp;tmsId=SH002563040000</url>
+		<episode-num system="dd_progid">SH00256304.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820200100 -0400" stop="20220820210000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Les grands reportages</title>
+		<sub-title lang="en">Enquêtes criminelles: Affaire Kévin Lefebvre</sub-title>
+		<desc lang="en">Le 20 janvier 2016, en France; depuis deux mois, Maud, 28 ans, est amoureuse; elle a rencontré Kévin Lefebvre, un militaire, blessé en mission; elle a tout de suite été séduite par ce père veuf, mais la vérité est tout autre.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21238430_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168230&amp;tmsId=EP001682304908</url>
+		<episode-num system="dd_progid">EP00168230.4908</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820210000 -0400" stop="20220820213100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820213100 -0400" stop="20220820220000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820220000 -0400" stop="20220820222700 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">27</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820222700 -0400" stop="20220820223000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Sports express</title>
+		<desc lang="en">Une capsule sur le sport.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">3</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14482747_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02764435&amp;tmsId=SH027644350000</url>
+		<episode-num system="dd_progid">SH02764435.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820223000 -0400" stop="20220820230000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820230000 -0400" stop="20220820233000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820233000 -0400" stop="20220821000000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le journal de France 2</title>
+		<desc lang="en">L&apos;actualité internationale à 18h30. Pour un point de vue différent, un regard élargi, une nouvelle intelligente et une information privilégiée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425676_b_v9_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702047&amp;tmsId=SH017020470000</url>
+		<episode-num system="dd_progid">SH01702047.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821000000 -0400" stop="20220821003000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821003000 -0400" stop="20220821010000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821010000 -0400" stop="20220821013000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821013000 -0400" stop="20220821020000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821020000 -0400" stop="20220821023000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821023000 -0400" stop="20220821030000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821030000 -0400" stop="20220821033000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821033000 -0400" stop="20220821040000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821040000 -0400" stop="20220821043000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821043000 -0400" stop="20220821050000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821050000 -0400" stop="20220821053000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821053000 -0400" stop="20220821060000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821070000 -0400" stop="20220821080000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821080000 -0400" stop="20220821090000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821090000 -0400" stop="20220821100000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821100000 -0400" stop="20220821103000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821103000 -0400" stop="20220821110000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821110000 -0400" stop="20220821113000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821113000 -0400" stop="20220821120000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821120000 -0400" stop="20220821123100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
+		<episode-num system="dd_progid">SH02082981.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821123100 -0400" stop="20220821130000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
+		<episode-num system="dd_progid">SH02082981.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821130000 -0400" stop="20220821133000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Souvenirs olympiques</title>
+		<sub-title lang="en">Eric Lamaze: 2008, Pekin</sub-title>
+		<desc lang="en">Avec Éric Lamaze.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18320270_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03516015&amp;tmsId=EP035160150031</url>
+		<episode-num system="common">S02E09</episode-num>
+		<episode-num system="dd_progid">EP03516015.0031</episode-num>
+		<episode-num system="xmltv_ns">1.8.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821133000 -0400" stop="20220821140000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821140000 -0400" stop="20220821143000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821143000 -0400" stop="20220821150000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821150000 -0400" stop="20220821153000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821153000 -0400" stop="20220821160000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821160000 -0400" stop="20220821163000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821163000 -0400" stop="20220821170000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;épicerie</title>
+		<sub-title lang="en">L&apos;épicerie se rend en Abitibi-Témiscamingue</sub-title>
+		<desc lang="en">Des fermes d&apos;élevage de bovins aimeraient développer l&apos;achat local, mais elles sont freinées par l&apos;absence d&apos;un abattoir dans la région.</desc>
+		<date>20220820</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p418417_b_v9_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702057&amp;tmsId=EP017020570524</url>
+		<episode-num system="common">S20E42</episode-num>
+		<episode-num system="dd_progid">EP01702057.0524</episode-num>
+		<episode-num system="xmltv_ns">19.41.</episode-num>
+		<previously-shown start="20220820000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821170000 -0400" stop="20220821173100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821173100 -0400" stop="20220821180000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821180000 -0400" stop="20220821183100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821183100 -0400" stop="20220821190000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821190000 -0400" stop="20220821193100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821193100 -0400" stop="20220821200000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821200000 -0400" stop="20220821200100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Bulletin de nouvelles</title>
+		<desc lang="en">L&apos;actualité de la région de Québec avec des reportages approfondis sur les grands enjeux. Explications, analyses et mises en contexte.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">1</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p215473_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00256304&amp;tmsId=SH002563040000</url>
+		<episode-num system="dd_progid">SH00256304.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821200100 -0400" stop="20220821210000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">La semaine verte</title>
+		<desc lang="en">Toute l&apos;industrie laitière moderne repose sur le fait qu&apos;on sépare les petits veaux de leur mère à la naissance pour pouvoir vendre le lait; cette façon de faire a des conséquences sur la santé des veaux, mais aussi des vaches.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p255257_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00021161&amp;tmsId=EP000211610851</url>
+		<episode-num system="common">S51E50</episode-num>
+		<episode-num system="dd_progid">EP00021161.0851</episode-num>
+		<episode-num system="xmltv_ns">50.49.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821210000 -0400" stop="20220821213000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821213000 -0400" stop="20220821220000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;épicerie</title>
+		<sub-title lang="en">L&apos;épicerie se rend en Abitibi-Témiscamingue</sub-title>
+		<desc lang="en">Des fermes d&apos;élevage de bovins aimeraient développer l&apos;achat local, mais elles sont freinées par l&apos;absence d&apos;un abattoir dans la région.</desc>
+		<date>20220820</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p418417_b_v9_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702057&amp;tmsId=EP017020570524</url>
+		<episode-num system="common">S20E42</episode-num>
+		<episode-num system="dd_progid">EP01702057.0524</episode-num>
+		<episode-num system="xmltv_ns">19.41.</episode-num>
+		<previously-shown start="20220820000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821220000 -0400" stop="20220821223000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821223000 -0400" stop="20220821230000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821230000 -0400" stop="20220821233000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821233000 -0400" stop="20220822000000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le journal de France 2</title>
+		<desc lang="en">L&apos;actualité internationale à 18h30. Pour un point de vue différent, un regard élargi, une nouvelle intelligente et une information privilégiée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425676_b_v9_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702047&amp;tmsId=SH017020470000</url>
+		<episode-num system="dd_progid">SH01702047.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822000000 -0400" stop="20220822003000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822003000 -0400" stop="20220822010000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822010000 -0400" stop="20220822013000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822013000 -0400" stop="20220822020000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822020000 -0400" stop="20220822023000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822023000 -0400" stop="20220822030000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822030000 -0400" stop="20220822033000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822033000 -0400" stop="20220822040000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822040000 -0400" stop="20220822043000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822043000 -0400" stop="20220822050000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822050000 -0400" stop="20220822053000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822053000 -0400" stop="20220822060000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822060000 -0400" stop="20220822070000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822080000 -0400" stop="20220822090000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822090000 -0400" stop="20220822093000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822093000 -0400" stop="20220822120000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">150</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822120000 -0400" stop="20220822123000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p256575_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00681969&amp;tmsId=SH006819690000</url>
+		<episode-num system="dd_progid">SH00681969.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822123000 -0400" stop="20220822140000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Mordus de politique</title>
+		<desc lang="en">Débats, commentaires, analyses et vives discussions sur les enjeux de l&apos;heure en compagnie de mordus de politique qui mettent toute leur expérience au service des citoyens pour y voir clair.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15782904_b_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03020150&amp;tmsId=EP030201500608</url>
+		<episode-num system="common">S05E01</episode-num>
+		<episode-num system="dd_progid">EP03020150.0608</episode-num>
+		<episode-num system="xmltv_ns">4.0.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822140000 -0400" stop="20220822165700 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">177</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822165700 -0400" stop="20220822175500 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">En direct avec Patrice Roy</title>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">58</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12011232_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02241957&amp;tmsId=EP022419570736</url>
+		<episode-num system="dd_progid">EP02241957.0736</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822175500 -0400" stop="20220822190000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">65</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380474</url>
+		<episode-num system="dd_progid">EP03598138.0474</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021087</url>
+		<episode-num system="dd_progid">EP01089402.1087</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822200000 -0400" stop="20220822210000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Les grands reportages</title>
+		<sub-title lang="en">Enquêtes criminelles: affaire Marion Bouchard</sub-title>
+		<desc lang="en">Jusqu&apos;au tout dernier moment, le petit ami de Marion tente de se présenter comme une victime dans cette affaire sordide qui a laissé des traces indélébiles dans la vie de la famille et des amies de la jeune femme de Dijon, en France.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21238430_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168230&amp;tmsId=EP001682304988</url>
+		<episode-num system="dd_progid">EP00168230.4988</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal avec Céline Galipeau</title>
+		<desc lang="en">Ce magazine d&apos;information quotidien s&apos;appuie sur une grande équipe de journalistes et correspondants pour approfondir et comprendre les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14477704_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02763168&amp;tmsId=SH027631680000</url>
+		<episode-num system="dd_progid">SH02763168.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822220000 -0400" stop="20220822230000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822230000 -0400" stop="20220822233100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822233100 -0400" stop="20220823000000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823000000 -0400" stop="20220823000100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Bulletin de nouvelles</title>
+		<desc lang="en">L&apos;actualité de la région de Québec avec des reportages approfondis sur les grands enjeux. Explications, analyses et mises en contexte.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">1</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p215473_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00256304&amp;tmsId=SH002563040000</url>
+		<episode-num system="dd_progid">SH00256304.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823000100 -0400" stop="20220823010000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021087</url>
+		<episode-num system="dd_progid">EP01089402.1087</episode-num>
+		<previously-shown start="20220822000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823010000 -0400" stop="20220823020000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823020000 -0400" stop="20220823030000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380474</url>
+		<episode-num system="dd_progid">EP03598138.0474</episode-num>
+		<previously-shown start="20220822000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823030000 -0400" stop="20220823040000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823040000 -0400" stop="20220823043100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823043100 -0400" stop="20220823050000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823050000 -0400" stop="20220823053000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823053000 -0400" stop="20220823060000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823080000 -0400" stop="20220823090000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823090000 -0400" stop="20220823093000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823093000 -0400" stop="20220823120000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">150</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823120000 -0400" stop="20220823123000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p256575_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00681969&amp;tmsId=SH006819690000</url>
+		<episode-num system="dd_progid">SH00681969.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823123000 -0400" stop="20220823140000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Mordus de politique</title>
+		<desc lang="en">Débats, commentaires, analyses et vives discussions sur les enjeux de l&apos;heure en compagnie de mordus de politique qui mettent toute leur expérience au service des citoyens pour y voir clair.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15782904_b_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03020150&amp;tmsId=EP030201500609</url>
+		<episode-num system="common">S05E02</episode-num>
+		<episode-num system="dd_progid">EP03020150.0609</episode-num>
+		<episode-num system="xmltv_ns">4.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823140000 -0400" stop="20220823165700 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">177</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823165700 -0400" stop="20220823175500 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">En direct avec Patrice Roy</title>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">58</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12011232_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02241957&amp;tmsId=EP022419570737</url>
+		<episode-num system="dd_progid">EP02241957.0737</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823175500 -0400" stop="20220823190000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">65</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380475</url>
+		<episode-num system="dd_progid">EP03598138.0475</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823190000 -0400" stop="20220823200000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021088</url>
+		<episode-num system="dd_progid">EP01089402.1088</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823200000 -0400" stop="20220823210000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Les grands reportages</title>
+		<sub-title lang="en">Sous la loi des talibans</sub-title>
+		<desc lang="en">Le 15 août 2021, l&apos;Afghanistan a renoué avec une histoire tragique; à la faveur du départ des Occidentaux, les talibans ont repris le pays et savourent leur revanche: ils éteignent sans état d&apos;âme toute velléité de contestations.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21238430_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168230&amp;tmsId=EP001682304989</url>
+		<episode-num system="dd_progid">EP00168230.4989</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823210000 -0400" stop="20220823220000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal avec Céline Galipeau</title>
+		<desc lang="en">Ce magazine d&apos;information quotidien s&apos;appuie sur une grande équipe de journalistes et correspondants pour approfondir et comprendre les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14477704_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02763168&amp;tmsId=SH027631680000</url>
+		<episode-num system="dd_progid">SH02763168.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823220000 -0400" stop="20220823230000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823230000 -0400" stop="20220823233100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823233100 -0400" stop="20220824000000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824000000 -0400" stop="20220824000100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Bulletin de nouvelles</title>
+		<desc lang="en">L&apos;actualité de la région de Québec avec des reportages approfondis sur les grands enjeux. Explications, analyses et mises en contexte.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">1</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p215473_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00256304&amp;tmsId=SH002563040000</url>
+		<episode-num system="dd_progid">SH00256304.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824000100 -0400" stop="20220824010000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021088</url>
+		<episode-num system="dd_progid">EP01089402.1088</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824010000 -0400" stop="20220824020000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824020000 -0400" stop="20220824030000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380475</url>
+		<episode-num system="dd_progid">EP03598138.0475</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824030000 -0400" stop="20220824040000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824040000 -0400" stop="20220824043100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824043100 -0400" stop="20220824050000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824050000 -0400" stop="20220824053000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824053000 -0400" stop="20220824060000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824060000 -0400" stop="20220824070000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824080000 -0400" stop="20220824090000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824090000 -0400" stop="20220824093000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824093000 -0400" stop="20220824120000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">150</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824120000 -0400" stop="20220824123000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p256575_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00681969&amp;tmsId=SH006819690000</url>
+		<episode-num system="dd_progid">SH00681969.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824123000 -0400" stop="20220824140000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Mordus de politique</title>
+		<desc lang="en">Débats, commentaires, analyses et vives discussions sur les enjeux de l&apos;heure en compagnie de mordus de politique qui mettent toute leur expérience au service des citoyens pour y voir clair.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15782904_b_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03020150&amp;tmsId=EP030201500610</url>
+		<episode-num system="common">S05E03</episode-num>
+		<episode-num system="dd_progid">EP03020150.0610</episode-num>
+		<episode-num system="xmltv_ns">4.2.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824140000 -0400" stop="20220824165700 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">177</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824165700 -0400" stop="20220824175500 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">En direct avec Patrice Roy</title>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">58</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12011232_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02241957&amp;tmsId=EP022419570739</url>
+		<episode-num system="dd_progid">EP02241957.0739</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824175500 -0400" stop="20220824190000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">65</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380476</url>
+		<episode-num system="dd_progid">EP03598138.0476</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824190000 -0400" stop="20220824200000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021089</url>
+		<episode-num system="dd_progid">EP01089402.1089</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824200000 -0400" stop="20220824210000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Les grands reportages</title>
+		<sub-title lang="en">Baïa, l&apos;Atlantide romaine</sub-title>
+		<desc lang="en">Pompéi et le Vésuve: deux sites qui évoquent l&apos;archéologie et le volcanisme de la région de Naples, mais il y a aussi Baïa, ensevelie sous l&apos;eau, et les champs Phlégréens; il s&apos;agissait à l&apos;époque du lieu suprême de villégiature des empereurs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21282064_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168230&amp;tmsId=EP001682304874</url>
+		<episode-num system="dd_progid">EP00168230.4874</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824210000 -0400" stop="20220824220000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal avec Céline Galipeau</title>
+		<desc lang="en">Ce magazine d&apos;information quotidien s&apos;appuie sur une grande équipe de journalistes et correspondants pour approfondir et comprendre les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14477704_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02763168&amp;tmsId=SH027631680000</url>
+		<episode-num system="dd_progid">SH02763168.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824220000 -0400" stop="20220824230000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824230000 -0400" stop="20220824233100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824233100 -0400" stop="20220825000000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825000000 -0400" stop="20220825000100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Bulletin de nouvelles</title>
+		<desc lang="en">L&apos;actualité de la région de Québec avec des reportages approfondis sur les grands enjeux. Explications, analyses et mises en contexte.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">1</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p215473_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00256304&amp;tmsId=SH002563040000</url>
+		<episode-num system="dd_progid">SH00256304.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825000100 -0400" stop="20220825010000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021089</url>
+		<episode-num system="dd_progid">EP01089402.1089</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825010000 -0400" stop="20220825020000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825020000 -0400" stop="20220825030000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380476</url>
+		<episode-num system="dd_progid">EP03598138.0476</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825030000 -0400" stop="20220825040000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825040000 -0400" stop="20220825043100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825043100 -0400" stop="20220825050000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825050000 -0400" stop="20220825053000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825053000 -0400" stop="20220825060000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825060000 -0400" stop="20220825070000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825070000 -0400" stop="20220825080000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825080000 -0400" stop="20220825090000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825090000 -0400" stop="20220825093000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825093000 -0400" stop="20220825120000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">150</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825120000 -0400" stop="20220825123000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p256575_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00681969&amp;tmsId=SH006819690000</url>
+		<episode-num system="dd_progid">SH00681969.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825123000 -0400" stop="20220825140000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Mordus de politique</title>
+		<desc lang="en">Débats, commentaires, analyses et vives discussions sur les enjeux de l&apos;heure en compagnie de mordus de politique qui mettent toute leur expérience au service des citoyens pour y voir clair.</desc>
+		<date>20220825</date>
+		<category lang="en">Series</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15782904_b_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03020150&amp;tmsId=EP030201500611</url>
+		<episode-num system="common">S05E04</episode-num>
+		<episode-num system="dd_progid">EP03020150.0611</episode-num>
+		<episode-num system="xmltv_ns">4.3.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825140000 -0400" stop="20220825165700 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">177</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825165700 -0400" stop="20220825175500 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">En direct avec Patrice Roy</title>
+		<date>20220825</date>
+		<category lang="en">Series</category>
+		<length units="minutes">58</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12011232_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02241957&amp;tmsId=EP022419570738</url>
+		<episode-num system="dd_progid">EP02241957.0738</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825175500 -0400" stop="20220825190000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<sub-title lang="en">De l&apos;inflation à la récession?</sub-title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220825</date>
+		<category lang="en">Series</category>
+		<length units="minutes">65</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380477</url>
+		<episode-num system="dd_progid">EP03598138.0477</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825190000 -0400" stop="20220825200000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220825</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021090</url>
+		<episode-num system="dd_progid">EP01089402.1090</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825200000 -0400" stop="20220825210000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Les grands reportages</title>
+		<sub-title lang="en">Ciao plastique</sub-title>
+		<desc lang="en">Le plastique est partout, dans tous les aspects de nos vies; Evelyne et sa famille tentent de vivre sans plastique; il faut donc sortir le plastique de la maison, tenter de faire l&apos;épicerie et préparer la rentrée scolaire.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21238430_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168230&amp;tmsId=EP001682304745</url>
+		<episode-num system="dd_progid">EP00168230.4745</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825210000 -0400" stop="20220825220000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal avec Céline Galipeau</title>
+		<desc lang="en">Ce magazine d&apos;information quotidien s&apos;appuie sur une grande équipe de journalistes et correspondants pour approfondir et comprendre les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14477704_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02763168&amp;tmsId=SH027631680000</url>
+		<episode-num system="dd_progid">SH02763168.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825220000 -0400" stop="20220825230000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825230000 -0400" stop="20220825233100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825233100 -0400" stop="20220826000000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826000000 -0400" stop="20220826000100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Bulletin de nouvelles</title>
+		<desc lang="en">L&apos;actualité de la région de Québec avec des reportages approfondis sur les grands enjeux. Explications, analyses et mises en contexte.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">1</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p215473_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00256304&amp;tmsId=SH002563040000</url>
+		<episode-num system="dd_progid">SH00256304.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826000100 -0400" stop="20220826010000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220825</date>
+		<category lang="en">Series</category>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021090</url>
+		<episode-num system="dd_progid">EP01089402.1090</episode-num>
+		<previously-shown start="20220825000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826010000 -0400" stop="20220826020000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826020000 -0400" stop="20220826030000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<sub-title lang="en">De l&apos;inflation à la récession?</sub-title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220825</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380477</url>
+		<episode-num system="dd_progid">EP03598138.0477</episode-num>
+		<previously-shown start="20220825000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826030000 -0400" stop="20220826040000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826040000 -0400" stop="20220826043100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826043100 -0400" stop="20220826050000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826050000 -0400" stop="20220826053000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826053000 -0400" stop="20220826060000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826060000 -0400" stop="20220826070000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826070000 -0400" stop="20220826080000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826080000 -0400" stop="20220826090000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826090000 -0400" stop="20220826093000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826093000 -0400" stop="20220826120000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">150</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826120000 -0400" stop="20220826123000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p256575_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00681969&amp;tmsId=SH006819690000</url>
+		<episode-num system="dd_progid">SH00681969.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826123000 -0400" stop="20220826133000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">La parole aux mordus de politique</title>
+		<desc lang="en">C&apos;est au tour du public mordu de politique de s&apos;affirmer dans une émission où Sébastien Bovet, accompagné d&apos;un invité, aborde les questions et commentaires des téléspectateurs à propos d&apos;un sujet qui suscite des débats.</desc>
+		<date>20220826</date>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18705139_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598341&amp;tmsId=EP035983410076</url>
+		<episode-num system="common">S02E40</episode-num>
+		<episode-num system="dd_progid">EP03598341.0076</episode-num>
+		<episode-num system="xmltv_ns">1.39.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826133000 -0400" stop="20220826165700 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">207</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826165700 -0400" stop="20220826175500 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">En direct avec Patrice Roy</title>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">58</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12011232_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02241957&amp;tmsId=EP022419570740</url>
+		<episode-num system="dd_progid">EP02241957.0740</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826175500 -0400" stop="20220826190000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">65</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380478</url>
+		<episode-num system="dd_progid">EP03598138.0478</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826190000 -0400" stop="20220826200000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021091</url>
+		<episode-num system="dd_progid">EP01089402.1091</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826200000 -0400" stop="20220826210000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Les grands reportages</title>
+		<sub-title lang="en">Un immeuble dans l&apos;Est</sub-title>
+		<desc lang="en">En 1973, Radio-Canada Montréal réunit enfin dans un seul lieu, dans l&apos;Est, toutes ses composantes qui étaient jusque-là disséminées à travers la ville.</desc>
+		<date>20220827</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21238430_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168230&amp;tmsId=EP001682304990</url>
+		<episode-num system="dd_progid">EP00168230.4990</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826210000 -0400" stop="20220826220000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal avec Céline Galipeau</title>
+		<desc lang="en">Ce magazine d&apos;information quotidien s&apos;appuie sur une grande équipe de journalistes et correspondants pour approfondir et comprendre les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14477704_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02763168&amp;tmsId=SH027631680000</url>
+		<episode-num system="dd_progid">SH02763168.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826220000 -0400" stop="20220826230000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826230000 -0400" stop="20220826233100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826233100 -0400" stop="20220827000000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827000000 -0400" stop="20220827000100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Bulletin de nouvelles</title>
+		<desc lang="en">L&apos;actualité de la région de Québec avec des reportages approfondis sur les grands enjeux. Explications, analyses et mises en contexte.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">1</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p215473_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00256304&amp;tmsId=SH002563040000</url>
+		<episode-num system="dd_progid">SH00256304.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827000100 -0400" stop="20220827010000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">24/60</title>
+		<desc lang="en">Une revue des dossiers d&apos;importance survenus dans la journée.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200544_b_v4_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089402&amp;tmsId=EP010894021091</url>
+		<episode-num system="dd_progid">EP01089402.1091</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827010000 -0400" stop="20220827020000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827020000 -0400" stop="20220827030000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Zone économie</title>
+		<desc lang="en">Des tendances lourdes des marchés aux enjeux des politiques économiques en passant par les développements du commerce et de l&apos;industrie, toute nouvelle économique d&apos;importance est abordée.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18704303_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03598138&amp;tmsId=EP035981380478</url>
+		<episode-num system="dd_progid">EP03598138.0478</episode-num>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827030000 -0400" stop="20220827040000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827040000 -0400" stop="20220827043100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827043100 -0400" stop="20220827050000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827050000 -0400" stop="20220827053000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827053000 -0400" stop="20220827060000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827060000 -0400" stop="20220827070000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827070000 -0400" stop="20220827080000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827080000 -0400" stop="20220827090000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827090000 -0400" stop="20220827100000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">D&apos;abord l&apos;info</title>
+		<desc lang="en">Le rendez-vous quotidien pour être à l&apos;affût de l&apos;actualité, au pays et partout dans le monde, dès le lever du jour.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21007756_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04091113&amp;tmsId=SH040911130000</url>
+		<episode-num system="dd_progid">SH04091113.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827100000 -0400" stop="20220827103000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827103000 -0400" stop="20220827110000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827110000 -0400" stop="20220827113000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827113000 -0400" stop="20220827120000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827120000 -0400" stop="20220827123100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
+		<episode-num system="dd_progid">SH02082981.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827123100 -0400" stop="20220827130000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
+		<episode-num system="dd_progid">SH02082981.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827130000 -0400" stop="20220827133000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national hebdo</title>
+		<desc lang="en">Les reportages les plus significatifs diffusés dans les éditions régionales du &quot;Téléjournal.&quot;</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425905_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00959280&amp;tmsId=SH009592800000</url>
+		<episode-num system="dd_progid">SH00959280.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827133000 -0400" stop="20220827140000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827140000 -0400" stop="20220827143000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827143000 -0400" stop="20220827150000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827150000 -0400" stop="20220827153000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827153000 -0400" stop="20220827160000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827160000 -0400" stop="20220827163000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827163000 -0400" stop="20220827170000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;info maintenant</title>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
+		<episode-num system="dd_progid">SH04297728.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827170000 -0400" stop="20220827173000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827173000 -0400" stop="20220827180000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">L&apos;épicerie</title>
+		<desc lang="en">L&apos;épicerie s&apos;intéresse aux mécanismes de l&apos;hydratation et de la déshydratation; apprêter les herbes salées du Bas-Saint-Laurent; on découvre l&apos;ail noir de l&apos;île d&apos;Orléans.</desc>
+		<date>20220827</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p418417_b_v9_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702057&amp;tmsId=EP017020570525</url>
+		<episode-num system="common">S20E43</episode-num>
+		<episode-num system="dd_progid">EP01702057.0525</episode-num>
+		<episode-num system="xmltv_ns">19.42.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827180000 -0400" stop="20220827183000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le téléjournal week-end</title>
+		<desc lang="en">Tous les développements de l&apos;actualité nationale et internationale sont passés en revue.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347795_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02083098&amp;tmsId=SH020830980000</url>
+		<episode-num system="dd_progid">SH02083098.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827183000 -0400" stop="20220827193100 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Découverte</title>
+		<sub-title lang="en">Orques en péril</sub-title>
+		<desc lang="en">Prédateurs mythiques, longtemps craints dans toutes les mers du monde, les orques font aujourd&apos;hui l&apos;objet d&apos;une véritable fascination.</desc>
+		<date>20220827</date>
+		<category lang="en">Series</category>
+		<length units="minutes">61</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p225903_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702051&amp;tmsId=EP017020510312</url>
+		<episode-num system="common">S33E08</episode-num>
+		<episode-num system="dd_progid">EP01702051.0312</episode-num>
+		<episode-num system="xmltv_ns">32.7.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827193100 -0400" stop="20220827200000 -0400" channel="ICA| ICI RDI HD.60327.zap2it.com">
+		<title lang="en">Le national</title>
+		<desc lang="en">Un tour d&apos;horizon complet des dossiers qui retiennent l&apos;attention dans toutes les régions du pays.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p425903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00857172&amp;tmsId=SH008571720000</url>
+		<episode-num system="dd_progid">SH00857172.0000</episode-num>
+		<new />
 		<subtitles type="teletext" />
 	</programme>
 </tv>
