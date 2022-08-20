@@ -8,6 +8,12 @@
 		<display-name>3735 ADDIK TV HD</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/44962/s44962_h3_aa.png" />
 	</channel>
+	<channel id="I3738 ARTV.61443.zap2it.com">
+		<display-name>ARTVHD</display-name>
+		<display-name>3738 ARTV ARTVHD</display-name>
+		<display-name>3738 ARTV</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/61443/s61443_h3_aa.png" />
+	</channel>
 	<programme start="20220820130000 -0400" stop="20220820140000 -0400" channel="I3735 ADDIK TV HD.44962.zap2it.com">
 		<title lang="en">CSI: les experts</title>
 		<sub-title lang="en">Ça sent le sapin</sub-title>
@@ -1454,5 +1460,1479 @@
 		</audio>
 		<previously-shown />
 		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820120000 -0400" stop="20220820140000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les enfants du marais</title>
+		<sub-title lang="en">Movie (1999)</sub-title>
+		<desc lang="en">Loin du chaos du monde, les citoyens d&apos;un paisible marais des bords de la Loire vivent la belle vie au fil des saisons.</desc>
+		<date>1999</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p24045_p_v4_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00188616&amp;tmsId=MV001886160000</url>
+		<episode-num system="dd_progid">MV00188616.0000</episode-num>
+		<premiere />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220820140000 -0400" stop="20220820160000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Tatie Danielle</title>
+		<sub-title lang="en">Movie (1990)</sub-title>
+		<desc lang="en">Une vieille (Tsilla Chelton) acariâtre quitte la campagne pour aller demeurer chez son neveu, à Paris, où elle se plaît à tyranniser sa famille.</desc>
+		<date>1990</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13797_p_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00036113&amp;tmsId=MV000361130000</url>
+		<episode-num system="dd_progid">MV00036113.0000</episode-num>
+		<premiere />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220820160000 -0400" stop="20220820163000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
+		<sub-title lang="en">Petits plaisirs</sub-title>
+		<desc lang="en">Junior et Mao profitent de la fête des mères.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p427524_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00631749&amp;tmsId=EP006317490001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP00631749.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220820163000 -0400" stop="20220820170000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
+		<sub-title lang="en">Bougon en poudre</sub-title>
+		<desc lang="en">Le propriétaire annonce aux Bougon qu&apos;il a obtenu la visite d&apos;un inspecteur de la Régie du logement.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p427524_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00631749&amp;tmsId=EP006317490064</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP00631749.0064</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220820170000 -0400" stop="20220820190000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Lepage au Soleil: à l&apos;origine de Kanata</title>
+		<sub-title lang="en">Movie (2019)</sub-title>
+		<desc lang="en">Au printemps 2016, Ariane Mnouchkine confie sa troupe, le Théâtre du Soleil, à un autre metteur en scène. L&apos;oeuvre imagine la rencontre d&apos;Européens avec des gens des Premières Nations du Canada sur deux siècles.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16843533_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01252903&amp;tmsId=MV012529030000</url>
+		<episode-num system="dd_progid">MV01252903.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820190000 -0400" stop="20220820193000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
+		<sub-title lang="en">Deuil national</sub-title>
+		<desc lang="en">Pendant que l&apos;on s&apos;occupe des funérailles de Pépère, Dodo et Mao vont chercher la tante Louisette; Junior prépare une surprise à Papa et Mononque.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p427524_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00631749&amp;tmsId=EP006317490020</url>
+		<episode-num system="common">S02E11</episode-num>
+		<episode-num system="dd_progid">EP00631749.0020</episode-num>
+		<episode-num system="xmltv_ns">1.10.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220820193000 -0400" stop="20220820200000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
+		<sub-title lang="en">Coffre et drogue</sub-title>
+		<desc lang="en">Les Bougon tentent d&apos;ouvrir un coffre-fort particulièrement fort tandis que Dolorès confond héroïne et badminton.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p427524_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00631749&amp;tmsId=EP006317490021</url>
+		<episode-num system="common">S02E12</episode-num>
+		<episode-num system="dd_progid">EP00631749.0021</episode-num>
+		<episode-num system="xmltv_ns">1.11.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20220820200000 -0400" stop="20220820210000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Tout simplement country</title>
+		<sub-title lang="en">Gregory Charles, Aie Cobaye et Sacha Lee</sub-title>
+		<desc lang="en">Guylaine Tanguay reçoit le duo Aie Cobaye, la chanteuse Sacha-Lee et le mélomane incomparable Gregory Charles; ceci donne lieu à des rencontres captivantes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21091001_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03373583&amp;tmsId=EP033735830025</url>
+		<episode-num system="common">S03E01</episode-num>
+		<episode-num system="dd_progid">EP03373583.0025</episode-num>
+		<episode-num system="xmltv_ns">2.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820210000 -0400" stop="20220820233000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;odyssée</title>
+		<sub-title lang="en">Movie (2016)</sub-title>
+		<desc lang="en">En 1948, Jacques-Yves Cousteau, sa femme, et ses deux fils vivent au paradis, dans une jolie maison surplombant la mer Méditerranée. Cependant, Cousteau ne rêve que d&apos;aventure.</desc>
+		<date>2016</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">150</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13865208_p_v13_bk.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01009453&amp;tmsId=MV010094530000</url>
+		<episode-num system="dd_progid">MV01009453.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220820233000 -0400" stop="20220821011500 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Inquiétante rencontre</title>
+		<sub-title lang="en">Movie (2019)</sub-title>
+		<desc lang="en">En 1987, dans un petit village de Terre-Neuve, l&apos;adolescente Jackie Dunphy aspire à se joindre à la chorale de son école secondaire. Le monde de Jackie rentre en collision avec celui de Dennis, un rejeté de la société.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17951099_v_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01868930&amp;tmsId=MV018689300000</url>
+		<episode-num system="dd_progid">MV01868930.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20220821011500 -0400" stop="20220821013000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Capsules pour emporter</title>
+		<sub-title lang="en">Nouvelle carrière politique; Scoop politique</sub-title>
+		<category lang="en">Series</category>
+		<length units="minutes">15</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19256747_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03723389&amp;tmsId=EP037233890002</url>
+		<episode-num system="dd_progid">EP03723389.0002</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821013000 -0400" stop="20220821023000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Aminata</title>
+		<desc lang="en">Kidnappée en Afrique par des marchands d&apos;esclaves, Aminata Diallo, 11 ans, subit la dure traversée vers l&apos;Amérique; Aminata s&apos;acclimate à la vie en Caroline du Sud.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11322669_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02162156&amp;tmsId=EP021621560001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP02162156.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220821023000 -0400" stop="20220821033000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Aminata</title>
+		<desc lang="en">Aminata, maintenant devenue une belle jeune fille, en bonne santé et éduquée, elle est la princesse des plantations de Robinson Appleby; après avoir rejeté pendant plusieurs saisons les avances d&apos;Appleby, Aminata se marie avec Chekura.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11335916_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02162156&amp;tmsId=EP021621560005</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP02162156.0005</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220821033000 -0400" stop="20220821040000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Rétroviseur</title>
+		<sub-title lang="en">Marina Orsini</sub-title>
+		<desc lang="en">Marinia Orisini a évolué sous les yeux du public, passant de mannequin à comédienne, puis à animatrice.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14376912_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02741611&amp;tmsId=EP027416110010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP02741611.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821040000 -0400" stop="20220821050000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">Reconnaissance</sub-title>
+		<desc lang="en">Aurélie écrit une lettre à Bidou pour lui emprunter une importante somme d&apos;argent.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370026</url>
+		<episode-num system="dd_progid">EP00206437.0026</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821050000 -0400" stop="20220821060000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">Les soeurs ennemies</sub-title>
+		<desc lang="en">Un drame s&apos;abat sur la maison d&apos;Angélique; sa soeur se montre intraitable et pose un geste de la plus grande cruauté.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370027</url>
+		<episode-num system="dd_progid">EP00206437.0027</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Pour emporter</title>
+		<sub-title lang="en">Yoshua Bengio</sub-title>
+		<desc lang="en">France Beaudoin reçoit le chercheur en intelligence artificielle de renommée mondiale Yoshua Bengio; loin du catastrophisme ambiant, il partage avec nous une vision de l&apos;avenir où les idées seront plus importantes que le matériel.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15773996_b_v10_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03018397&amp;tmsId=EP030183970035</url>
+		<episode-num system="common">S02E15</episode-num>
+		<episode-num system="dd_progid">EP03018397.0035</episode-num>
+		<episode-num system="xmltv_ns">1.14.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821070000 -0400" stop="20220821075700 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">Affaires de famille</sub-title>
+		<desc lang="en">Elizabeth encourage Nathan à enquêter sur les agissements de son père; Lucas apprécie grandement les premiers chapitres du livre d&apos;Elizabeth; Clara et Jesse préparent leur mariage.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">57</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17928941_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110077</url>
+		<episode-num system="common">S07E03</episode-num>
+		<episode-num system="dd_progid">EP02809411.0077</episode-num>
+		<episode-num system="xmltv_ns">6.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821075700 -0400" stop="20220821085400 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">Douceur et amertume</sub-title>
+		<desc lang="en">Elizabeth, Carson et Faith font face à une épidémie de varicelle; Rosemary tombe malade.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">57</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17928942_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110078</url>
+		<episode-num system="common">S07E04</episode-num>
+		<episode-num system="dd_progid">EP02809411.0078</episode-num>
+		<episode-num system="xmltv_ns">6.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821085400 -0400" stop="20220821095000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">Un cadeau inattendu</sub-title>
+		<desc lang="en">Surprise, Elizabeth reçoit un bouquet de fleurs d&apos;un mystérieux prétendant.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">56</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17928943_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110079</url>
+		<episode-num system="common">S07E05</episode-num>
+		<episode-num system="dd_progid">EP02809411.0079</episode-num>
+		<episode-num system="xmltv_ns">6.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821095000 -0400" stop="20220821104700 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">En parfaite cohésion</sub-title>
+		<desc lang="en">Lorsque leurs plans tournent mal, Elizabeth rassemble les habitants de la ville pour offrir à Clara et Jesse le mariage de leurs rêves.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">57</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17928944_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110080</url>
+		<episode-num system="common">S07E06</episode-num>
+		<episode-num system="dd_progid">EP02809411.0080</episode-num>
+		<episode-num system="xmltv_ns">6.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821104700 -0400" stop="20220821114400 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">Un coeur d&apos;écrivain</sub-title>
+		<desc lang="en">Elizabeth part en voyage avec Lucas et doit faire face à ses sentiments pour lui; Lee et Rosemary sont mis au défi de s&apos;occuper de petit Jack.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">57</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18046803_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110085</url>
+		<episode-num system="common">S07E07</episode-num>
+		<episode-num system="dd_progid">EP02809411.0085</episode-num>
+		<episode-num system="xmltv_ns">6.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821114400 -0400" stop="20220821120000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Capsules pour emporter</title>
+		<sub-title lang="en">Nouvelle carrière politique; Scoop politique</sub-title>
+		<category lang="en">Series</category>
+		<length units="minutes">16</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19256747_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03723389&amp;tmsId=EP037233890002</url>
+		<episode-num system="dd_progid">EP03723389.0002</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821120000 -0400" stop="20220821130000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Ka&apos;kwet élabore un plan; Gilbert se voit offrir une occasion qu&apos;il ne peut refuser; Anne se rend compte que le cours de sa vie pourrait changer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17483107_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700007</url>
+		<episode-num system="common">S03E08</episode-num>
+		<episode-num system="dd_progid">EP03424570.0007</episode-num>
+		<episode-num system="xmltv_ns">2.7.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821130000 -0400" stop="20220821140000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Victimes d&apos;un acte de violence particulièrement choquant, Oqwatnuk et Aluk demandent l&apos;aide des Cuthbert; Anne doit faire affronter certaines vérités; Gilbert décide de son destin.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17513557_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700009</url>
+		<episode-num system="common">S03E09</episode-num>
+		<episode-num system="dd_progid">EP03424570.0009</episode-num>
+		<episode-num system="xmltv_ns">2.8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821140000 -0400" stop="20220821150000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Tandis que les étudiants se préparent à partir pour l&apos;université, Gilbert tente une dernière chance; Anne fait une rencontre décisive à Charlottetown.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17538911_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700010</url>
+		<episode-num system="common">S03E10</episode-num>
+		<episode-num system="dd_progid">EP03424570.0010</episode-num>
+		<episode-num system="xmltv_ns">2.9.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821150000 -0400" stop="20220821160000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Joe Fafard, selfie</title>
+		<desc lang="en">L&apos;histoire et le parcours de Joe Fafard, célèbre sculpteur canadien-français, né et établi en Saskatchewan et lauréat de nombreux prix. L&apos;oeuvre de Fafard a fait l&apos;objet de plusieurs rétrospectives au Canada.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16859398_b_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03216727&amp;tmsId=SH032167270000</url>
+		<episode-num system="dd_progid">SH03216727.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821160000 -0400" stop="20220821170000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Grantchester</title>
+		<sub-title lang="en">Dieu dans un flacon</sub-title>
+		<desc lang="en">Un étudiant nu court à travers la ville en hurlant que les extraterrestres arrivent; Keating s&apos;apprête à l&apos;arrêter, mais Will lui dit qu&apos;il s&apos;agit probablement d&apos;un excès d&apos;ivresse; l&apos;étudiant est retrouvé mort le lendemain dans un champ.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17736469_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03071088&amp;tmsId=EP030710880032</url>
+		<episode-num system="common">S05E04</episode-num>
+		<episode-num system="dd_progid">EP03071088.0032</episode-num>
+		<episode-num system="xmltv_ns">4.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821170000 -0400" stop="20220821180000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La table de Kim</title>
+		<sub-title lang="en">Le goût du risque, faire face à ses peurs</sub-title>
+		<desc lang="en">En réunissant la comédienne Christine Beaulieu, My Lien, le Pharmachien Olivier Bernard et sa compagne l&apos;autrice India Desjardins, Kim les invite à s&apos;échanger sur la part du risque dans toute réussite, que ce soit en arts, en affaires ou en sciences.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19523506_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03397904&amp;tmsId=EP033979040012</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP03397904.0012</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821180000 -0400" stop="20220821190000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Langevin, tours de ville</title>
+		<desc lang="en">Stéphane Bourgoin provoque Gus avec le défi inusité d&apos;exécuter pour Michèle Deslauriers un tour de magie sous l&apos;eau et en plongée; Luc Langevin, Gus, Stéphane Bourgoin et Viktor Vincent divertissent les passants dans la rue.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16699441_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03172536&amp;tmsId=EP031725360003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP03172536.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821190000 -0400" stop="20220821200000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les jumelles Dionne</title>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9222458_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03023383&amp;tmsId=EP030233830005</url>
+		<episode-num system="dd_progid">EP03023383.0005</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821200000 -0400" stop="20220821210000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les jumelles Dionne</title>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9222458_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03023383&amp;tmsId=EP030233830006</url>
+		<episode-num system="dd_progid">EP03023383.0006</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821210000 -0400" stop="20220821223600 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La disparition des lucioles</title>
+		<sub-title lang="en">Movie (2018)</sub-title>
+		<desc lang="en">Une adolescente frustrée se libère de l&apos;influence de sa mère et de sa vie étroite dans une petite ville industrielle pour savoir qui elle est vraiment.</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">96</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15963545_p_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01193814&amp;tmsId=MV011938140000</url>
+		<episode-num system="dd_progid">MV01193814.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821223600 -0400" stop="20220822003600 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Tatie Danielle</title>
+		<sub-title lang="en">Movie (1990)</sub-title>
+		<desc lang="en">Une vieille (Tsilla Chelton) acariâtre quitte la campagne pour aller demeurer chez son neveu, à Paris, où elle se plaît à tyranniser sa famille.</desc>
+		<date>1990</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13797_p_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00036113&amp;tmsId=MV000361130000</url>
+		<episode-num system="dd_progid">MV00036113.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822003600 -0400" stop="20220822030000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;odyssée</title>
+		<sub-title lang="en">Movie (2016)</sub-title>
+		<desc lang="en">En 1948, Jacques-Yves Cousteau, sa femme, et ses deux fils vivent au paradis, dans une jolie maison surplombant la mer Méditerranée. Cependant, Cousteau ne rêve que d&apos;aventure.</desc>
+		<date>2016</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">144</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13865208_p_v13_bk.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01009453&amp;tmsId=MV010094530000</url>
+		<episode-num system="dd_progid">MV01009453.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822030000 -0400" stop="20220822040000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Pour emporter</title>
+		<sub-title lang="en">Yoshua Bengio</sub-title>
+		<desc lang="en">France Beaudoin reçoit le chercheur en intelligence artificielle de renommée mondiale Yoshua Bengio; loin du catastrophisme ambiant, il partage avec nous une vision de l&apos;avenir où les idées seront plus importantes que le matériel.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15773996_b_v10_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03018397&amp;tmsId=EP030183970035</url>
+		<episode-num system="common">S02E15</episode-num>
+		<episode-num system="dd_progid">EP03018397.0035</episode-num>
+		<episode-num system="xmltv_ns">1.14.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822040000 -0400" stop="20220822050000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">La page déchirée</sub-title>
+		<desc lang="en">Le gouvernement fait enquête et on exige des explications de Séraphin à propos d&apos;une page déchirée dans un livre de la colonisation.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370058</url>
+		<episode-num system="dd_progid">EP00206437.0058</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822050000 -0400" stop="20220822060000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">Le réveillon des anciens</sub-title>
+		<desc lang="en">Séraphin refuse d&apos;assister au réveillon des anciens; Alexis avoue à Donalda ne l&apos;avoir jamais oubliée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370059</url>
+		<episode-num system="dd_progid">EP00206437.0059</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822060000 -0400" stop="20220822070000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Ka&apos;kwet élabore un plan; Gilbert se voit offrir une occasion qu&apos;il ne peut refuser; Anne se rend compte que le cours de sa vie pourrait changer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17483107_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700007</url>
+		<episode-num system="common">S03E08</episode-num>
+		<episode-num system="dd_progid">EP03424570.0007</episode-num>
+		<episode-num system="xmltv_ns">2.7.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Misérables</title>
+		<desc lang="en">Fantine est obligée de prendre des mesures désespérées pour joindre les deux bouts; manipulé par Javert, Jean Valjean est prêt à se livrer à la justice, mais il fait une promesse à Fantine qui va tout changer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18626656_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03654867&amp;tmsId=EP036548670003</url>
+		<episode-num system="dd_progid">EP03654867.0003</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822080000 -0400" stop="20220822090000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Misérables</title>
+		<desc lang="en">Valjean n&apos;a pas oublié la promesse qu&apos;il a faite à Fantine; à l&apos;auberge des Thénardier, il retrouve Cosette, meurtrie et maltraitée; les deux fuient vers Paris, mais Javert, obsédé, les talonne.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18626660_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03654867&amp;tmsId=EP036548670004</url>
+		<episode-num system="dd_progid">EP03654867.0004</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822090000 -0400" stop="20220822100000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">Un coeur d&apos;écrivain</sub-title>
+		<desc lang="en">Elizabeth part en voyage avec Lucas et doit faire face à ses sentiments pour lui; Lee et Rosemary sont mis au défi de s&apos;occuper de petit Jack.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18046803_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110085</url>
+		<episode-num system="common">S07E07</episode-num>
+		<episode-num system="dd_progid">EP02809411.0085</episode-num>
+		<episode-num system="xmltv_ns">6.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Ka&apos;kwet élabore un plan; Gilbert se voit offrir une occasion qu&apos;il ne peut refuser; Anne se rend compte que le cours de sa vie pourrait changer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17483107_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700007</url>
+		<episode-num system="common">S03E08</episode-num>
+		<episode-num system="dd_progid">EP03424570.0007</episode-num>
+		<episode-num system="xmltv_ns">2.7.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822110000 -0400" stop="20220822120000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Victimes d&apos;un acte de violence particulièrement choquant, Oqwatnuk et Aluk demandent l&apos;aide des Cuthbert; Anne doit faire affronter certaines vérités; Gilbert décide de son destin.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17513557_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700009</url>
+		<episode-num system="common">S03E09</episode-num>
+		<episode-num system="dd_progid">EP03424570.0009</episode-num>
+		<episode-num system="xmltv_ns">2.8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822120000 -0400" stop="20220822130000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Tandis que les étudiants se préparent à partir pour l&apos;université, Gilbert tente une dernière chance; Anne fait une rencontre décisive à Charlottetown.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17538911_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700010</url>
+		<episode-num system="common">S03E10</episode-num>
+		<episode-num system="dd_progid">EP03424570.0010</episode-num>
+		<episode-num system="xmltv_ns">2.9.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822130000 -0400" stop="20220822140000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Joe Fafard, selfie</title>
+		<desc lang="en">L&apos;histoire et le parcours de Joe Fafard, célèbre sculpteur canadien-français, né et établi en Saskatchewan et lauréat de nombreux prix. L&apos;oeuvre de Fafard a fait l&apos;objet de plusieurs rétrospectives au Canada.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16859398_b_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03216727&amp;tmsId=SH032167270000</url>
+		<episode-num system="dd_progid">SH03216727.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822140000 -0400" stop="20220822150000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Grantchester</title>
+		<sub-title lang="en">Dieu dans un flacon</sub-title>
+		<desc lang="en">Un étudiant nu court à travers la ville en hurlant que les extraterrestres arrivent; Keating s&apos;apprête à l&apos;arrêter, mais Will lui dit qu&apos;il s&apos;agit probablement d&apos;un excès d&apos;ivresse; l&apos;étudiant est retrouvé mort le lendemain dans un champ.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17736469_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03071088&amp;tmsId=EP030710880032</url>
+		<episode-num system="common">S05E04</episode-num>
+		<episode-num system="dd_progid">EP03071088.0032</episode-num>
+		<episode-num system="xmltv_ns">4.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822150000 -0400" stop="20220822160000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Langevin, tours de ville</title>
+		<desc lang="en">Luc Langevin met au défi Viktor Vincent de réussir à influencer le cerveau de Messmer; Julien Lacroix souhaite que Luc Langevin lui fasse un tour de magie impressionnant avec les objets qu&apos;il apportera lui-même.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16639050_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03172536&amp;tmsId=EP031725360002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03172536.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822160000 -0400" stop="20220822170000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">Dans les bois</sub-title>
+		<desc lang="en">Une tempête met Hope Valley en danger; Elizabeth organise une sortie scolaire avec la moitié de la classe pendant que Carson, l&apos;enseignant suppléant, s&apos;occupe des autres étudiants.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18046855_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110082</url>
+		<episode-num system="common">S07E08</episode-num>
+		<episode-num system="dd_progid">EP02809411.0082</episode-num>
+		<episode-num system="xmltv_ns">6.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822170000 -0400" stop="20220822180000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">Une drôle de bénédiction</sub-title>
+		<desc lang="en">Todore demande à Séraphin de lui donner la bénédiction du jour de l&apos;An.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370060</url>
+		<episode-num system="dd_progid">EP00206437.0060</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822180000 -0400" stop="20220822190000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">La condamnation</sub-title>
+		<desc lang="en">Séraphin veut condamner la porte du haut-côté, mais Donalda se révolte.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370029</url>
+		<episode-num system="dd_progid">EP00206437.0029</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Tout simplement country</title>
+		<sub-title lang="en">Gregory Charles, Aie Cobaye et Sacha Lee</sub-title>
+		<desc lang="en">Guylaine Tanguay reçoit le duo Aie Cobaye, la chanteuse Sacha-Lee et le mélomane incomparable Gregory Charles; ceci donne lieu à des rencontres captivantes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21091001_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03373583&amp;tmsId=EP033735830025</url>
+		<episode-num system="common">S03E01</episode-num>
+		<episode-num system="dd_progid">EP03373583.0025</episode-num>
+		<episode-num system="xmltv_ns">2.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822200000 -0400" stop="20220822210000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Yannick Nézet-séguin et l&apos;Orchestre Métropolitain: la symphonie du fleuve</title>
+		<desc lang="en">Une oeuvre à couper le souffle, entre le talent des musiciens de l&apos;Orchestre Métropolitain, sous la direction inspirée de Yannick Nézet-Séguin, et le mouvement lyrique du fleuve.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22146087_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04299451&amp;tmsId=SH042994510000</url>
+		<episode-num system="dd_progid">SH04299451.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;Orchestre Métropolitain sur le Mont-Royal</title>
+		<desc lang="en">L&apos;Orchestre Métropolitain et son chef Yannick Nézet-Séguin ont le bonheur de nous offrir une prestation inédite enregistrée cet été sur le Mont-Royal.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19330731_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03740931&amp;tmsId=SH037409310000</url>
+		<episode-num system="dd_progid">SH03740931.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822220000 -0400" stop="20220822230000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Pour emporter</title>
+		<sub-title lang="en">Sophie Lorain</sub-title>
+		<desc lang="en">France Beaudoin reçoit la comédienne, réalisatrice et productrice Sophie Lorain; allergique aux temps libres et convaincue que le ciel va lui tomber sur la tête, Sophie parle de sa personnalité de bûcheuse et de son apprentissage du métier.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17373488_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03018397&amp;tmsId=EP030183970028</url>
+		<episode-num system="common">S02E08</episode-num>
+		<episode-num system="dd_progid">EP03018397.0028</episode-num>
+		<episode-num system="xmltv_ns">1.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822230000 -0400" stop="20220823000000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La table de Kim</title>
+		<sub-title lang="en">Le goût du risque, faire face à ses peurs</sub-title>
+		<desc lang="en">En réunissant la comédienne Christine Beaulieu, My Lien, le Pharmachien Olivier Bernard et sa compagne l&apos;autrice India Desjardins, Kim les invite à s&apos;échanger sur la part du risque dans toute réussite, que ce soit en arts, en affaires ou en sciences.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19523506_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03397904&amp;tmsId=EP033979040012</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP03397904.0012</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823000000 -0400" stop="20220823010000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Des dames de coeur</title>
+		<sub-title lang="en">Roger entre en cure</sub-title>
+		<desc lang="en">Micheline Gagnon fait une présentation remarquée au bureau; Jean-Paul et Chantal tentent d&apos;aider Roger et lui proposent une cure de désintoxication; Évelyne promet de ne pas entamer les procédures de divorce pendant la cure.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365763_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01038342&amp;tmsId=EP010383420065</url>
+		<episode-num system="common">S03E15</episode-num>
+		<episode-num system="dd_progid">EP01038342.0065</episode-num>
+		<episode-num system="xmltv_ns">2.14.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823010000 -0400" stop="20220823020000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Des dames de coeur</title>
+		<sub-title lang="en">Julie rompt ses fiançailles</sub-title>
+		<desc lang="en">Julie fait le point avec Jean-Paul et lui rend sa bague de fiançailles; les choses ne sont pas faciles entre Lucie et Alexandre; Claire reçoit Lucie, Diane et Nicole à souper.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365763_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01038342&amp;tmsId=EP010383420063</url>
+		<episode-num system="common">S03E16</episode-num>
+		<episode-num system="dd_progid">EP01038342.0063</episode-num>
+		<episode-num system="xmltv_ns">2.15.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823020000 -0400" stop="20220823040000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les enfants du marais</title>
+		<sub-title lang="en">Movie (1999)</sub-title>
+		<desc lang="en">Loin du chaos du monde, les citoyens d&apos;un paisible marais des bords de la Loire vivent la belle vie au fil des saisons.</desc>
+		<date>1999</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p24045_p_v4_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00188616&amp;tmsId=MV001886160000</url>
+		<episode-num system="dd_progid">MV00188616.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823040000 -0400" stop="20220823043000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Rétroviseur</title>
+		<sub-title lang="en">France Castel</sub-title>
+		<desc lang="en">Une rencontre émouvante avec la chanteuse, comédienne et animatrice, France Castel; une femme libre qui a toujours été en avance sur son temps.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14376504_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02741611&amp;tmsId=EP027416110001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP02741611.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823043000 -0400" stop="20220823050000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La petite patrie</title>
+		<sub-title lang="en">Les préparatifs pour l&apos;hiver</sub-title>
+		<desc lang="en">Clément et son père font les derniers préparatifs pour fermer le chalet pour l&apos;hiver.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p255184_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00223665&amp;tmsId=EP002236650011</url>
+		<episode-num system="common">S01E11</episode-num>
+		<episode-num system="dd_progid">EP00223665.0011</episode-num>
+		<episode-num system="xmltv_ns">0.10.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823050000 -0400" stop="20220823060000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Langevin, tours de ville</title>
+		<desc lang="en">Luc Langevin met au défi Viktor Vincent de réussir à influencer le cerveau de Messmer; Julien Lacroix souhaite que Luc Langevin lui fasse un tour de magie impressionnant avec les objets qu&apos;il apportera lui-même.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16639050_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03172536&amp;tmsId=EP031725360002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03172536.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Victimes d&apos;un acte de violence particulièrement choquant, Oqwatnuk et Aluk demandent l&apos;aide des Cuthbert; Anne doit faire affronter certaines vérités; Gilbert décide de son destin.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17513557_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700009</url>
+		<episode-num system="common">S03E09</episode-num>
+		<episode-num system="dd_progid">EP03424570.0009</episode-num>
+		<episode-num system="xmltv_ns">2.8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Misérables</title>
+		<desc lang="en">Cosette, adolescente, remet en question sa vie recluse; Valjean et elle commencent une nouvelle vie à Paris, mais Valjean s&apos;inquiète quand Cosette rencontre Marius, un étudiant idéaliste.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18626664_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03654867&amp;tmsId=EP036548670005</url>
+		<episode-num system="dd_progid">EP03654867.0005</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823080000 -0400" stop="20220823090000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Misérables</title>
+		<desc lang="en">Le complot des Thénardier contre Jean Valjean se heurte à Javert; Paris est au bord de la révolte, mais Javert ne pense qu&apos;à retrouver l&apos;insaisissable Valjean; Marius, de plus en plus amoureux de Cosette, met de côté la révolution.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18626669_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03654867&amp;tmsId=EP036548670006</url>
+		<episode-num system="dd_progid">EP03654867.0006</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823090000 -0400" stop="20220823100000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">Dans les bois</sub-title>
+		<desc lang="en">Une tempête met Hope Valley en danger; Elizabeth organise une sortie scolaire avec la moitié de la classe pendant que Carson, l&apos;enseignant suppléant, s&apos;occupe des autres étudiants.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18046855_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110082</url>
+		<episode-num system="common">S07E08</episode-num>
+		<episode-num system="dd_progid">EP02809411.0082</episode-num>
+		<episode-num system="xmltv_ns">6.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823100000 -0400" stop="20220823110000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La table de Kim</title>
+		<sub-title lang="en">Le goût du risque, faire face à ses peurs</sub-title>
+		<desc lang="en">En réunissant la comédienne Christine Beaulieu, My Lien, le Pharmachien Olivier Bernard et sa compagne l&apos;autrice India Desjardins, Kim les invite à s&apos;échanger sur la part du risque dans toute réussite, que ce soit en arts, en affaires ou en sciences.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19523506_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03397904&amp;tmsId=EP033979040012</url>
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="dd_progid">EP03397904.0012</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823110000 -0400" stop="20220823120000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Lumière sur...</title>
+		<sub-title lang="en">Michèle Deslauriers</sub-title>
+		<desc lang="en">Figure dominante de la scène artistique québécoise, la comédienne Michèle Deslauriers trace son chemin dans le jeu et l&apos;humour depuis près de 50 ans; son énergie et son talent pour la comédie contribuent au succès d&apos;une multitude de productions.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9679886_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01673323&amp;tmsId=EP016733230078</url>
+		<episode-num system="common">S08E04</episode-num>
+		<episode-num system="dd_progid">EP01673323.0078</episode-num>
+		<episode-num system="xmltv_ns">7.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823120000 -0400" stop="20220823130000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">Une drôle de bénédiction</sub-title>
+		<desc lang="en">Todore demande à Séraphin de lui donner la bénédiction du jour de l&apos;An.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370060</url>
+		<episode-num system="dd_progid">EP00206437.0060</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823130000 -0400" stop="20220823140000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">La condamnation</sub-title>
+		<desc lang="en">Séraphin veut condamner la porte du haut-côté, mais Donalda se révolte.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370029</url>
+		<episode-num system="dd_progid">EP00206437.0029</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823140000 -0400" stop="20220823150000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Misérables</title>
+		<desc lang="en">Fantine est obligée de prendre des mesures désespérées pour joindre les deux bouts; manipulé par Javert, Jean Valjean est prêt à se livrer à la justice, mais il fait une promesse à Fantine qui va tout changer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18626656_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03654867&amp;tmsId=EP036548670003</url>
+		<episode-num system="dd_progid">EP03654867.0003</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Misérables</title>
+		<desc lang="en">Valjean n&apos;a pas oublié la promesse qu&apos;il a faite à Fantine; à l&apos;auberge des Thénardier, il retrouve Cosette, meurtrie et maltraitée; les deux fuient vers Paris, mais Javert, obsédé, les talonne.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18626660_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03654867&amp;tmsId=EP036548670004</url>
+		<episode-num system="dd_progid">EP03654867.0004</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823160000 -0400" stop="20220823170000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">De nouvelles possibilités</sub-title>
+		<desc lang="en">Elizabeth et Nathan tentent de résoudre leurs différends; Rosemary apprend un secret à propos de Lee; Elizabeth se sent trahie par Lucas, mais l&apos;aide à obtenir les dossiers de la compagnie pétrolière auprès de Gowen.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18046858_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110083</url>
+		<episode-num system="common">S07E09</episode-num>
+		<episode-num system="dd_progid">EP02809411.0083</episode-num>
+		<episode-num system="xmltv_ns">6.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823170000 -0400" stop="20220823180000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">Le rendez-vous clandestin</sub-title>
+		<desc lang="en">Soucieux des bonnes moeurs, Séraphin n&apos;est pas d&apos;accord avec les soirées organisées pour les jeunes chez janvier.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370066</url>
+		<episode-num system="dd_progid">EP00206437.0066</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823180000 -0400" stop="20220823190000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">La faute d&apos;Aurélie</sub-title>
+		<desc lang="en">Aurélie et son patron René se fiancent, mais la jeune femme commet une faute irréparable.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370030</url>
+		<episode-num system="dd_progid">EP00206437.0030</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823190000 -0400" stop="20220823193000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Moi et l&apos;autre...</title>
+		<sub-title lang="en">Le journal intime de Dominique</sub-title>
+		<desc lang="en">Dominique veut publier son journal intime, mais Denise veut absolument le lire avant.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p444206_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00153437&amp;tmsId=EP001534370096</url>
+		<episode-num system="common">S03E31</episode-num>
+		<episode-num system="dd_progid">EP00153437.0096</episode-num>
+		<episode-num system="xmltv_ns">2.30.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823193000 -0400" stop="20220823200000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Moi et l&apos;autre...</title>
+		<sub-title lang="en">Bain de soleil</sub-title>
+		<desc lang="en">Les filles veulent se faire bronzer sur le toit de l&apos;immeuble, même s&apos;il n&apos;y a pas de terrasse.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p444206_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00153437&amp;tmsId=EP001534370106</url>
+		<episode-num system="common">S03E34</episode-num>
+		<episode-num system="dd_progid">EP00153437.0106</episode-num>
+		<episode-num system="xmltv_ns">2.33.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823200000 -0400" stop="20220823220000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Le crime de l&apos;Orient-Express</title>
+		<sub-title lang="en">Movie (2017)</sub-title>
+		<desc lang="en">Des passagers se retrouvent prisonniers du célèbre train de l&apos;Orient-Express, alors qu&apos;un meurtre vient d&apos;être commis. Le détective belge Hercule Poirot mène l&apos;enquête.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14119324_p_v10_bc.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01054606&amp;tmsId=MV010546060000</url>
+		<episode-num system="dd_progid">MV01054606.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823220000 -0400" stop="20220823223000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
+		<sub-title lang="en">Deuil national</sub-title>
+		<desc lang="en">Pendant que l&apos;on s&apos;occupe des funérailles de Pépère, Dodo et Mao vont chercher la tante Louisette; Junior prépare une surprise à Papa et Mononque.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p427524_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00631749&amp;tmsId=EP006317490020</url>
+		<episode-num system="common">S02E11</episode-num>
+		<episode-num system="dd_progid">EP00631749.0020</episode-num>
+		<episode-num system="xmltv_ns">1.10.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823223000 -0400" stop="20220823230000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les Bougon: c&apos;est aussi ça la vie!</title>
+		<sub-title lang="en">Coffre et drogue</sub-title>
+		<desc lang="en">Les Bougon tentent d&apos;ouvrir un coffre-fort particulièrement fort tandis que Dolorès confond héroïne et badminton.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p427524_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00631749&amp;tmsId=EP006317490021</url>
+		<episode-num system="common">S02E12</episode-num>
+		<episode-num system="dd_progid">EP00631749.0021</episode-num>
+		<episode-num system="xmltv_ns">1.11.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20220823230000 -0400" stop="20220823233000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La petite patrie</title>
+		<sub-title lang="en">Les préparatifs pour l&apos;hiver</sub-title>
+		<desc lang="en">Clément et son père font les derniers préparatifs pour fermer le chalet pour l&apos;hiver.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p255184_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00223665&amp;tmsId=EP002236650011</url>
+		<episode-num system="common">S01E11</episode-num>
+		<episode-num system="dd_progid">EP00223665.0011</episode-num>
+		<episode-num system="xmltv_ns">0.10.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823233000 -0400" stop="20220824000000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La petite patrie</title>
+		<sub-title lang="en">L&apos;oncle Édouard</sub-title>
+		<desc lang="en">L&apos;oncle Édouard est en visite chez les Germain.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p255184_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00223665&amp;tmsId=EP002236650012</url>
+		<episode-num system="common">S01E12</episode-num>
+		<episode-num system="dd_progid">EP00223665.0012</episode-num>
+		<episode-num system="xmltv_ns">0.11.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824000000 -0400" stop="20220824010000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Des dames de coeur</title>
+		<sub-title lang="en">Lucie et Claire veulent ouvrir un restaurant</sub-title>
+		<desc lang="en">Carole et Olivier acceptent mal que Luc prenne si facilement la place de leur père; ils décident d&apos;aller vivre en appartement; Lucie et Claire parlent du projet d&apos;ouvrir un restaurant.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365763_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01038342&amp;tmsId=EP010383420069</url>
+		<episode-num system="common">S03E17</episode-num>
+		<episode-num system="dd_progid">EP01038342.0069</episode-num>
+		<episode-num system="xmltv_ns">2.16.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824010000 -0400" stop="20220824020000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Des dames de coeur</title>
+		<sub-title lang="en">Gilbert pense à sa retraite</sub-title>
+		<desc lang="en">Dès son retour au bureau, Gilbert a droit au rapport de Micheline; à la suite de cette première journée difficile, Gilbert pense à une certaine retraite tandis que Claire pense à accomplir de nouvelles choses.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365763_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01038342&amp;tmsId=EP010383420067</url>
+		<episode-num system="common">S03E18</episode-num>
+		<episode-num system="dd_progid">EP01038342.0067</episode-num>
+		<episode-num system="xmltv_ns">2.17.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824020000 -0400" stop="20220824040000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Tatie Danielle</title>
+		<sub-title lang="en">Movie (1990)</sub-title>
+		<desc lang="en">Une vieille (Tsilla Chelton) acariâtre quitte la campagne pour aller demeurer chez son neveu, à Paris, où elle se plaît à tyranniser sa famille.</desc>
+		<date>1990</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13797_p_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00036113&amp;tmsId=MV000361130000</url>
+		<episode-num system="dd_progid">MV00036113.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824040000 -0400" stop="20220824043000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Rétroviseur</title>
+		<sub-title lang="en">France Castel</sub-title>
+		<desc lang="en">Une rencontre émouvante avec la chanteuse, comédienne et animatrice, France Castel; une femme libre qui a toujours été en avance sur son temps.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14376504_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02741611&amp;tmsId=EP027416110001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP02741611.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824043000 -0400" stop="20220824050000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La petite patrie</title>
+		<sub-title lang="en">L&apos;oncle Édouard</sub-title>
+		<desc lang="en">L&apos;oncle Édouard est en visite chez les Germain.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p255184_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00223665&amp;tmsId=EP002236650012</url>
+		<episode-num system="common">S01E12</episode-num>
+		<episode-num system="dd_progid">EP00223665.0012</episode-num>
+		<episode-num system="xmltv_ns">0.11.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824050000 -0400" stop="20220824060000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Lumière sur...</title>
+		<sub-title lang="en">Michèle Deslauriers</sub-title>
+		<desc lang="en">Figure dominante de la scène artistique québécoise, la comédienne Michèle Deslauriers trace son chemin dans le jeu et l&apos;humour depuis près de 50 ans; son énergie et son talent pour la comédie contribuent au succès d&apos;une multitude de productions.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9679886_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01673323&amp;tmsId=EP016733230078</url>
+		<episode-num system="common">S08E04</episode-num>
+		<episode-num system="dd_progid">EP01673323.0078</episode-num>
+		<episode-num system="xmltv_ns">7.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824060000 -0400" stop="20220824070000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Anne avec un E</title>
+		<desc lang="en">Tandis que les étudiants se préparent à partir pour l&apos;université, Gilbert tente une dernière chance; Anne fait une rencontre décisive à Charlottetown.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17538911_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03424570&amp;tmsId=EP034245700010</url>
+		<episode-num system="common">S03E10</episode-num>
+		<episode-num system="dd_progid">EP03424570.0010</episode-num>
+		<episode-num system="xmltv_ns">2.9.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">Une drôle de bénédiction</sub-title>
+		<desc lang="en">Todore demande à Séraphin de lui donner la bénédiction du jour de l&apos;An.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370060</url>
+		<episode-num system="dd_progid">EP00206437.0060</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824080000 -0400" stop="20220824090000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">La condamnation</sub-title>
+		<desc lang="en">Séraphin veut condamner la porte du haut-côté, mais Donalda se révolte.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370029</url>
+		<episode-num system="dd_progid">EP00206437.0029</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824090000 -0400" stop="20220824100000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">L&apos;appel du coeur</title>
+		<sub-title lang="en">De nouvelles possibilités</sub-title>
+		<desc lang="en">Elizabeth et Nathan tentent de résoudre leurs différends; Rosemary apprend un secret à propos de Lee; Elizabeth se sent trahie par Lucas, mais l&apos;aide à obtenir les dossiers de la compagnie pétrolière auprès de Gowen.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18046858_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02809411&amp;tmsId=EP028094110083</url>
+		<episode-num system="common">S07E09</episode-num>
+		<episode-num system="dd_progid">EP02809411.0083</episode-num>
+		<episode-num system="xmltv_ns">6.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824100000 -0400" stop="20220824120000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">La disparition des lucioles</title>
+		<sub-title lang="en">Movie (2018)</sub-title>
+		<desc lang="en">Une adolescente frustrée se libère de l&apos;influence de sa mère et de sa vie étroite dans une petite ville industrielle pour savoir qui elle est vraiment.</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15963545_p_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01193814&amp;tmsId=MV011938140000</url>
+		<episode-num system="dd_progid">MV01193814.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824120000 -0400" stop="20220824130000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">Le rendez-vous clandestin</sub-title>
+		<desc lang="en">Soucieux des bonnes moeurs, Séraphin n&apos;est pas d&apos;accord avec les soirées organisées pour les jeunes chez janvier.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370066</url>
+		<episode-num system="dd_progid">EP00206437.0066</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824130000 -0400" stop="20220824140000 -0400" channel="I3738 ARTV.61443.zap2it.com">
+		<title lang="en">Les belles histoires des pays d&apos;en haut</title>
+		<sub-title lang="en">La faute d&apos;Aurélie</sub-title>
+		<desc lang="en">Aurélie et son patron René se fiancent, mais la jeune femme commet une faute irréparable.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p257017_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00206437&amp;tmsId=EP002064370030</url>
+		<episode-num system="dd_progid">EP00206437.0030</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
 	</programme>
 </tv>
