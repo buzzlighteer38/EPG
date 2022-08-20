@@ -62,21 +62,12 @@
 		<display-name>CA| Z TELE</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/56165/s56165_h3_aa.png" />
 	</channel>
-	<programme start="20220820143000 -0400" stop="20220820153000 -0400" channel="ICA| RDS HD.58592.zap2it.com">
-		<title lang="en">UFC le décompte</title>
-		<sub-title lang="en">UFC 278: Usman c. Edwards 2</sub-title>
-		<desc lang="en">Les entrevues exclusives et l&apos;accès à l&apos;entraînement des combattants.</desc>
-		<category lang="en">Series</category>
-		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p308818_b_v9_ag.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02119167&amp;tmsId=EP021191670094</url>
-		<episode-num system="dd_progid">EP02119167.0094</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>8+</value>
-		</rating>
-	</programme>
+	<channel id="ICA| EVASION HD.66001.zap2it.com">
+		<display-name>EVASHD</display-name>
+		<display-name>CA| EVASION HD EVASHD</display-name>
+		<display-name>CA| EVASION HD</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/66001/s66001_h3_aa.png" />
+	</channel>
 	<programme start="20220820153000 -0400" stop="20220820160000 -0400" channel="ICA| RDS HD.58592.zap2it.com">
 		<title lang="en">L&apos;avant-match des Alouettes</title>
 		<desc lang="en">Analyse d&apos;avant-match des Alouettes.</desc>
@@ -14042,18 +14033,6 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220820150000 -0400" stop="20220820153000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
-		<title lang="en">LCN maintenant</title>
-		<desc lang="en">Les événements marquants de la journée.</desc>
-		<category lang="en">News</category>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
-		<episode-num system="dd_progid">SH01164269.0000</episode-num>
-		<new />
-		<subtitles type="teletext" />
-	</programme>
 	<programme start="20220820153000 -0400" stop="20220820160000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
 		<title lang="en">LCN maintenant</title>
 		<desc lang="en">Les événements marquants de la journée.</desc>
@@ -16780,17 +16759,6 @@
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03833843&amp;tmsId=SH038338430000</url>
 		<episode-num system="dd_progid">SH03833843.0000</episode-num>
 		<previously-shown />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220820150000 -0400" stop="20220820153000 -0400" channel="ICA| RDI.60327.zap2it.com">
-		<title lang="en">L&apos;info maintenant</title>
-		<category lang="en">News</category>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p22137270_b_v13_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04297728&amp;tmsId=SH042977280000</url>
-		<episode-num system="dd_progid">SH04297728.0000</episode-num>
-		<new />
 		<subtitles type="teletext" />
 	</programme>
 	<programme start="20220820153000 -0400" stop="20220820160000 -0400" channel="ICA| RDI.60327.zap2it.com">
@@ -30351,5 +30319,2479 @@
 		<rating>
 			<value>13+</value>
 		</rating>
+	</programme>
+	<programme start="20220820150000 -0400" stop="20220820170000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Virée à Vegas</title>
+		<sub-title lang="en">Movie (2013)</sub-title>
+		<desc lang="en">Un groupe de quatre vieux amis décident de faire un enterrement de vie de garçon à Las Vegas.</desc>
+		<date>2013</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9991364_p_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00520593&amp;tmsId=MV005205930000</url>
+		<episode-num system="dd_progid">MV00520593.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820170000 -0400" stop="20220820180000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">VR sans pareil</title>
+		<sub-title lang="en">Autocar de luxe, Patrick Clark et Tyrese Gibson</sub-title>
+		<desc lang="en">L&apos;entreprise Hemphill Brothers met la touche finale à un autocar de deux millions de dollars; le coureur professionnel Patrick Clark présente son VR entièrement personnalisé, suivi par le chanteur et acteur Tyrese Gibson.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11036961_e_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272537&amp;tmsId=EP042725370001</url>
+		<episode-num system="common">S03E01</episode-num>
+		<episode-num system="dd_progid">EP04272537.0001</episode-num>
+		<episode-num system="xmltv_ns">2.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820180000 -0400" stop="20220820190000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chiller avec Félipé au Québec</title>
+		<sub-title lang="en">Les Cantons-de-L&apos;Est (Sherbrooke)</sub-title>
+		<desc lang="en">Félipé débarque chez Charles-Emmanuel Pariseau, chef propriétaire du restaurant O Chevreuil à Sherbrooke, qui lui présente certains secrets de la région, dont la fromagerie La Station, la ferme urbaine Vertige et la laiterie artisanale la Pinte.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16732974_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03190987&amp;tmsId=EP031909870001</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP03190987.0001</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820190000 -0400" stop="20220820200000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Benoit chez les Belges</title>
+		<sub-title lang="en">Benoit arrive en Belgique!</sub-title>
+		<desc lang="en">Benoit se décide d&apos;aller enfin visiter les cousins belges et il commence par Bruxelles; son centre possède plusieurs icônes importantes dont la Grand-Place, architecturalement unique, l&apos;incontournable Manneken-Pis, et le Jardin du Mont des Arts.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22589838_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384105&amp;tmsId=EP043841050001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384105.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820200000 -0400" stop="20220820210000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">La belle tournée</title>
+		<sub-title lang="en">Bas-Saint-Laurent</sub-title>
+		<desc lang="en">Guy Jodoin et ses invités partagent un moment privilégié dans la région du Bas-Saint-Laurent; c&apos;est entouré de Bruno Blanchet, Ingrid St-Pierre, Guylaine Tanguay, Klô Pelgag et Wilfred LeBouthillier que Guy redécouvre cette magnifique région.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20109007_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03893049&amp;tmsId=EP038930490028</url>
+		<episode-num system="common">S02E11</episode-num>
+		<episode-num system="dd_progid">EP03893049.0028</episode-num>
+		<episode-num system="xmltv_ns">1.10.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820210000 -0400" stop="20220820220000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Les vacances de Monsieur Bruno</title>
+		<sub-title lang="en">Voyage au coeur du vaudou</sub-title>
+		<desc lang="en">À Abomey, Monsieur Bruno s&apos;initie à la pratique du vaudou; le Bénin est le berceau de cette religion animiste et elle demeure encore aujourd&apos;hui très ancrée dans la vie de ses habitants; il découvre des rites étonnants, parfois même déconcertants.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11003829_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01980316&amp;tmsId=EP019803160030</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP01980316.0030</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820220000 -0400" stop="20220820223000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Trésors des pirates des Caraïbes</title>
+		<sub-title lang="en">Le Robin des Bois des pirates</sub-title>
+		<desc lang="en">Ashlan et Philippe Cousteau s&apos;intéressent aux rumeurs qui laissent croire que l&apos;homme surnommé le &quot;Robin des Bois des pirates&quot; aurait laissé derrière lui un trésor pour des amis en République Dominicaine.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14658881_e_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03186636&amp;tmsId=EP031866360005</url>
+		<episode-num system="common">S01E12</episode-num>
+		<episode-num system="dd_progid">EP03186636.0005</episode-num>
+		<episode-num system="xmltv_ns">0.11.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820223000 -0400" stop="20220820230000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Trésors des pirates des Caraïbes</title>
+		<sub-title lang="en">Le butin perdu de la Buse</sub-title>
+		<desc lang="en">Ashlan et Philippe Cousteau débarquent à Sainte-Croix pour en apprendre plus sur l&apos;histoire de cette magnifique île aux pirates et sur le trésor perdu d&apos;un infâme pirate du nom de La Buse.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14418562_e_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03186636&amp;tmsId=EP031866360006</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP03186636.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820230000 -0400" stop="20220821000000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Rencontres au sommet</title>
+		<sub-title lang="en">Quelle belle vue!</sub-title>
+		<desc lang="en">Les splendeurs que réserve le Mont du Lac à l&apos;Empêche impressionnent les randonneurs; le chemin est graveleux, les dénivelés sont irréguliers, mais les magnifiques paysages donnent toute l&apos;énergie qu&apos;il faut pour continuer d&apos;avancer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20451201_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03956194&amp;tmsId=EP039561940003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP03956194.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821000000 -0400" stop="20220821010000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Rencontres au sommet</title>
+		<sub-title lang="en">Une randonnée sauvage</sub-title>
+		<desc lang="en">Le chemin est accidenté au mont le Menaud, qui offre une belle cascade en récompense; de la boue, des souches, des ravins guettent les randonneurs avant qu&apos;ils atteignent le sommet, absolument ravissant.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20451201_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03956194&amp;tmsId=EP039561940004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP03956194.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821010000 -0400" stop="20220821020000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pêche ou crève</title>
+		<sub-title lang="en">Bienvenue dans la jungle</sub-title>
+		<desc lang="en">Quatre amis pêcheurs se lancent dans une expédition éreintante dans la jungle bolivienne; avec l&apos;aide d&apos;une tribu indigène, ils tentent de localiser des bancs de dorades dorées géantes qui remonteraient une petite rivière inexplorée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16574509_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03820521&amp;tmsId=EP038205210001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP03820521.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821020000 -0400" stop="20220821030000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pêche ou crève</title>
+		<sub-title lang="en">Dans l&apos;oeil du poisson tigre</sub-title>
+		<desc lang="en">Les gars se rendent au coeur de la Zambie; des poissons-tigres, considérés comme le poisson d&apos;eau douce le plus féroce du monde, auraient été capturés par les habitants dans une rivière inexplorée; évidemment, les gars rêvent d&apos;un pêcher un.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16651230_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03820521&amp;tmsId=EP038205210002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03820521.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821030000 -0400" stop="20220821040000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pêche ou crève</title>
+		<sub-title lang="en">Les quatre Vikings</sub-title>
+		<desc lang="en">Menés par une rumeur, les gars se rendent au sommet du monde au Groenland; d&apos;énormes ombles chevaliers combattants, forts et agressifs vivraient dans une rivière particulièrement isolée de cette région sauvage et impitoyable.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16580707_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03820521&amp;tmsId=EP038205210003</url>
+		<episode-num system="common">S01E05</episode-num>
+		<episode-num system="dd_progid">EP03820521.0003</episode-num>
+		<episode-num system="xmltv_ns">0.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821040000 -0400" stop="20220821050000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Une jungle sans fin (Sri Lanka, 1re partie)</sub-title>
+		<desc lang="en">Au Sri Lanka, Joe et Cody se retrouvent dans un marais à mangroves infesté de crocodiles; ils s&apos;échappent, mais se perdent aussitôt dans une jungle infestée de sangsues où ils doivent fuir des cobras et des léopards.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10676538_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120034</url>
+		<episode-num system="common">S04E01</episode-num>
+		<episode-num system="dd_progid">EP02328912.0034</episode-num>
+		<episode-num system="xmltv_ns">3.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821050000 -0400" stop="20220821060000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Une jungle sans fin (Sri Lanka, 2e partie)</sub-title>
+		<desc lang="en">Joe et Cody sont toujours perdus au plus profond de la jungle du Sri Lanka; Joe tombe nez à nez avec des éléphants, Cody apprend à maîtriser un allume-feu antique et, ensemble, ils doivent traverser un lac infesté de crocodiles.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10705523_e_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120035</url>
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="dd_progid">EP02328912.0035</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821060000 -0400" stop="20220821070000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Berlin: Prenzlauer Berg</sub-title>
+		<desc lang="en">En périphérie, du centre-ville de Berlin, à l&apos;écart du brouhaha, on visite Pankow au nord, avec son quartier alternatif revampé Prenzlauer Berg.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14999800_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP02854701.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821070000 -0400" stop="20220821080000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Des trains pas comme les autres</title>
+		<sub-title lang="en">Colombie</sub-title>
+		<desc lang="en">Pour les amoureux des trains, la Colombie est une pépite; ici, les gens ne manquent pas d&apos;idées pour faire circuler toutes sortes d&apos;engins sur les rails; un déménagement insolite, la découverte de Bogota et un tour en bus sur rails.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365864_b_v9_ak.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702219&amp;tmsId=EP017022190086</url>
+		<episode-num system="common">S11E03</episode-num>
+		<episode-num system="dd_progid">EP01702219.0086</episode-num>
+		<episode-num system="xmltv_ns">10.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821080000 -0400" stop="20220821090000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Soleil tout inclus</title>
+		<sub-title lang="en">Amalfi</sub-title>
+		<desc lang="en">Nous partons visiter Amalfi en Italie, petite ville côtière pittoresque bâtie sur des falaises rocheuses escarpées et située dans la baie de Salerne.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15818442_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00770102&amp;tmsId=EP007701020118</url>
+		<episode-num system="common">S10E02</episode-num>
+		<episode-num system="dd_progid">EP00770102.0118</episode-num>
+		<episode-num system="xmltv_ns">9.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821090000 -0400" stop="20220821110000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">VR</title>
+		<sub-title lang="en">Movie (2006)</sub-title>
+		<desc lang="en">Ayant loué une énorme autocaravane afin de partir en vacances avec les siens, le père d&apos;une famille dysfonctionnelle s&apos;engage dans une aventure semée de calamités.</desc>
+		<date>2006</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p160520_p_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00178077&amp;tmsId=MV001780770000</url>
+		<episode-num system="dd_progid">MV00178077.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821110000 -0400" stop="20220821120000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">VR sans pareil</title>
+		<sub-title lang="en">Autocar de luxe, Patrick Clark et Tyrese Gibson</sub-title>
+		<desc lang="en">L&apos;entreprise Hemphill Brothers met la touche finale à un autocar de deux millions de dollars; le coureur professionnel Patrick Clark présente son VR entièrement personnalisé, suivi par le chanteur et acteur Tyrese Gibson.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11036961_e_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272537&amp;tmsId=EP042725370001</url>
+		<episode-num system="common">S03E01</episode-num>
+		<episode-num system="dd_progid">EP04272537.0001</episode-num>
+		<episode-num system="xmltv_ns">2.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821120000 -0400" stop="20220821130000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de trésors</title>
+		<desc lang="en">Un expert en Antiquité fait équipe avec une voleuse pour contrer un dangereux terroriste. Ce dernier, qui était présumé mort, parcourt activement le monde afin de mettre la main sur un trésor maudit qui lui permettrait de mener à bien ses attaques.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22239475_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03501687&amp;tmsId=EP035016870015</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP03501687.0015</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20220821130000 -0400" stop="20220821140000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Benoit chez les Belges</title>
+		<sub-title lang="en">Benoit arrive en Belgique!</sub-title>
+		<desc lang="en">Benoit se décide d&apos;aller enfin visiter les cousins belges et il commence par Bruxelles; son centre possède plusieurs icônes importantes dont la Grand-Place, architecturalement unique, l&apos;incontournable Manneken-Pis, et le Jardin du Mont des Arts.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22589838_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384105&amp;tmsId=EP043841050001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384105.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821140000 -0400" stop="20220821150000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Berlin: Neukölln</sub-title>
+		<desc lang="en">Au sud de Berlin, on découvre les quartiers Neukölln, Tempelhof et Treptow. Neukölln est un ancien quartier bourgeois, qui s&apos;est ghettoïsé dans les années 1960, avant de devenir un arrondissement dans le vent, où il fait bon vivre.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15010850_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP02854701.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821150000 -0400" stop="20220821160000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Berlin: Kreuzberg</sub-title>
+		<desc lang="en">Au coeur de la ville, on se rend dans l&apos;arrondissement Friedrichshain-Kreuzberg, plus précisément dans le quartier ouvrier de Kreuzberg, reconnu pour sa culture alternative.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15054153_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP02854701.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821160000 -0400" stop="20220821170000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Les vacances de Monsieur Bruno</title>
+		<sub-title lang="en">Voyage au coeur du vaudou</sub-title>
+		<desc lang="en">À Abomey, Monsieur Bruno s&apos;initie à la pratique du vaudou; le Bénin est le berceau de cette religion animiste et elle demeure encore aujourd&apos;hui très ancrée dans la vie de ses habitants; il découvre des rites étonnants, parfois même déconcertants.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11003829_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01980316&amp;tmsId=EP019803160030</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP01980316.0030</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821170000 -0400" stop="20220821180000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">La belle tournée</title>
+		<sub-title lang="en">Bas-Saint-Laurent</sub-title>
+		<desc lang="en">Guy Jodoin et ses invités partagent un moment privilégié dans la région du Bas-Saint-Laurent; c&apos;est entouré de Bruno Blanchet, Ingrid St-Pierre, Guylaine Tanguay, Klô Pelgag et Wilfred LeBouthillier que Guy redécouvre cette magnifique région.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20109007_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03893049&amp;tmsId=EP038930490028</url>
+		<episode-num system="common">S02E11</episode-num>
+		<episode-num system="dd_progid">EP03893049.0028</episode-num>
+		<episode-num system="xmltv_ns">1.10.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821180000 -0400" stop="20220821190000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Voyager plus vert</title>
+		<sub-title lang="en">La Vallée sacrée des Incas et le Machu Picchu</sub-title>
+		<desc lang="en">Richard Crawford fait son premier arrêt dans la Vallée sacrée des Incas, au Pérou; il se rend dans un hôtel unique au monde: le Skylodge Adventure Suites; puis, à Machu Picchu, il découvre le projet de réhabilitation des ours péruviens d&apos;Inkaterra.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18215246_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384088&amp;tmsId=EP043840880001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384088.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821190000 -0400" stop="20220821193000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Queenstown</sub-title>
+		<desc lang="en">La conseillère en voyage Greer Gardiner part à la découverte de Queenstown; parce que chaque minute compte, Catriona, une conseillère locale, va la rejoindre et lui faire découvrir le meilleur que cette destination époustouflante a à offrir.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14496532_e_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384084.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821193000 -0400" stop="20220821200000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">New York</sub-title>
+		<desc lang="en">Greer se rend dans la ville qui ne dort jamais: New York; elle rencontrera Jessie, une consultante originaire de Brooklyn, qui a prévu un itinéraire passionnant pour faire découvrir sa ville natale; après 48 heures, Greer aura besoin d&apos;un bon repos.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14496533_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384084.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821200000 -0400" stop="20220821210000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Avec ou sans cash</title>
+		<sub-title lang="en">Charlevoix</sub-title>
+		<desc lang="en">Geneviève et Guillaume se rendent à Charlevoix, région d&apos;une beauté naturelle et unique; située entre le fleuve Saint-Laurent et les montagnes, la région offre aux deux amis des activités de plein air pour amateur de sensations fortes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13926598_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02642782&amp;tmsId=EP026427820040</url>
+		<episode-num system="common">S04E01</episode-num>
+		<episode-num system="dd_progid">EP02642782.0040</episode-num>
+		<episode-num system="xmltv_ns">3.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821210000 -0400" stop="20220821220000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de trésors</title>
+		<desc lang="en">Un expert en Antiquité fait équipe avec une voleuse pour contrer un dangereux terroriste. Ce dernier, qui était présumé mort, parcourt activement le monde afin de mettre la main sur un trésor maudit qui lui permettrait de mener à bien ses attaques.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22239475_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03501687&amp;tmsId=EP035016870015</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP03501687.0015</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20220821220000 -0400" stop="20220821230000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Alone: les survivants</title>
+		<sub-title lang="en">C&apos;est ainsi que l&apos;aventure commence</sub-title>
+		<desc lang="en">Dix experts en survie ont du mal à trouver de la nourriture, un abri et de l&apos;eau sur l&apos;île sauvage de Vancouver. Comme la nuit tombe sur le premier jour, ils doivent faire face à une troublante réalité.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11768119_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384112&amp;tmsId=EP043841120001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384112.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821230000 -0400" stop="20220821233000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Trésors des pirates des Caraïbes</title>
+		<sub-title lang="en">Le trésor pirate perdu de Roatan</sub-title>
+		<desc lang="en">Ashlan et Philippe Cousteau se rendent à Roatan, au Honduras, pour enquêter sur les rumeurs d&apos;un coffre rempli d&apos;or qu&apos;on dit perdu sur l&apos;île; en tentant de résoudre ce mystère, ils font une plongée dans un environnement d&apos;une incroyable beauté.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14602817_e_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03186636&amp;tmsId=EP031866360003</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP03186636.0003</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821233000 -0400" stop="20220822000000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Trésors des pirates des Caraïbes</title>
+		<sub-title lang="en">Lighthouse Reef au Bélize</sub-title>
+		<desc lang="en">Philippe et Ashlan Cousteau visitent le Belize pour y explorer le Grand Trou Bleu, une merveille naturelle; puis, ils se rendent sur une île privée afin d&apos;étudier une carte au trésor des temps modernes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14332262_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03186636&amp;tmsId=EP031866360004</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03186636.0004</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822000000 -0400" stop="20220822003000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Trésors des pirates des Caraïbes</title>
+		<sub-title lang="en">Le Robin des Bois des pirates</sub-title>
+		<desc lang="en">Ashlan et Philippe Cousteau s&apos;intéressent aux rumeurs qui laissent croire que l&apos;homme surnommé le &quot;Robin des Bois des pirates&quot; aurait laissé derrière lui un trésor pour des amis en République Dominicaine.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14658881_e_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03186636&amp;tmsId=EP031866360005</url>
+		<episode-num system="common">S01E12</episode-num>
+		<episode-num system="dd_progid">EP03186636.0005</episode-num>
+		<episode-num system="xmltv_ns">0.11.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822003000 -0400" stop="20220822010000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Trésors des pirates des Caraïbes</title>
+		<sub-title lang="en">Le butin perdu de la Buse</sub-title>
+		<desc lang="en">Ashlan et Philippe Cousteau débarquent à Sainte-Croix pour en apprendre plus sur l&apos;histoire de cette magnifique île aux pirates et sur le trésor perdu d&apos;un infâme pirate du nom de La Buse.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14418562_e_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03186636&amp;tmsId=EP031866360006</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP03186636.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822010000 -0400" stop="20220822013000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Le monde selon Chuck</title>
+		<sub-title lang="en">Jordanie</sub-title>
+		<desc lang="en">Chuck explore la Jordanie, ses espaces et sa cuisine aux parfums du Moyen-Orient; il goûte aux traditionnels falafels et autres mezze au coeur d&apos;Amman; il visite la cité antique de Pétra, boit un café bédouin et cuisine au coeur du désert.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14401716_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748537&amp;tmsId=EP027485370001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP02748537.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822013000 -0400" stop="20220822020000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Le monde selon Chuck</title>
+		<sub-title lang="en">Cuba</sub-title>
+		<desc lang="en">Chuck visite Cuba pour la première fois; à La Havane, il découvre son architecture, goûte aux spécialités locales revisitées dans un paladar et cuisine du poisson frais au coeur d&apos;un décor paradisiaque.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14401716_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748537&amp;tmsId=EP027485370002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP02748537.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822020000 -0400" stop="20220822030000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chiller avec Félipé au Québec</title>
+		<sub-title lang="en">Les Cantons-de-L&apos;Est (Sherbrooke)</sub-title>
+		<desc lang="en">Félipé débarque chez Charles-Emmanuel Pariseau, chef propriétaire du restaurant O Chevreuil à Sherbrooke, qui lui présente certains secrets de la région, dont la fromagerie La Station, la ferme urbaine Vertige et la laiterie artisanale la Pinte.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16732974_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03190987&amp;tmsId=EP031909870001</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP03190987.0001</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822030000 -0400" stop="20220822040000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chiller au Québec avec Félipé</title>
+		<sub-title lang="en">Mauricie</sub-title>
+		<desc lang="en">Tel un explorateur, Félipé part à la découverte de la Mauricie; pendant deux jours, Rémi-Pierre Paquin lui fait vivre un séjour qu&apos;il n&apos;est pas prêt d&apos;oublier.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15330603_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02933233&amp;tmsId=EP029332330001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP02933233.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822040000 -0400" stop="20220822050000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Dunes mortelles (Oman)</sub-title>
+		<desc lang="en">Joe et Cody doivent traverser le désert inhospitalier du Sultanat d&apos;Oman; les dangers sont légion dans cet endroit aride: déshydratation, coup de chaleur, scorpions, lézards; ils découvriront comment les nomades y survivent depuis des siècles.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10705554_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120036</url>
+		<episode-num system="common">S04E03</episode-num>
+		<episode-num system="dd_progid">EP02328912.0036</episode-num>
+		<episode-num system="xmltv_ns">3.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822050000 -0400" stop="20220822060000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Chute glaciale (Norvège)</sub-title>
+		<desc lang="en">La vie de Joe et Cody ne tient littéralement qu&apos;à un fil sur un glacier de Norvège; jamais ils n&apos;ont eu à survivre dans une situation aussi critique et jamais leurs techniques de survie n&apos;ont été aussi opposées que sur cette terre gelée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10705571_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120037</url>
+		<episode-num system="common">S04E04</episode-num>
+		<episode-num system="dd_progid">EP02328912.0037</episode-num>
+		<episode-num system="xmltv_ns">3.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822060000 -0400" stop="20220822070000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Rencontres au sommet</title>
+		<sub-title lang="en">Quelle belle vue!</sub-title>
+		<desc lang="en">Les splendeurs que réserve le Mont du Lac à l&apos;Empêche impressionnent les randonneurs; le chemin est graveleux, les dénivelés sont irréguliers, mais les magnifiques paysages donnent toute l&apos;énergie qu&apos;il faut pour continuer d&apos;avancer.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20451201_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03956194&amp;tmsId=EP039561940003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP03956194.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822070000 -0400" stop="20220822080000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Rencontres au sommet</title>
+		<sub-title lang="en">Une randonnée sauvage</sub-title>
+		<desc lang="en">Le chemin est accidenté au mont le Menaud, qui offre une belle cascade en récompense; de la boue, des souches, des ravins guettent les randonneurs avant qu&apos;ils atteignent le sommet, absolument ravissant.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20451201_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03956194&amp;tmsId=EP039561940004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP03956194.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822080000 -0400" stop="20220822090000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Pigna, Ponte, Parioni, Sant&apos;Eustachio, Sant&apos;Angelo</sub-title>
+		<desc lang="en">À l&apos;ouest des quartiers Monti et Trevi, là où le Tibre dévie vers l&apos;ouest, on part à la découverte de la myriade de petits quartiers qui forment le coeur historique de Rome, soit Parione, Pigna, Ponte, Regola, Sant&apos;Angelo et Sant&apos;Eustachio.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15102496_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010006</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP02854701.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822090000 -0400" stop="20220822100000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Christine et Pierre</sub-title>
+		<desc lang="en">Étudiant, Pierre décide de reprendre le flambeau de l&apos;entreprise familiale; celle-ci comprend sur les hauteurs de Thiers une demeure bourgeoise de 1953 comprenant cinq chambres d&apos;hôtes, où mère et fils proposent un concept de séjour en toute liberté.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110151</url>
+		<episode-num system="dd_progid">EP02854611.0151</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822100000 -0400" stop="20220822110000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">La belle tournée</title>
+		<sub-title lang="en">Bas-Saint-Laurent</sub-title>
+		<desc lang="en">Guy Jodoin et ses invités partagent un moment privilégié dans la région du Bas-Saint-Laurent; c&apos;est entouré de Bruno Blanchet, Ingrid St-Pierre, Guylaine Tanguay, Klô Pelgag et Wilfred LeBouthillier que Guy redécouvre cette magnifique région.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20109007_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03893049&amp;tmsId=EP038930490028</url>
+		<episode-num system="common">S02E11</episode-num>
+		<episode-num system="dd_progid">EP03893049.0028</episode-num>
+		<episode-num system="xmltv_ns">1.10.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822110000 -0400" stop="20220822120000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Accroche-moi!</title>
+		<sub-title lang="en">Pour l&apos;amour de la pêche</sub-title>
+		<desc lang="en">Joseph Parker est un champion du monde des poids lourds et un pêcheur passionné; Matt l&apos;emmène avec son père pêcher à la pointe de la Nouvelle-Zélande; Joseph devra surmonter sa peur de l&apos;océan pour pêcher diverses variétés de poissons et du homard.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14611276_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384098&amp;tmsId=EP043840980001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384098.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822120000 -0400" stop="20220822130000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Pigna, Ponte, Parioni, Sant&apos;Eustachio, Sant&apos;Angelo</sub-title>
+		<desc lang="en">À l&apos;ouest des quartiers Monti et Trevi, là où le Tibre dévie vers l&apos;ouest, on part à la découverte de la myriade de petits quartiers qui forment le coeur historique de Rome, soit Parione, Pigna, Ponte, Regola, Sant&apos;Angelo et Sant&apos;Eustachio.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15102496_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010006</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP02854701.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822130000 -0400" stop="20220822140000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Christine et Pierre</sub-title>
+		<desc lang="en">Étudiant, Pierre décide de reprendre le flambeau de l&apos;entreprise familiale; celle-ci comprend sur les hauteurs de Thiers une demeure bourgeoise de 1953 comprenant cinq chambres d&apos;hôtes, où mère et fils proposent un concept de séjour en toute liberté.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110151</url>
+		<episode-num system="dd_progid">EP02854611.0151</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822140000 -0400" stop="20220822150000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Fin du voyage vers un nouveau départ</sub-title>
+		<desc lang="en">L&apos;amitié entre Cody Lundin et Joe Teti touche à sa fin; on plonge dans les coulisses de l&apos;émission afin de découvrir qui quitte l&apos;aventure et qui sera la nouvelle tête d&apos;affiche d&apos;&quot;Unis pour survivre.&quot;</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10705622_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120038</url>
+		<episode-num system="common">S04E05</episode-num>
+		<episode-num system="dd_progid">EP02328912.0038</episode-num>
+		<episode-num system="xmltv_ns">3.4.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822150000 -0400" stop="20220822160000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de langoustes géantes</title>
+		<desc lang="en">La pandémie a causé l&apos;effondrement du marché du homard; dans l&apos;espoir d&apos;obtenir un prix plus élevé, Squizzy tente de vendre ses prises directement au public; Cracker et Jay sont tous les deux endettés avec peu de commandes pour renverser la vapeur.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18639795_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03585557&amp;tmsId=EP035855570019</url>
+		<episode-num system="common">S03E01</episode-num>
+		<episode-num system="dd_progid">EP03585557.0019</episode-num>
+		<episode-num system="xmltv_ns">2.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822160000 -0400" stop="20220822170000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Avec ou sans cash</title>
+		<sub-title lang="en">Charlevoix</sub-title>
+		<desc lang="en">Geneviève et Guillaume se rendent à Charlevoix, région d&apos;une beauté naturelle et unique; située entre le fleuve Saint-Laurent et les montagnes, la région offre aux deux amis des activités de plein air pour amateur de sensations fortes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13926598_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02642782&amp;tmsId=EP026427820040</url>
+		<episode-num system="common">S04E01</episode-num>
+		<episode-num system="dd_progid">EP02642782.0040</episode-num>
+		<episode-num system="xmltv_ns">3.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822170000 -0400" stop="20220822180000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Benoit chez les Belges</title>
+		<sub-title lang="en">Benoit arrive en Belgique!</sub-title>
+		<desc lang="en">Benoit se décide d&apos;aller enfin visiter les cousins belges et il commence par Bruxelles; son centre possède plusieurs icônes importantes dont la Grand-Place, architecturalement unique, l&apos;incontournable Manneken-Pis, et le Jardin du Mont des Arts.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22589838_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384105&amp;tmsId=EP043841050001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384105.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822180000 -0400" stop="20220822190000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Pigna, Ponte, Parioni, Sant&apos;Eustachio, Sant&apos;Angelo</sub-title>
+		<desc lang="en">À l&apos;ouest des quartiers Monti et Trevi, là où le Tibre dévie vers l&apos;ouest, on part à la découverte de la myriade de petits quartiers qui forment le coeur historique de Rome, soit Parione, Pigna, Ponte, Regola, Sant&apos;Angelo et Sant&apos;Eustachio.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15102496_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010006</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP02854701.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Voyager plus vert</title>
+		<sub-title lang="en">L&apos;île de Ko Kut, en Thaïlande</sub-title>
+		<desc lang="en">Richard se rend sur l&apos;île la moins peuplée de Thaïlande, Ko Kut; l&apos;entreprise Soneva y gère un complexe hôtelier de luxe intelligent où traditions et intimité se marient; il découvre la politique de transformation des déchets en richesse de Soneva.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18215257_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384088&amp;tmsId=EP043840880002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384088.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822200000 -0400" stop="20220822203000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Vancouver</sub-title>
+		<desc lang="en">Greer se dirige vers le nord, à Vancouver; cette ville canadienne passionnante regorge de paysages naturels et de plaisirs urbains; la consultante Eppa Lea lui sert de guide alors que le duo a 48 heures pour explorer la ville de fond en comble.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14496534_e_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04384084.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822203000 -0400" stop="20220822210000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Le Cap</sub-title>
+		<desc lang="en">Greer met le cap sur la ville du Cap, en Afrique du Sud; Janice, son guide, lui fait découvrir le meilleur de la région: des plages aux vignobles, en passant par les rhinocéros et les girafes sauvages.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14616782_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP04384084.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822210000 -0400" stop="20220822220000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Avec ou sans cash</title>
+		<sub-title lang="en">Niagara Falls</sub-title>
+		<desc lang="en">C&apos;est à Niagara Falls que Geneviève et Guillaume passent les 24 prochaines heures; un tirage au sort devant les chutes les plus puissantes d&apos;Amérique du Nord dévoile qui aura 100 $ ou 1000 $ pour découvrir la célèbre ville.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13926598_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02642782&amp;tmsId=EP026427820041</url>
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="dd_progid">EP02642782.0041</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822220000 -0400" stop="20220822230000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Christine et Pierre</sub-title>
+		<desc lang="en">Étudiant, Pierre décide de reprendre le flambeau de l&apos;entreprise familiale; celle-ci comprend sur les hauteurs de Thiers une demeure bourgeoise de 1953 comprenant cinq chambres d&apos;hôtes, où mère et fils proposent un concept de séjour en toute liberté.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110151</url>
+		<episode-num system="dd_progid">EP02854611.0151</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822230000 -0400" stop="20220823000000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Alone: les survivants</title>
+		<sub-title lang="en">C&apos;est ainsi que l&apos;aventure commence</sub-title>
+		<desc lang="en">Dix experts en survie ont du mal à trouver de la nourriture, un abri et de l&apos;eau sur l&apos;île sauvage de Vancouver. Comme la nuit tombe sur le premier jour, ils doivent faire face à une troublante réalité.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11768119_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384112&amp;tmsId=EP043841120001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384112.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823000000 -0400" stop="20220823020000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pékin express</title>
+		<desc lang="en">Pour cette étape de l&apos;aventure, en Turquie, les candidats démarreront le long de la jolie côte balnéaire de Kemer aux eaux limpides; l&apos;épreuve petit déjeuner local fera son retour et mettra à l&apos;épreuve les estomacs des candidats.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19469477_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04330061&amp;tmsId=EP043300610008</url>
+		<episode-num system="common">S01E08</episode-num>
+		<episode-num system="dd_progid">EP04330061.0008</episode-num>
+		<episode-num system="xmltv_ns">0.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823020000 -0400" stop="20220823030000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue aux touristes</title>
+		<sub-title lang="en">Koweit</sub-title>
+		<desc lang="en">Hugo débarque au Koweït, là où tradition et modernité se côtoient; les voitures de luxe et les gratte-ciels l&apos;impressionnent, mais c&apos;est le peuple qui le marque.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17203922_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03282704&amp;tmsId=EP032827040001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP03282704.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823030000 -0400" stop="20220823040000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Pigna, Ponte, Parioni, Sant&apos;Eustachio, Sant&apos;Angelo</sub-title>
+		<desc lang="en">À l&apos;ouest des quartiers Monti et Trevi, là où le Tibre dévie vers l&apos;ouest, on part à la découverte de la myriade de petits quartiers qui forment le coeur historique de Rome, soit Parione, Pigna, Ponte, Regola, Sant&apos;Angelo et Sant&apos;Eustachio.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15102496_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010006</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP02854701.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823040000 -0400" stop="20220823050000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pêche ou crève</title>
+		<sub-title lang="en">Le dernier bastion du majestueux mahseer</sub-title>
+		<desc lang="en">Des gars sont prêts à risquer leur vie au plus profond de la jungle de Bornéo; l&apos;objet de leur quête insensée: le très recherché mahseer, le poisson d&apos;eau douce comestible le plus cher du monde, qui a été pratiquement pêché jusqu&apos;à l&apos;extinction.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16714023_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03820521&amp;tmsId=EP038205210005</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP03820521.0005</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823050000 -0400" stop="20220823060000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Fin du voyage vers un nouveau départ</sub-title>
+		<desc lang="en">L&apos;amitié entre Cody Lundin et Joe Teti touche à sa fin; on plonge dans les coulisses de l&apos;émission afin de découvrir qui quitte l&apos;aventure et qui sera la nouvelle tête d&apos;affiche d&apos;&quot;Unis pour survivre.&quot;</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10705622_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120038</url>
+		<episode-num system="common">S04E05</episode-num>
+		<episode-num system="dd_progid">EP02328912.0038</episode-num>
+		<episode-num system="xmltv_ns">3.4.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823060000 -0400" stop="20220823070000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Hôtel inspector</title>
+		<sub-title lang="en">Le sens des affaires</sub-title>
+		<desc lang="en">À Bath, Rowena et Mike gèrent un gîte touristique luxueux au bord de la faillite; ils désirent ce qu&apos;il y a de mieux pour leurs clients, mais ils n&apos;osent pas les facturer en conséquence; Alex devra les convaincre de revoir leurs pratiques.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14284326_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03186630&amp;tmsId=EP031866300034</url>
+		<episode-num system="common">S13E02</episode-num>
+		<episode-num system="dd_progid">EP03186630.0034</episode-num>
+		<episode-num system="xmltv_ns">12.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823070000 -0400" stop="20220823080000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Hôtel inspector</title>
+		<sub-title lang="en">Transcript mise à l&apos;épreuve</sub-title>
+		<desc lang="en">Chris et Jonathan ont eu le coup de foudre pour le Churston Court, un vieux manoir; ils avaient toutefois grandement sous-estimé les travaux requis pour en faire un hôtel contemporain.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14329312_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03186630&amp;tmsId=EP031866300035</url>
+		<episode-num system="common">S13E04</episode-num>
+		<episode-num system="dd_progid">EP03186630.0035</episode-num>
+		<episode-num system="xmltv_ns">12.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823080000 -0400" stop="20220823090000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Testacio, Ostience, Pigneto</sub-title>
+		<desc lang="en">Au sud de Rome, on retrouve trois anciens quartiers industriels qui ont profité de l&apos;embourgeoisement; à l&apos;est du Tibre, Ostience et Testacio sont des quartiers en constante évolution, reconnus pour être assez festifs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15140531_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010007</url>
+		<episode-num system="common">S01E07</episode-num>
+		<episode-num system="dd_progid">EP02854701.0007</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823090000 -0400" stop="20220823100000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Eliane et Samantha</sub-title>
+		<desc lang="en">C&apos;est un peu par hasard qu&apos;Eliane et son mari Roger se lancent dans l&apos;aventure; après avoir acheté un ancien hôtel, ils décident de faire des chambres d&apos;hôtes; aujourd&apos;hui, Samantha se voit reprendre la maison d&apos;hôtes de son père et de sa belle-mère.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110152</url>
+		<episode-num system="dd_progid">EP02854611.0152</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823100000 -0400" stop="20220823110000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Aucun homme n&apos;est une île (Panama)</sub-title>
+		<desc lang="en">Joe a pour mission de localiser son nouveau partenaire, Matt Graham; celui-ci serait sur une île inhabitée au large des côtes du Panama; grâce à son talent, Joe parvient à le retrouver et, ensemble, ils doivent trouver un moyen de rentrer au bercail.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10730659_e_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120039</url>
+		<episode-num system="common">S04E06</episode-num>
+		<episode-num system="dd_progid">EP02328912.0039</episode-num>
+		<episode-num system="xmltv_ns">3.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823110000 -0400" stop="20220823120000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de langoustes géantes</title>
+		<desc lang="en">La pandémie a causé l&apos;effondrement du marché du homard; dans l&apos;espoir d&apos;obtenir un prix plus élevé, Squizzy tente de vendre ses prises directement au public; Cracker et Jay sont tous les deux endettés avec peu de commandes pour renverser la vapeur.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18639795_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03585557&amp;tmsId=EP035855570019</url>
+		<episode-num system="common">S03E01</episode-num>
+		<episode-num system="dd_progid">EP03585557.0019</episode-num>
+		<episode-num system="xmltv_ns">2.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823120000 -0400" stop="20220823130000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Testacio, Ostience, Pigneto</sub-title>
+		<desc lang="en">Au sud de Rome, on retrouve trois anciens quartiers industriels qui ont profité de l&apos;embourgeoisement; à l&apos;est du Tibre, Ostience et Testacio sont des quartiers en constante évolution, reconnus pour être assez festifs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15140531_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010007</url>
+		<episode-num system="common">S01E07</episode-num>
+		<episode-num system="dd_progid">EP02854701.0007</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823130000 -0400" stop="20220823140000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Eliane et Samantha</sub-title>
+		<desc lang="en">C&apos;est un peu par hasard qu&apos;Eliane et son mari Roger se lancent dans l&apos;aventure; après avoir acheté un ancien hôtel, ils décident de faire des chambres d&apos;hôtes; aujourd&apos;hui, Samantha se voit reprendre la maison d&apos;hôtes de son père et de sa belle-mère.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110152</url>
+		<episode-num system="dd_progid">EP02854611.0152</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823140000 -0400" stop="20220823150000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Aucun homme n&apos;est une île (Panama)</sub-title>
+		<desc lang="en">Joe a pour mission de localiser son nouveau partenaire, Matt Graham; celui-ci serait sur une île inhabitée au large des côtes du Panama; grâce à son talent, Joe parvient à le retrouver et, ensemble, ils doivent trouver un moyen de rentrer au bercail.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10730659_e_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120039</url>
+		<episode-num system="common">S04E06</episode-num>
+		<episode-num system="dd_progid">EP02328912.0039</episode-num>
+		<episode-num system="xmltv_ns">3.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823150000 -0400" stop="20220823160000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Accroche-moi!</title>
+		<sub-title lang="en">Pour l&apos;amour de la pêche</sub-title>
+		<desc lang="en">Joseph Parker est un champion du monde des poids lourds et un pêcheur passionné; Matt l&apos;emmène avec son père pêcher à la pointe de la Nouvelle-Zélande; Joseph devra surmonter sa peur de l&apos;océan pour pêcher diverses variétés de poissons et du homard.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14611276_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384098&amp;tmsId=EP043840980001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384098.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823160000 -0400" stop="20220823170000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Alone: les survivants</title>
+		<sub-title lang="en">C&apos;est ainsi que l&apos;aventure commence</sub-title>
+		<desc lang="en">Dix experts en survie ont du mal à trouver de la nourriture, un abri et de l&apos;eau sur l&apos;île sauvage de Vancouver. Comme la nuit tombe sur le premier jour, ils doivent faire face à une troublante réalité.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11768119_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384112&amp;tmsId=EP043841120001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04384112.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823170000 -0400" stop="20220823180000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Direction la mer</title>
+		<sub-title lang="en">Plage Hirtle</sub-title>
+		<desc lang="en">Hirtle est une plage unique que l&apos;océan Atlantique façonne au gré de ses humeurs; cette étendue de sable de trois kilomètres est un paradis naturel à l&apos;abri des foules; à quelques minutes de là, impossible de résister au charme de Lunenburg.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15319398_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02931146&amp;tmsId=EP029311460049</url>
+		<episode-num system="common">S05E10</episode-num>
+		<episode-num system="dd_progid">EP02931146.0049</episode-num>
+		<episode-num system="xmltv_ns">4.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823180000 -0400" stop="20220823190000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Testacio, Ostience, Pigneto</sub-title>
+		<desc lang="en">Au sud de Rome, on retrouve trois anciens quartiers industriels qui ont profité de l&apos;embourgeoisement; à l&apos;est du Tibre, Ostience et Testacio sont des quartiers en constante évolution, reconnus pour être assez festifs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15140531_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010007</url>
+		<episode-num system="common">S01E07</episode-num>
+		<episode-num system="dd_progid">EP02854701.0007</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823190000 -0400" stop="20220823200000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Accroche-moi!</title>
+		<sub-title lang="en">Poisson à tête de serpent et espadon chinois</sub-title>
+		<desc lang="en">Jason Faafoi est un admirateur de longue date des aventures de Matt; il rêve depuis longtemps de ressentir le frisson lié à la capture d&apos;un espadon, mais avant, Jason doit faire ses preuves en attrapant un poisson-serpent dans la jungle malaisienne.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14611284_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384098&amp;tmsId=EP043840980002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384098.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823200000 -0400" stop="20220823210000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de langoustes géantes</title>
+		<desc lang="en">Les temps sont difficiles et tous les pêcheurs se battent pour rester à flot; Squizzy a dû réhypothéquer sa maison; après avoir acheté un nouveau bateau, Bryce n&apos;a plus les moyens d&apos;embaucher et doit entreprendre son premier voyage en solitaire.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18639800_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03585557&amp;tmsId=EP035855570020</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP03585557.0020</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823210000 -0400" stop="20220823220000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Benoit chez les Belges</title>
+		<sub-title lang="en">Bruxelles, ses différents quartiers, et la découve</sub-title>
+		<desc lang="en">Benoit se rend à l&apos;Atomium, le symbole international de Bruxelles et de la Belgique; il se balade ensuite en vélo à travers trois quartiers distincts et déguste sa première frite; il prend la route vers Namur où il visite parfumerie et vignoble.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22589838_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384105&amp;tmsId=EP043841050002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384105.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823220000 -0400" stop="20220823230000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Eliane et Samantha</sub-title>
+		<desc lang="en">C&apos;est un peu par hasard qu&apos;Eliane et son mari Roger se lancent dans l&apos;aventure; après avoir acheté un ancien hôtel, ils décident de faire des chambres d&apos;hôtes; aujourd&apos;hui, Samantha se voit reprendre la maison d&apos;hôtes de son père et de sa belle-mère.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110152</url>
+		<episode-num system="dd_progid">EP02854611.0152</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823230000 -0400" stop="20220824000000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Rencontres au sommet</title>
+		<sub-title lang="en">Une finale à couper le souffle</sub-title>
+		<desc lang="en">La fin d&apos;un périple est au Mont des Morios: il faut utiliser des cordes tellement c&apos;est abrupt; une visite inattendue récompense les efforts des randonneurs et réchauffe les coeurs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20451201_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03956194&amp;tmsId=EP039561940005</url>
+		<episode-num system="common">S01E05</episode-num>
+		<episode-num system="dd_progid">EP03956194.0005</episode-num>
+		<episode-num system="xmltv_ns">0.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824000000 -0400" stop="20220824010000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Rencontres au sommet</title>
+		<sub-title lang="en">Un départ au Mont Xalibu</sub-title>
+		<desc lang="en">Début de l&apos;aventure en Gaspésie avec le mont Xalibu et ses vues à couper le souffle; les liens se tissent déjà entre Patrice Godin, Caroline Néron, Marie-Chantal Perron, Frédéric Pierre et Émile Bilodeau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20451201_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03956194&amp;tmsId=EP039561940006</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP03956194.0006</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824010000 -0400" stop="20220824020000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Accroche-moi!</title>
+		<sub-title lang="en">Poisson à tête de serpent et espadon chinois</sub-title>
+		<desc lang="en">Jason Faafoi est un admirateur de longue date des aventures de Matt; il rêve depuis longtemps de ressentir le frisson lié à la capture d&apos;un espadon, mais avant, Jason doit faire ses preuves en attrapant un poisson-serpent dans la jungle malaisienne.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14611284_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384098&amp;tmsId=EP043840980002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384098.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824020000 -0400" stop="20220824030000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de langoustes géantes</title>
+		<desc lang="en">Les temps sont difficiles et tous les pêcheurs se battent pour rester à flot; Squizzy a dû réhypothéquer sa maison; après avoir acheté un nouveau bateau, Bryce n&apos;a plus les moyens d&apos;embaucher et doit entreprendre son premier voyage en solitaire.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18639800_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03585557&amp;tmsId=EP035855570020</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP03585557.0020</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824030000 -0400" stop="20220824040000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Testacio, Ostience, Pigneto</sub-title>
+		<desc lang="en">Au sud de Rome, on retrouve trois anciens quartiers industriels qui ont profité de l&apos;embourgeoisement; à l&apos;est du Tibre, Ostience et Testacio sont des quartiers en constante évolution, reconnus pour être assez festifs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15140531_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010007</url>
+		<episode-num system="common">S01E07</episode-num>
+		<episode-num system="dd_progid">EP02854701.0007</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824040000 -0400" stop="20220824050000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pêche ou crève</title>
+		<sub-title lang="en">Tacos et tarpons</sub-title>
+		<desc lang="en">Les gars ont entendu parler d&apos;une mecque préservée du tarpon à Tabasco, au Mexique; la puissance et les sauts spectaculaires de ce poisson font rêver les pêcheurs sportifs depuis toujours, mais atteindre ces rois argentés ne sera pas reposant.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16791857_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03820521&amp;tmsId=EP038205210006</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP03820521.0006</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824050000 -0400" stop="20220824060000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Aucun homme n&apos;est une île (Panama)</sub-title>
+		<desc lang="en">Joe a pour mission de localiser son nouveau partenaire, Matt Graham; celui-ci serait sur une île inhabitée au large des côtes du Panama; grâce à son talent, Joe parvient à le retrouver et, ensemble, ils doivent trouver un moyen de rentrer au bercail.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10730659_e_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120039</url>
+		<episode-num system="common">S04E06</episode-num>
+		<episode-num system="dd_progid">EP02328912.0039</episode-num>
+		<episode-num system="xmltv_ns">3.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824060000 -0400" stop="20220824070000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Mordu de la pêche</title>
+		<sub-title lang="en">France</sub-title>
+		<desc lang="en">Cyril est dans le sud de la France.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p445118_b_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00834998&amp;tmsId=EP008349980036</url>
+		<episode-num system="common">S03E03</episode-num>
+		<episode-num system="dd_progid">EP00834998.0036</episode-num>
+		<episode-num system="xmltv_ns">2.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824070000 -0400" stop="20220824080000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Mordu de la pêche</title>
+		<sub-title lang="en">Québec - Montréal</sub-title>
+		<desc lang="en">Cyril est au Québec et il a toutes sortes de pêches et d&apos;aventures de prévues, de Québec à Montréal : saumons, escalade, pêche urbaine, esturgeons et achigans sont au programme de cet épisode explosif!</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p445118_b_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00834998&amp;tmsId=EP008349980037</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP00834998.0037</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824080000 -0400" stop="20220824090000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Monti, Campitelli, Castro Pretorio</sub-title>
+		<desc lang="en">Les Campitelli, Monti et Castro Pretorio sont situés côte à côte, mais ils n&apos;ont rien en commun. Caché derrière le Colisée, Monti est un havre de paix; un véritable village urbain, où le fait main, le bio et le vintage sont très tendance.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15162736_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010008</url>
+		<episode-num system="common">S01E08</episode-num>
+		<episode-num system="dd_progid">EP02854701.0008</episode-num>
+		<episode-num system="xmltv_ns">0.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824090000 -0400" stop="20220824100000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Solange et André</sub-title>
+		<desc lang="en">En 2011, à l&apos;aube de la retraite, Solange et André achètent un champ; ils veulent y construire une maison pour y accueillir leurs petits-enfants; afin que la maison soit occupée tout au long de l&apos;année, ils décident d&apos;ouvrir des chambres d&apos;hôtes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110153</url>
+		<episode-num system="dd_progid">EP02854611.0153</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824100000 -0400" stop="20220824110000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Survivre aux Mayas (Yucatan, Mexique)</sub-title>
+		<desc lang="en">Piégés dans un labyrinthe de tunnels souterrains, Joe et Matt risquent la noyade; quand ils parviennent à se sortir des entrailles de la Terre, ils se retrouvent en pleine jungle inhospitalière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10785758_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120040</url>
+		<episode-num system="common">S04E07</episode-num>
+		<episode-num system="dd_progid">EP02328912.0040</episode-num>
+		<episode-num system="xmltv_ns">3.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824110000 -0400" stop="20220824120000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Mordu de la pêche</title>
+		<sub-title lang="en">France</sub-title>
+		<desc lang="en">Cyril est dans le sud de la France.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p445118_b_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00834998&amp;tmsId=EP008349980036</url>
+		<episode-num system="common">S03E03</episode-num>
+		<episode-num system="dd_progid">EP00834998.0036</episode-num>
+		<episode-num system="xmltv_ns">2.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824120000 -0400" stop="20220824130000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Monti, Campitelli, Castro Pretorio</sub-title>
+		<desc lang="en">Les Campitelli, Monti et Castro Pretorio sont situés côte à côte, mais ils n&apos;ont rien en commun. Caché derrière le Colisée, Monti est un havre de paix; un véritable village urbain, où le fait main, le bio et le vintage sont très tendance.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15162736_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010008</url>
+		<episode-num system="common">S01E08</episode-num>
+		<episode-num system="dd_progid">EP02854701.0008</episode-num>
+		<episode-num system="xmltv_ns">0.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824130000 -0400" stop="20220824140000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Solange et André</sub-title>
+		<desc lang="en">En 2011, à l&apos;aube de la retraite, Solange et André achètent un champ; ils veulent y construire une maison pour y accueillir leurs petits-enfants; afin que la maison soit occupée tout au long de l&apos;année, ils décident d&apos;ouvrir des chambres d&apos;hôtes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110153</url>
+		<episode-num system="dd_progid">EP02854611.0153</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824140000 -0400" stop="20220824150000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Survivre aux Mayas (Yucatan, Mexique)</sub-title>
+		<desc lang="en">Piégés dans un labyrinthe de tunnels souterrains, Joe et Matt risquent la noyade; quand ils parviennent à se sortir des entrailles de la Terre, ils se retrouvent en pleine jungle inhospitalière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10785758_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120040</url>
+		<episode-num system="common">S04E07</episode-num>
+		<episode-num system="dd_progid">EP02328912.0040</episode-num>
+		<episode-num system="xmltv_ns">3.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824150000 -0400" stop="20220824160000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Mordu de la pêche</title>
+		<sub-title lang="en">France</sub-title>
+		<desc lang="en">Cyril est dans le sud de la France.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p445118_b_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00834998&amp;tmsId=EP008349980036</url>
+		<episode-num system="common">S03E03</episode-num>
+		<episode-num system="dd_progid">EP00834998.0036</episode-num>
+		<episode-num system="xmltv_ns">2.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824160000 -0400" stop="20220824170000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Des trains pas comme les autres</title>
+		<sub-title lang="en">Colombie</sub-title>
+		<desc lang="en">Pour les amoureux des trains, la Colombie est une pépite; ici, les gens ne manquent pas d&apos;idées pour faire circuler toutes sortes d&apos;engins sur les rails; un déménagement insolite, la découverte de Bogota et un tour en bus sur rails.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365864_b_v9_ak.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702219&amp;tmsId=EP017022190086</url>
+		<episode-num system="common">S11E03</episode-num>
+		<episode-num system="dd_progid">EP01702219.0086</episode-num>
+		<episode-num system="xmltv_ns">10.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824170000 -0400" stop="20220824180000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Soleil tout inclus</title>
+		<sub-title lang="en">Amalfi</sub-title>
+		<desc lang="en">Nous partons visiter Amalfi en Italie, petite ville côtière pittoresque bâtie sur des falaises rocheuses escarpées et située dans la baie de Salerne.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15818442_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00770102&amp;tmsId=EP007701020118</url>
+		<episode-num system="common">S10E02</episode-num>
+		<episode-num system="dd_progid">EP00770102.0118</episode-num>
+		<episode-num system="xmltv_ns">9.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824180000 -0400" stop="20220824190000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Monti, Campitelli, Castro Pretorio</sub-title>
+		<desc lang="en">Les Campitelli, Monti et Castro Pretorio sont situés côte à côte, mais ils n&apos;ont rien en commun. Caché derrière le Colisée, Monti est un havre de paix; un véritable village urbain, où le fait main, le bio et le vintage sont très tendance.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15162736_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010008</url>
+		<episode-num system="common">S01E08</episode-num>
+		<episode-num system="dd_progid">EP02854701.0008</episode-num>
+		<episode-num system="xmltv_ns">0.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824190000 -0400" stop="20220824210000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Méchant menteur</title>
+		<sub-title lang="en">Movie (2011)</sub-title>
+		<desc lang="en">Un chirurgien esthétique fait appel à son assistante et à ses enfants pour l&apos;aider à gagner le coeur d&apos;une femme magnifique.</desc>
+		<date>2011</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8238130_p_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00349876&amp;tmsId=MV003498760000</url>
+		<episode-num system="dd_progid">MV00349876.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824210000 -0400" stop="20220824220000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">VR sans pareil</title>
+		<sub-title lang="en">Winnebago, Astrovan et Willie Nelson</sub-title>
+		<desc lang="en">Winnebago Industries, la référence en VR, entreprend son projet le plus luxueux à ce jour; puis, on découvre l&apos;unique Astrovan de la NASA et on monte à bord de l&apos;autocar que la légende de la musique Willie Nelson appelle sa maison sur roues.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11037174_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272537&amp;tmsId=EP042725370002</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP04272537.0002</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824220000 -0400" stop="20220824230000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Solange et André</sub-title>
+		<desc lang="en">En 2011, à l&apos;aube de la retraite, Solange et André achètent un champ; ils veulent y construire une maison pour y accueillir leurs petits-enfants; afin que la maison soit occupée tout au long de l&apos;année, ils décident d&apos;ouvrir des chambres d&apos;hôtes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110153</url>
+		<episode-num system="dd_progid">EP02854611.0153</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824230000 -0400" stop="20220825000000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Des trains pas comme les autres</title>
+		<sub-title lang="en">Colombie</sub-title>
+		<desc lang="en">Pour les amoureux des trains, la Colombie est une pépite; ici, les gens ne manquent pas d&apos;idées pour faire circuler toutes sortes d&apos;engins sur les rails; un déménagement insolite, la découverte de Bogota et un tour en bus sur rails.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365864_b_v9_ak.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702219&amp;tmsId=EP017022190086</url>
+		<episode-num system="common">S11E03</episode-num>
+		<episode-num system="dd_progid">EP01702219.0086</episode-num>
+		<episode-num system="xmltv_ns">10.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825000000 -0400" stop="20220825010000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Soleil tout inclus</title>
+		<sub-title lang="en">Amalfi</sub-title>
+		<desc lang="en">Nous partons visiter Amalfi en Italie, petite ville côtière pittoresque bâtie sur des falaises rocheuses escarpées et située dans la baie de Salerne.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15818442_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00770102&amp;tmsId=EP007701020118</url>
+		<episode-num system="common">S10E02</episode-num>
+		<episode-num system="dd_progid">EP00770102.0118</episode-num>
+		<episode-num system="xmltv_ns">9.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825010000 -0400" stop="20220825030000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pékin express</title>
+		<desc lang="en">Pour cette étape de l&apos;aventure, en Turquie, les candidats démarreront le long de la jolie côte balnéaire de Kemer aux eaux limpides; l&apos;épreuve petit déjeuner local fera son retour et mettra à l&apos;épreuve les estomacs des candidats.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19469477_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04330061&amp;tmsId=EP043300610008</url>
+		<episode-num system="common">S01E08</episode-num>
+		<episode-num system="dd_progid">EP04330061.0008</episode-num>
+		<episode-num system="xmltv_ns">0.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825030000 -0400" stop="20220825040000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Monti, Campitelli, Castro Pretorio</sub-title>
+		<desc lang="en">Les Campitelli, Monti et Castro Pretorio sont situés côte à côte, mais ils n&apos;ont rien en commun. Caché derrière le Colisée, Monti est un havre de paix; un véritable village urbain, où le fait main, le bio et le vintage sont très tendance.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15162736_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010008</url>
+		<episode-num system="common">S01E08</episode-num>
+		<episode-num system="dd_progid">EP02854701.0008</episode-num>
+		<episode-num system="xmltv_ns">0.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825040000 -0400" stop="20220825050000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pêche ou crève</title>
+		<sub-title lang="en">Danger au paradis</sub-title>
+		<desc lang="en">Le barramundi est un prédateur agressif qui aime se battre comme un fou; les gars n&apos;hésitent pas à se rendre sur l&apos;île d&apos;Endyalgout, dans le nord de l&apos;Australie, pour capturer ce poisson de rêve qui se trouve à être particulièrement délicieux.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16771058_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03820521&amp;tmsId=EP038205210007</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP03820521.0007</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825050000 -0400" stop="20220825060000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Survivre aux Mayas (Yucatan, Mexique)</sub-title>
+		<desc lang="en">Piégés dans un labyrinthe de tunnels souterrains, Joe et Matt risquent la noyade; quand ils parviennent à se sortir des entrailles de la Terre, ils se retrouvent en pleine jungle inhospitalière.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10785758_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120040</url>
+		<episode-num system="common">S04E07</episode-num>
+		<episode-num system="dd_progid">EP02328912.0040</episode-num>
+		<episode-num system="xmltv_ns">3.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825060000 -0400" stop="20220825070000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Des trains pas comme les autres</title>
+		<sub-title lang="en">Colombie</sub-title>
+		<desc lang="en">Pour les amoureux des trains, la Colombie est une pépite; ici, les gens ne manquent pas d&apos;idées pour faire circuler toutes sortes d&apos;engins sur les rails; un déménagement insolite, la découverte de Bogota et un tour en bus sur rails.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365864_b_v9_ak.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702219&amp;tmsId=EP017022190086</url>
+		<episode-num system="common">S11E03</episode-num>
+		<episode-num system="dd_progid">EP01702219.0086</episode-num>
+		<episode-num system="xmltv_ns">10.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825070000 -0400" stop="20220825073000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Le monde selon Chuck</title>
+		<sub-title lang="en">Taïwan</sub-title>
+		<desc lang="en">Chuck arpente l&apos;île de Taiwan et découvre sa cuisine si différente; il ose goûter au tofu puant et aux dumpings gluants; il savoure les parfums du thé local et fabrique des nouilles en se servant de tout son corps.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14401716_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748537&amp;tmsId=EP027485370003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP02748537.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825073000 -0400" stop="20220825080000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Le monde selon Chuck</title>
+		<sub-title lang="en">Islande</sub-title>
+		<desc lang="en">Chuck découvre l&apos;Islande; dans cette île nordique, il goûte au requin fermenté, cuisine l&apos;agneau et le saumon islandais et s&apos;adonne au surf arctique.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14401716_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748537&amp;tmsId=EP027485370004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP02748537.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825080000 -0400" stop="20220825090000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Trastevere, Prati, Vatican</sub-title>
+		<desc lang="en">À l&apos;ouest du Tibre, l&apos;un des quartiers chouchous des voyageurs est Trastevere. On y trouve entre autres, des artisans locaux et des trattorias branchées. La nuit tombée, l&apos;ambiance y est électrisante avec ses multiples bars.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15179655_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP02854701.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825090000 -0400" stop="20220825100000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Edyth et Lyorick</sub-title>
+		<desc lang="en">En 2014, Edyth et son mari décident de bâtir une maison d&apos;hôtes sur leur immense terrain; ils la souhaitent la plus écologique possible; Edyth aimerait maintenant transmettre ce projet à son petit-fils Lyorick, qui suit une formation en ce sens.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110154</url>
+		<episode-num system="dd_progid">EP02854611.0154</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825100000 -0400" stop="20220825110000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Au bord du précipice (Andes péruviennes)</sub-title>
+		<desc lang="en">Joe et Matt risquent leur vie sur une crête périlleuse à plus de 4 500 mètres d&apos;altitude; ils sont contraints de descendre des falaises glissantes dans des conditions météo extrêmes, où le mal des montagnes et l&apos;hypothermie les guettent.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10785799_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120041</url>
+		<episode-num system="common">S04E08</episode-num>
+		<episode-num system="dd_progid">EP02328912.0041</episode-num>
+		<episode-num system="xmltv_ns">3.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825110000 -0400" stop="20220825120000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Mordu de la pêche</title>
+		<sub-title lang="en">Québec - Montréal</sub-title>
+		<desc lang="en">Cyril est au Québec et il a toutes sortes de pêches et d&apos;aventures de prévues, de Québec à Montréal : saumons, escalade, pêche urbaine, esturgeons et achigans sont au programme de cet épisode explosif!</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p445118_b_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00834998&amp;tmsId=EP008349980037</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP00834998.0037</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825120000 -0400" stop="20220825130000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Trastevere, Prati, Vatican</sub-title>
+		<desc lang="en">À l&apos;ouest du Tibre, l&apos;un des quartiers chouchous des voyageurs est Trastevere. On y trouve entre autres, des artisans locaux et des trattorias branchées. La nuit tombée, l&apos;ambiance y est électrisante avec ses multiples bars.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15179655_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP02854701.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825130000 -0400" stop="20220825140000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Edyth et Lyorick</sub-title>
+		<desc lang="en">En 2014, Edyth et son mari décident de bâtir une maison d&apos;hôtes sur leur immense terrain; ils la souhaitent la plus écologique possible; Edyth aimerait maintenant transmettre ce projet à son petit-fils Lyorick, qui suit une formation en ce sens.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110154</url>
+		<episode-num system="dd_progid">EP02854611.0154</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825140000 -0400" stop="20220825150000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Au bord du précipice (Andes péruviennes)</sub-title>
+		<desc lang="en">Joe et Matt risquent leur vie sur une crête périlleuse à plus de 4 500 mètres d&apos;altitude; ils sont contraints de descendre des falaises glissantes dans des conditions météo extrêmes, où le mal des montagnes et l&apos;hypothermie les guettent.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10785799_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120041</url>
+		<episode-num system="common">S04E08</episode-num>
+		<episode-num system="dd_progid">EP02328912.0041</episode-num>
+		<episode-num system="xmltv_ns">3.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825150000 -0400" stop="20220825160000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Mordu de la pêche</title>
+		<sub-title lang="en">Québec - Montréal</sub-title>
+		<desc lang="en">Cyril est au Québec et il a toutes sortes de pêches et d&apos;aventures de prévues, de Québec à Montréal : saumons, escalade, pêche urbaine, esturgeons et achigans sont au programme de cet épisode explosif!</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p445118_b_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00834998&amp;tmsId=EP008349980037</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP00834998.0037</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825160000 -0400" stop="20220825170000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Voyager plus vert</title>
+		<sub-title lang="en">L&apos;île de Ko Kut, en Thaïlande</sub-title>
+		<desc lang="en">Richard se rend sur l&apos;île la moins peuplée de Thaïlande, Ko Kut; l&apos;entreprise Soneva y gère un complexe hôtelier de luxe intelligent où traditions et intimité se marient; il découvre la politique de transformation des déchets en richesse de Soneva.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18215257_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384088&amp;tmsId=EP043840880002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384088.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown start="20220822000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825170000 -0400" stop="20220825173000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Vancouver</sub-title>
+		<desc lang="en">Greer se dirige vers le nord, à Vancouver; cette ville canadienne passionnante regorge de paysages naturels et de plaisirs urbains; la consultante Eppa Lea lui sert de guide alors que le duo a 48 heures pour explorer la ville de fond en comble.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14496534_e_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04384084.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825173000 -0400" stop="20220825180000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Le Cap</sub-title>
+		<desc lang="en">Greer met le cap sur la ville du Cap, en Afrique du Sud; Janice, son guide, lui fait découvrir le meilleur de la région: des plages aux vignobles, en passant par les rhinocéros et les girafes sauvages.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14616782_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP04384084.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825180000 -0400" stop="20220825190000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Trastevere, Prati, Vatican</sub-title>
+		<desc lang="en">À l&apos;ouest du Tibre, l&apos;un des quartiers chouchous des voyageurs est Trastevere. On y trouve entre autres, des artisans locaux et des trattorias branchées. La nuit tombée, l&apos;ambiance y est électrisante avec ses multiples bars.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15179655_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP02854701.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825190000 -0400" stop="20220825200000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">La belle tournée</title>
+		<sub-title lang="en">Bas-Saint-Laurent</sub-title>
+		<desc lang="en">Guy Jodoin et ses invités partagent un moment privilégié dans la région du Bas-Saint-Laurent; c&apos;est entouré de Bruno Blanchet, Ingrid St-Pierre, Guylaine Tanguay, Klô Pelgag et Wilfred LeBouthillier que Guy redécouvre cette magnifique région.</desc>
+		<date>20220821</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20109007_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03893049&amp;tmsId=EP038930490028</url>
+		<episode-num system="common">S02E11</episode-num>
+		<episode-num system="dd_progid">EP03893049.0028</episode-num>
+		<episode-num system="xmltv_ns">1.10.</episode-num>
+		<previously-shown start="20220821000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825200000 -0400" stop="20220825210000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Des trains pas comme les autres</title>
+		<sub-title lang="en">Italie</sub-title>
+		<desc lang="en">Philippe parcourt l&apos;Italie en commençant par Rome; il profite des sièges baquets d&apos;un train Ferrari, très rapide évidemment; puis le globe-trotteur monte à bord du chic train de Dante, tout de bois décoré.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22517669_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702219&amp;tmsId=EP017022190087</url>
+		<episode-num system="common">S12E02</episode-num>
+		<episode-num system="dd_progid">EP01702219.0087</episode-num>
+		<episode-num system="xmltv_ns">11.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825210000 -0400" stop="20220825220000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de trésors</title>
+		<desc lang="en">Un expert en Antiquité fait équipe avec une voleuse pour contrer un dangereux terroriste. Ce dernier, qui était présumé mort, parcourt activement le monde afin de mettre la main sur un trésor maudit qui lui permettrait de mener à bien ses attaques.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22239478_e_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03501687&amp;tmsId=EP035016870016</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03501687.0016</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20220825220000 -0400" stop="20220825230000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Edyth et Lyorick</sub-title>
+		<desc lang="en">En 2014, Edyth et son mari décident de bâtir une maison d&apos;hôtes sur leur immense terrain; ils la souhaitent la plus écologique possible; Edyth aimerait maintenant transmettre ce projet à son petit-fils Lyorick, qui suit une formation en ce sens.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110154</url>
+		<episode-num system="dd_progid">EP02854611.0154</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825230000 -0400" stop="20220826000000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Avec ou sans cash</title>
+		<sub-title lang="en">Niagara Falls</sub-title>
+		<desc lang="en">C&apos;est à Niagara Falls que Geneviève et Guillaume passent les 24 prochaines heures; un tirage au sort devant les chutes les plus puissantes d&apos;Amérique du Nord dévoile qui aura 100 $ ou 1000 $ pour découvrir la célèbre ville.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13926598_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02642782&amp;tmsId=EP026427820041</url>
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="dd_progid">EP02642782.0041</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826000000 -0400" stop="20220826003000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Vancouver</sub-title>
+		<desc lang="en">Greer se dirige vers le nord, à Vancouver; cette ville canadienne passionnante regorge de paysages naturels et de plaisirs urbains; la consultante Eppa Lea lui sert de guide alors que le duo a 48 heures pour explorer la ville de fond en comble.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14496534_e_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04384084.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826003000 -0400" stop="20220826010000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Le Cap</sub-title>
+		<desc lang="en">Greer met le cap sur la ville du Cap, en Afrique du Sud; Janice, son guide, lui fait découvrir le meilleur de la région: des plages aux vignobles, en passant par les rhinocéros et les girafes sauvages.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14616782_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP04384084.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826010000 -0400" stop="20220826020000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Voyager plus vert</title>
+		<sub-title lang="en">L&apos;île de Ko Kut, en Thaïlande</sub-title>
+		<desc lang="en">Richard se rend sur l&apos;île la moins peuplée de Thaïlande, Ko Kut; l&apos;entreprise Soneva y gère un complexe hôtelier de luxe intelligent où traditions et intimité se marient; il découvre la politique de transformation des déchets en richesse de Soneva.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18215257_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384088&amp;tmsId=EP043840880002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384088.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown start="20220822000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826020000 -0400" stop="20220826030000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chiller avec Félipé au Québec</title>
+		<sub-title lang="en">Les Cantons-de-L&apos;Est (Magog)</sub-title>
+		<desc lang="en">À North Hatley, notre curieux charcutier s&apos;invite dans les cuisines du prestigieux restaurant Le Hatley du Manoir Hovey; le chef, Francis Wolf, lui prépare une poutine hors du commun avant de l&apos;emmener chez certains de ses producteurs chouchous.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16732969_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03190987&amp;tmsId=EP031909870002</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03190987.0002</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826030000 -0400" stop="20220826040000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Rome: Trastevere, Prati, Vatican</sub-title>
+		<desc lang="en">À l&apos;ouest du Tibre, l&apos;un des quartiers chouchous des voyageurs est Trastevere. On y trouve entre autres, des artisans locaux et des trattorias branchées. La nuit tombée, l&apos;ambiance y est électrisante avec ses multiples bars.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15179655_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP02854701.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826040000 -0400" stop="20220826050000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pêche ou crève</title>
+		<sub-title lang="en">Les pirates de Papouasie-Nouvelle-Guinée</sub-title>
+		<desc lang="en">La Papouasie-Nouvelle-Guinée est une terre d&apos;une beauté extraordinaire; si la rumeur est exacte, la baie de Milne abriterait des bancs de carangues à grosse tête; ce redoutable prédateur est connu pour briser les cannes à pêche et les pêcheurs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16865342_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03820521&amp;tmsId=EP038205210008</url>
+		<episode-num system="common">S01E07</episode-num>
+		<episode-num system="dd_progid">EP03820521.0008</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826050000 -0400" stop="20220826060000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Au bord du précipice (Andes péruviennes)</sub-title>
+		<desc lang="en">Joe et Matt risquent leur vie sur une crête périlleuse à plus de 4 500 mètres d&apos;altitude; ils sont contraints de descendre des falaises glissantes dans des conditions météo extrêmes, où le mal des montagnes et l&apos;hypothermie les guettent.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10785799_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120041</url>
+		<episode-num system="common">S04E08</episode-num>
+		<episode-num system="dd_progid">EP02328912.0041</episode-num>
+		<episode-num system="xmltv_ns">3.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826060000 -0400" stop="20220826080000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pékin express</title>
+		<desc lang="en">Pour cette étape de l&apos;aventure, en Turquie, les candidats démarreront le long de la jolie côte balnéaire de Kemer aux eaux limpides; l&apos;épreuve petit déjeuner local fera son retour et mettra à l&apos;épreuve les estomacs des candidats.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19469477_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04330061&amp;tmsId=EP043300610008</url>
+		<episode-num system="common">S01E08</episode-num>
+		<episode-num system="dd_progid">EP04330061.0008</episode-num>
+		<episode-num system="xmltv_ns">0.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826080000 -0400" stop="20220826090000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Athènes: Monastiraki, Plaka, Acropole, Koukaki</sub-title>
+		<desc lang="en">Au coeur d&apos;Athènes, on retrouve les quartiers historiques et touristiques de la ville; véritable joyau des Athéniens, l&apos;Acropole, qui domine fièrement la capitale, est un incontournable.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15209441_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP02854701.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826090000 -0400" stop="20220826100000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Finale de la semaine 5</sub-title>
+		<desc lang="en">Finale de la semaine.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110120</url>
+		<episode-num system="common">S07E05</episode-num>
+		<episode-num system="dd_progid">EP02854611.0120</episode-num>
+		<episode-num system="xmltv_ns">6.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826100000 -0400" stop="20220826110000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de trésors</title>
+		<desc lang="en">Un expert en Antiquité fait équipe avec une voleuse pour contrer un dangereux terroriste. Ce dernier, qui était présumé mort, parcourt activement le monde afin de mettre la main sur un trésor maudit qui lui permettrait de mener à bien ses attaques.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22239478_e_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03501687&amp;tmsId=EP035016870016</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03501687.0016</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20220826000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20220826110000 -0400" stop="20220826120000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Unis pour survivre</title>
+		<sub-title lang="en">Fin du voyage vers un nouveau départ</sub-title>
+		<desc lang="en">L&apos;amitié entre Cody Lundin et Joe Teti touche à sa fin; on plonge dans les coulisses de l&apos;émission afin de découvrir qui quitte l&apos;aventure et qui sera la nouvelle tête d&apos;affiche d&apos;&quot;Unis pour survivre.&quot;</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10705622_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02328912&amp;tmsId=EP023289120038</url>
+		<episode-num system="common">S04E05</episode-num>
+		<episode-num system="dd_progid">EP02328912.0038</episode-num>
+		<episode-num system="xmltv_ns">3.4.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826120000 -0400" stop="20220826130000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Benoit chez les Belges</title>
+		<sub-title lang="en">Bruxelles, ses différents quartiers, et la découve</sub-title>
+		<desc lang="en">Benoit se rend à l&apos;Atomium, le symbole international de Bruxelles et de la Belgique; il se balade ensuite en vélo à travers trois quartiers distincts et déguste sa première frite; il prend la route vers Namur où il visite parfumerie et vignoble.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22589838_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384105&amp;tmsId=EP043841050002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384105.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826130000 -0400" stop="20220826140000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Finale de la semaine 5</sub-title>
+		<desc lang="en">Finale de la semaine.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110120</url>
+		<episode-num system="common">S07E05</episode-num>
+		<episode-num system="dd_progid">EP02854611.0120</episode-num>
+		<episode-num system="xmltv_ns">6.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826140000 -0400" stop="20220826150000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Les vacances de Monsieur Bruno</title>
+		<sub-title lang="en">À la recherche du roi</sub-title>
+		<desc lang="en">Monsieur Bruno débarque dans le Couffo avec l&apos;espoir de rencontrer un célèbre roi; au fil de ses pérégrinations, il découvre différents aspects de la culture du Bénin comme la religion et la nourriture.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11003829_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01980316&amp;tmsId=EP019803160031</url>
+		<episode-num system="common">S03E03</episode-num>
+		<episode-num system="dd_progid">EP01980316.0031</episode-num>
+		<episode-num system="xmltv_ns">2.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826150000 -0400" stop="20220826160000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Les vacances de Monsieur Bruno</title>
+		<sub-title lang="en">Cinéma, cinéma</sub-title>
+		<desc lang="en">À Cotonou, au Bénin, Monsieur Bruno n&apos;a qu&apos;une idée en tête: devenir une vedette de cinéma; par chance, il rencontre un réalisateur qui lui offre un rôle dans son prochain film d&apos;action.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11003829_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01980316&amp;tmsId=EP019803160032</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP01980316.0032</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826160000 -0400" stop="20220826170000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Rencontres au sommet</title>
+		<sub-title lang="en">Une finale à couper le souffle</sub-title>
+		<desc lang="en">La fin d&apos;un périple est au Mont des Morios: il faut utiliser des cordes tellement c&apos;est abrupt; une visite inattendue récompense les efforts des randonneurs et réchauffe les coeurs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20451201_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03956194&amp;tmsId=EP039561940005</url>
+		<episode-num system="common">S01E05</episode-num>
+		<episode-num system="dd_progid">EP03956194.0005</episode-num>
+		<episode-num system="xmltv_ns">0.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826170000 -0400" stop="20220826180000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Rencontres au sommet</title>
+		<sub-title lang="en">Un départ au Mont Xalibu</sub-title>
+		<desc lang="en">Début de l&apos;aventure en Gaspésie avec le mont Xalibu et ses vues à couper le souffle; les liens se tissent déjà entre Patrice Godin, Caroline Néron, Marie-Chantal Perron, Frédéric Pierre et Émile Bilodeau.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20451201_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03956194&amp;tmsId=EP039561940006</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP03956194.0006</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826180000 -0400" stop="20220826190000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Athènes: Monastiraki, Plaka, Acropole, Koukaki</sub-title>
+		<desc lang="en">Au coeur d&apos;Athènes, on retrouve les quartiers historiques et touristiques de la ville; véritable joyau des Athéniens, l&apos;Acropole, qui domine fièrement la capitale, est un incontournable.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15209441_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP02854701.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826190000 -0400" stop="20220826210000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Pékin express</title>
+		<desc lang="en">Pour la demi-finale de l&apos;aventure, les binômes devront disputer trois courses à l&apos;issue desquelles les premiers remporteront une extra-amulette, et les derniers une enveloppe noire; ces trois courses donneront du fil à retordre aux candidats.</desc>
+		<date>20220826</date>
+		<category lang="en">Series</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19469477_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04330061&amp;tmsId=EP043300610009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP04330061.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826210000 -0400" stop="20220826220000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Alone: les survivants</title>
+		<sub-title lang="en">Des loups et des hommes</sub-title>
+		<desc lang="en">Alors que les loups et les ours continuent de causer des problèmes, trouver de l&apos;eau potable devient rapidement une difficulté critique pour les hommes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11768163_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384112&amp;tmsId=EP043841120002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384112.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826220000 -0400" stop="20220826230000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue chez nous</title>
+		<sub-title lang="en">Finale de la semaine 5</sub-title>
+		<desc lang="en">Finale de la semaine.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10838665_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854611&amp;tmsId=EP028546110120</url>
+		<episode-num system="common">S07E05</episode-num>
+		<episode-num system="dd_progid">EP02854611.0120</episode-num>
+		<episode-num system="xmltv_ns">6.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826230000 -0400" stop="20220827010000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue dans la jungle</title>
+		<sub-title lang="en">Movie (2013)</sub-title>
+		<desc lang="en">Ancien du corps des Marines, Storm Rothchild est chargé de créer et d&apos;insuffler un esprit d&apos;équipe à des employés d&apos;une entreprise de design partis en séminaires sur une île tropicale.</desc>
+		<date>2013</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10454231_p_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00552875&amp;tmsId=MV005528750000</url>
+		<episode-num system="dd_progid">MV00552875.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827010000 -0400" stop="20220827020000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">VR sans pareil</title>
+		<sub-title lang="en">Winnebago, Astrovan et Willie Nelson</sub-title>
+		<desc lang="en">Winnebago Industries, la référence en VR, entreprend son projet le plus luxueux à ce jour; puis, on découvre l&apos;unique Astrovan de la NASA et on monte à bord de l&apos;autocar que la légende de la musique Willie Nelson appelle sa maison sur roues.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11037174_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272537&amp;tmsId=EP042725370002</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP04272537.0002</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827020000 -0400" stop="20220827023000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Le monde selon Chuck</title>
+		<sub-title lang="en">Taïwan</sub-title>
+		<desc lang="en">Chuck arpente l&apos;île de Taiwan et découvre sa cuisine si différente; il ose goûter au tofu puant et aux dumpings gluants; il savoure les parfums du thé local et fabrique des nouilles en se servant de tout son corps.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14401716_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748537&amp;tmsId=EP027485370003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP02748537.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827023000 -0400" stop="20220827030000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Le monde selon Chuck</title>
+		<sub-title lang="en">Islande</sub-title>
+		<desc lang="en">Chuck découvre l&apos;Islande; dans cette île nordique, il goûte au requin fermenté, cuisine l&apos;agneau et le saumon islandais et s&apos;adonne au surf arctique.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14401716_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748537&amp;tmsId=EP027485370004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP02748537.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827030000 -0400" stop="20220827040000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Athènes: Monastiraki, Plaka, Acropole, Koukaki</sub-title>
+		<desc lang="en">Au coeur d&apos;Athènes, on retrouve les quartiers historiques et touristiques de la ville; véritable joyau des Athéniens, l&apos;Acropole, qui domine fièrement la capitale, est un incontournable.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15209441_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010010</url>
+		<episode-num system="common">S01E10</episode-num>
+		<episode-num system="dd_progid">EP02854701.0010</episode-num>
+		<episode-num system="xmltv_ns">0.9.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827040000 -0400" stop="20220827050000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Les vacances de Monsieur Bruno</title>
+		<sub-title lang="en">À la recherche du roi</sub-title>
+		<desc lang="en">Monsieur Bruno débarque dans le Couffo avec l&apos;espoir de rencontrer un célèbre roi; au fil de ses pérégrinations, il découvre différents aspects de la culture du Bénin comme la religion et la nourriture.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11003829_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01980316&amp;tmsId=EP019803160031</url>
+		<episode-num system="common">S03E03</episode-num>
+		<episode-num system="dd_progid">EP01980316.0031</episode-num>
+		<episode-num system="xmltv_ns">2.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827050000 -0400" stop="20220827060000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Les vacances de Monsieur Bruno</title>
+		<sub-title lang="en">Cinéma, cinéma</sub-title>
+		<desc lang="en">À Cotonou, au Bénin, Monsieur Bruno n&apos;a qu&apos;une idée en tête: devenir une vedette de cinéma; par chance, il rencontre un réalisateur qui lui offre un rôle dans son prochain film d&apos;action.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11003829_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01980316&amp;tmsId=EP019803160032</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP01980316.0032</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827060000 -0400" stop="20220827070000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">99 envies d&apos;évasion: Berlin, Rome, Athènes</title>
+		<sub-title lang="en">Pigna, Ponte, Parioni, Sant&apos;Eustachio, Sant&apos;Angelo</sub-title>
+		<desc lang="en">À l&apos;ouest des quartiers Monti et Trevi, là où le Tibre dévie vers l&apos;ouest, on part à la découverte de la myriade de petits quartiers qui forment le coeur historique de Rome, soit Parione, Pigna, Ponte, Regola, Sant&apos;Angelo et Sant&apos;Eustachio.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15102496_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02854701&amp;tmsId=EP028547010006</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP02854701.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827070000 -0400" stop="20220827080000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chasseurs de langoustes géantes</title>
+		<desc lang="en">Les temps sont difficiles et tous les pêcheurs se battent pour rester à flot; Squizzy a dû réhypothéquer sa maison; après avoir acheté un nouveau bateau, Bryce n&apos;a plus les moyens d&apos;embaucher et doit entreprendre son premier voyage en solitaire.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18639800_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03585557&amp;tmsId=EP035855570020</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP03585557.0020</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827080000 -0400" stop="20220827090000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Accroche-moi!</title>
+		<sub-title lang="en">Poisson à tête de serpent et espadon chinois</sub-title>
+		<desc lang="en">Jason Faafoi est un admirateur de longue date des aventures de Matt; il rêve depuis longtemps de ressentir le frisson lié à la capture d&apos;un espadon, mais avant, Jason doit faire ses preuves en attrapant un poisson-serpent dans la jungle malaisienne.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14611284_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384098&amp;tmsId=EP043840980002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384098.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827090000 -0400" stop="20220827100000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Avec ou sans cash</title>
+		<sub-title lang="en">Niagara Falls</sub-title>
+		<desc lang="en">C&apos;est à Niagara Falls que Geneviève et Guillaume passent les 24 prochaines heures; un tirage au sort devant les chutes les plus puissantes d&apos;Amérique du Nord dévoile qui aura 100 $ ou 1000 $ pour découvrir la célèbre ville.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13926598_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02642782&amp;tmsId=EP026427820041</url>
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="dd_progid">EP02642782.0041</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827100000 -0400" stop="20220827103000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Vancouver</sub-title>
+		<desc lang="en">Greer se dirige vers le nord, à Vancouver; cette ville canadienne passionnante regorge de paysages naturels et de plaisirs urbains; la consultante Eppa Lea lui sert de guide alors que le duo a 48 heures pour explorer la ville de fond en comble.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14496534_e_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04384084.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827103000 -0400" stop="20220827110000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">48h pour un trip</title>
+		<sub-title lang="en">Le Cap</sub-title>
+		<desc lang="en">Greer met le cap sur la ville du Cap, en Afrique du Sud; Janice, son guide, lui fait découvrir le meilleur de la région: des plages aux vignobles, en passant par les rhinocéros et les girafes sauvages.</desc>
+		<date>20220823</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14616782_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384084&amp;tmsId=EP043840840004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP04384084.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown start="20220823000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827110000 -0400" stop="20220827120000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Voyager plus vert</title>
+		<sub-title lang="en">L&apos;île de Ko Kut, en Thaïlande</sub-title>
+		<desc lang="en">Richard se rend sur l&apos;île la moins peuplée de Thaïlande, Ko Kut; l&apos;entreprise Soneva y gère un complexe hôtelier de luxe intelligent où traditions et intimité se marient; il découvre la politique de transformation des déchets en richesse de Soneva.</desc>
+		<date>20220822</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18215257_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384088&amp;tmsId=EP043840880002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384088.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown start="20220822000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827120000 -0400" stop="20220827130000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Alone: les survivants</title>
+		<sub-title lang="en">Des loups et des hommes</sub-title>
+		<desc lang="en">Alors que les loups et les ours continuent de causer des problèmes, trouver de l&apos;eau potable devient rapidement une difficulté critique pour les hommes.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11768163_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384112&amp;tmsId=EP043841120002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384112.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827130000 -0400" stop="20220827140000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Des trains pas comme les autres</title>
+		<sub-title lang="en">Angleterre</sub-title>
+		<desc lang="en">C&apos;est à Londres, à bord d&apos;un &quot;black cab&quot;, que Philippe Gougler débute son voyage en Angleterre; le globe-trotter découvre dans la capitale des abris à taxis très originaux avant de se rendre dans le nord du pays à bord du luxueux Nothern Bell.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17238715_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01702219&amp;tmsId=EP017022190062</url>
+		<episode-num system="common">S09E06</episode-num>
+		<episode-num system="dd_progid">EP01702219.0062</episode-num>
+		<episode-num system="xmltv_ns">8.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827140000 -0400" stop="20220827150000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Les vacances de Monsieur Bruno</title>
+		<sub-title lang="en">Cinéma, cinéma</sub-title>
+		<desc lang="en">À Cotonou, au Bénin, Monsieur Bruno n&apos;a qu&apos;une idée en tête: devenir une vedette de cinéma; par chance, il rencontre un réalisateur qui lui offre un rôle dans son prochain film d&apos;action.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11003829_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01980316&amp;tmsId=EP019803160032</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP01980316.0032</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827150000 -0400" stop="20220827170000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Bienvenue dans la jungle</title>
+		<sub-title lang="en">Movie (2013)</sub-title>
+		<desc lang="en">Ancien du corps des Marines, Storm Rothchild est chargé de créer et d&apos;insuffler un esprit d&apos;équipe à des employés d&apos;une entreprise de design partis en séminaires sur une île tropicale.</desc>
+		<date>2013</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10454231_p_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00552875&amp;tmsId=MV005528750000</url>
+		<episode-num system="dd_progid">MV00552875.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827170000 -0400" stop="20220827180000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">VR sans pareil</title>
+		<sub-title lang="en">Winnebago, Astrovan et Willie Nelson</sub-title>
+		<desc lang="en">Winnebago Industries, la référence en VR, entreprend son projet le plus luxueux à ce jour; puis, on découvre l&apos;unique Astrovan de la NASA et on monte à bord de l&apos;autocar que la légende de la musique Willie Nelson appelle sa maison sur roues.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11037174_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04272537&amp;tmsId=EP042725370002</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP04272537.0002</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827180000 -0400" stop="20220827190000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Chiller avec Félipé au Québec</title>
+		<sub-title lang="en">Les Cantons-de-L&apos;Est (Magog)</sub-title>
+		<desc lang="en">À North Hatley, notre curieux charcutier s&apos;invite dans les cuisines du prestigieux restaurant Le Hatley du Manoir Hovey; le chef, Francis Wolf, lui prépare une poutine hors du commun avant de l&apos;emmener chez certains de ses producteurs chouchous.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16732969_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03190987&amp;tmsId=EP031909870002</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03190987.0002</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827190000 -0400" stop="20220827200000 -0400" channel="ICA| EVASION HD.66001.zap2it.com">
+		<title lang="en">Benoit chez les Belges</title>
+		<sub-title lang="en">Bruxelles, ses différents quartiers, et la découve</sub-title>
+		<desc lang="en">Benoit se rend à l&apos;Atomium, le symbole international de Bruxelles et de la Belgique; il se balade ensuite en vélo à travers trois quartiers distincts et déguste sa première frite; il prend la route vers Namur où il visite parfumerie et vignoble.</desc>
+		<date>20220824</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22589838_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04384105&amp;tmsId=EP043841050002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04384105.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown start="20220824000000" />
+		<subtitles type="teletext" />
 	</programme>
 </tv>
