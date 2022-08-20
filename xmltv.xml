@@ -32,6 +32,12 @@
 		<display-name>CA| TVA SPORTS 2 HD</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/90206/s90206_h3_aa.png" />
 	</channel>
+	<channel id="ICA| LCN HD.67231.zap2it.com">
+		<display-name>LCNHD</display-name>
+		<display-name>CA| LCN HD LCNHD</display-name>
+		<display-name>CA| LCN HD</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/67231/s67231_h3_aa.png" />
+	</channel>
 	<programme start="20220820143000 -0400" stop="20220820153000 -0400" channel="ICA| RDS HD.58592.zap2it.com">
 		<title lang="en">UFC le décompte</title>
 		<sub-title lang="en">UFC 278: Usman c. Edwards 2</sub-title>
@@ -14010,6 +14016,2746 @@
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168679&amp;tmsId=EP001686790275</url>
 		<episode-num system="dd_progid">EP00168679.0275</episode-num>
 		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820150000 -0400" stop="20220820153000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820153000 -0400" stop="20220820160000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820160000 -0400" stop="20220820163000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820163000 -0400" stop="20220820170000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820170000 -0400" stop="20220820173000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820173000 -0400" stop="20220820175900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820175900 -0400" stop="20220820183000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220820183000 -0400" stop="20220820190000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220820190000 -0400" stop="20220820200000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Denis Lévesque</title>
+		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
+		<episode-num system="dd_progid">SH00862695.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220820200000 -0400" stop="20220820203000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820203000 -0400" stop="20220820210000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820210000 -0400" stop="20220820213000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820213000 -0400" stop="20220820220000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820220000 -0400" stop="20220820223000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820223000 -0400" stop="20220820230000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820230000 -0400" stop="20220820233000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220820233000 -0400" stop="20220821000000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821000000 -0400" stop="20220821003000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821003000 -0400" stop="20220821010000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821010000 -0400" stop="20220821013000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821013000 -0400" stop="20220821020000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821020000 -0400" stop="20220821023000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821023000 -0400" stop="20220821030000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821030000 -0400" stop="20220821033000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821033000 -0400" stop="20220821040000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821040000 -0400" stop="20220821043000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821043000 -0400" stop="20220821050000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821050000 -0400" stop="20220821053000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821053000 -0400" stop="20220821060000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821060000 -0400" stop="20220821100000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin week-end</title>
+		<desc lang="en">Dans une ambiance décontractée, on reste au fait de l&apos;actualité et de tout ce qui se passe sur les scènes sportives et culturelles en compagnie de Frédérique Guay.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">240</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10178759_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01789342&amp;tmsId=SH017893420000</url>
+		<episode-num system="dd_progid">SH01789342.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821100000 -0400" stop="20220821103000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821103000 -0400" stop="20220821110000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821110000 -0400" stop="20220821113000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821113000 -0400" stop="20220821120000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821120000 -0400" stop="20220821123000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821123000 -0400" stop="20220821130000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821130000 -0400" stop="20220821140000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Denis Lévesque</title>
+		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
+		<episode-num system="dd_progid">SH00862695.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821140000 -0400" stop="20220821143000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821143000 -0400" stop="20220821150000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821150000 -0400" stop="20220821153000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821153000 -0400" stop="20220821160000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821160000 -0400" stop="20220821163000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821163000 -0400" stop="20220821170000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821170000 -0400" stop="20220821173000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821173000 -0400" stop="20220821175900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821175900 -0400" stop="20220821183000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821183000 -0400" stop="20220821190000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821190000 -0400" stop="20220821200000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Denis Lévesque</title>
+		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
+		<episode-num system="dd_progid">SH00862695.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220821200000 -0400" stop="20220821203000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821203000 -0400" stop="20220821210000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821210000 -0400" stop="20220821213000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821213000 -0400" stop="20220821220000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821220000 -0400" stop="20220821223000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821223000 -0400" stop="20220821230000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821230000 -0400" stop="20220821233000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220821233000 -0400" stop="20220822000000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822000000 -0400" stop="20220822003000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822003000 -0400" stop="20220822010000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822010000 -0400" stop="20220822013000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822013000 -0400" stop="20220822020000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822020000 -0400" stop="20220822023000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822023000 -0400" stop="20220822030000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822030000 -0400" stop="20220822033000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822033000 -0400" stop="20220822040000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822040000 -0400" stop="20220822043000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822043000 -0400" stop="20220822050000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822050000 -0400" stop="20220822053000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546363_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635486&amp;tmsId=SH016354860000</url>
+		<episode-num system="dd_progid">SH01635486.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822053000 -0400" stop="20220822060000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822060000 -0400" stop="20220822100000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">240</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822100000 -0400" stop="20220822115800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822115800 -0400" stop="20220822140000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Un regard en profondeur sur l&apos;actualité. Nouvelles, sports et météo.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">122</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490084_b_v13_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621162&amp;tmsId=SH016211620000</url>
+		<episode-num system="dd_progid">SH01621162.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822140000 -0400" stop="20220822155800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">100 pour cent nouvelles</title>
+		<desc lang="en">En semaine, Julie Marcoux et Paul Larocque nous informent des événements et suivent à la minute près les plus récentes nouvelles régionales, nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9477322_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01617542&amp;tmsId=SH016175420000</url>
+		<episode-num system="dd_progid">SH01617542.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822155800 -0400" stop="20220822165800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">La joute</title>
+		<desc lang="en">On analyse et l&apos;on échange sur les enjeux politiques qui préoccupent les Québécois sur les scènes provinciale, fédérale, américaine et municipale.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13163253_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02488336&amp;tmsId=SH024883360000</url>
+		<episode-num system="dd_progid">SH02488336.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220822165800 -0400" stop="20220822175800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822175800 -0400" stop="20220822182900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822182900 -0400" stop="20220822190000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822190000 -0400" stop="20220822200000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822200000 -0400" stop="20220822210000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220822210000 -0400" stop="20220822213000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822213000 -0400" stop="20220822215900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822215900 -0400" stop="20220822223500 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">36</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822223500 -0400" stop="20220822233000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">55</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220822233000 -0400" stop="20220823000000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823000000 -0400" stop="20220823003000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823003000 -0400" stop="20220823010000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823010000 -0400" stop="20220823013000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823013000 -0400" stop="20220823020000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823020000 -0400" stop="20220823023000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823023000 -0400" stop="20220823030000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823030000 -0400" stop="20220823033000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823033000 -0400" stop="20220823040000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823040000 -0400" stop="20220823043000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823043000 -0400" stop="20220823050000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823050000 -0400" stop="20220823053000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823053000 -0400" stop="20220823060000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823060000 -0400" stop="20220823100000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">240</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823100000 -0400" stop="20220823115800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823115800 -0400" stop="20220823140000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Un regard en profondeur sur l&apos;actualité. Nouvelles, sports et météo.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">122</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490084_b_v13_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621162&amp;tmsId=SH016211620000</url>
+		<episode-num system="dd_progid">SH01621162.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823140000 -0400" stop="20220823155800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">100 pour cent nouvelles</title>
+		<desc lang="en">En semaine, Julie Marcoux et Paul Larocque nous informent des événements et suivent à la minute près les plus récentes nouvelles régionales, nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9477322_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01617542&amp;tmsId=SH016175420000</url>
+		<episode-num system="dd_progid">SH01617542.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823155800 -0400" stop="20220823165800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">La joute</title>
+		<desc lang="en">On analyse et l&apos;on échange sur les enjeux politiques qui préoccupent les Québécois sur les scènes provinciale, fédérale, américaine et municipale.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13163253_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02488336&amp;tmsId=SH024883360000</url>
+		<episode-num system="dd_progid">SH02488336.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220823165800 -0400" stop="20220823175800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823175800 -0400" stop="20220823182900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823182900 -0400" stop="20220823190000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823190000 -0400" stop="20220823200000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823200000 -0400" stop="20220823210000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220823210000 -0400" stop="20220823213000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823213000 -0400" stop="20220823215900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823215900 -0400" stop="20220823223500 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">36</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823223500 -0400" stop="20220823233000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">55</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220823233000 -0400" stop="20220824000000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824000000 -0400" stop="20220824003000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824003000 -0400" stop="20220824010000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824010000 -0400" stop="20220824013000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824013000 -0400" stop="20220824020000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824020000 -0400" stop="20220824023000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824023000 -0400" stop="20220824030000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824030000 -0400" stop="20220824033000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824033000 -0400" stop="20220824040000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824040000 -0400" stop="20220824043000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824043000 -0400" stop="20220824050000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824050000 -0400" stop="20220824053000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824053000 -0400" stop="20220824060000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824060000 -0400" stop="20220824100000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">240</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824100000 -0400" stop="20220824115800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220824115800 -0400" stop="20220824140000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Un regard en profondeur sur l&apos;actualité. Nouvelles, sports et météo.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">122</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490084_b_v13_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621162&amp;tmsId=SH016211620000</url>
+		<episode-num system="dd_progid">SH01621162.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824140000 -0400" stop="20220824155800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">100 pour cent nouvelles</title>
+		<desc lang="en">En semaine, Julie Marcoux et Paul Larocque nous informent des événements et suivent à la minute près les plus récentes nouvelles régionales, nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9477322_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01617542&amp;tmsId=SH016175420000</url>
+		<episode-num system="dd_progid">SH01617542.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824155800 -0400" stop="20220824165800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">La joute</title>
+		<desc lang="en">On analyse et l&apos;on échange sur les enjeux politiques qui préoccupent les Québécois sur les scènes provinciale, fédérale, américaine et municipale.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13163253_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02488336&amp;tmsId=SH024883360000</url>
+		<episode-num system="dd_progid">SH02488336.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220824165800 -0400" stop="20220824175800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824175800 -0400" stop="20220824182900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824182900 -0400" stop="20220824190000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824190000 -0400" stop="20220824200000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824200000 -0400" stop="20220824210000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220824210000 -0400" stop="20220824213000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824213000 -0400" stop="20220824215900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824215900 -0400" stop="20220824223500 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">36</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824223500 -0400" stop="20220824233000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">55</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220824233000 -0400" stop="20220825000000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825000000 -0400" stop="20220825003000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825003000 -0400" stop="20220825010000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825010000 -0400" stop="20220825013000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825013000 -0400" stop="20220825020000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825020000 -0400" stop="20220825023000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825023000 -0400" stop="20220825030000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825030000 -0400" stop="20220825033000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825033000 -0400" stop="20220825040000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825040000 -0400" stop="20220825043000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825043000 -0400" stop="20220825050000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825050000 -0400" stop="20220825053000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825053000 -0400" stop="20220825060000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220825060000 -0400" stop="20220825100000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">240</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825100000 -0400" stop="20220825115800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220825115800 -0400" stop="20220825140000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Un regard en profondeur sur l&apos;actualité. Nouvelles, sports et météo.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">122</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490084_b_v13_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621162&amp;tmsId=SH016211620000</url>
+		<episode-num system="dd_progid">SH01621162.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825140000 -0400" stop="20220825155800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">100 pour cent nouvelles</title>
+		<desc lang="en">En semaine, Julie Marcoux et Paul Larocque nous informent des événements et suivent à la minute près les plus récentes nouvelles régionales, nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9477322_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01617542&amp;tmsId=SH016175420000</url>
+		<episode-num system="dd_progid">SH01617542.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825155800 -0400" stop="20220825165800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">La joute</title>
+		<desc lang="en">On analyse et l&apos;on échange sur les enjeux politiques qui préoccupent les Québécois sur les scènes provinciale, fédérale, américaine et municipale.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13163253_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02488336&amp;tmsId=SH024883360000</url>
+		<episode-num system="dd_progid">SH02488336.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220825165800 -0400" stop="20220825175800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825175800 -0400" stop="20220825182900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825182900 -0400" stop="20220825190000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825190000 -0400" stop="20220825200000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825200000 -0400" stop="20220825210000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220825210000 -0400" stop="20220825213000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825213000 -0400" stop="20220825215900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825215900 -0400" stop="20220825223500 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">36</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825223500 -0400" stop="20220825233000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">55</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220825233000 -0400" stop="20220826000000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826000000 -0400" stop="20220826003000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826003000 -0400" stop="20220826010000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826010000 -0400" stop="20220826013000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826013000 -0400" stop="20220826020000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826020000 -0400" stop="20220826023000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826023000 -0400" stop="20220826030000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826030000 -0400" stop="20220826033000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826033000 -0400" stop="20220826040000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826040000 -0400" stop="20220826043000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826043000 -0400" stop="20220826050000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826050000 -0400" stop="20220826053000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826053000 -0400" stop="20220826060000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220826060000 -0400" stop="20220826100000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin</title>
+		<desc lang="en">Rendez-vous matinal taillé sur mesure pour tous ceux qui ne veulent rien manquer de l&apos;actualité.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">240</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006847_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01981226&amp;tmsId=SH019812260000</url>
+		<episode-num system="dd_progid">SH01981226.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826100000 -0400" stop="20220826115800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220826115800 -0400" stop="20220826140000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Un regard en profondeur sur l&apos;actualité. Nouvelles, sports et météo.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">122</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490084_b_v13_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621162&amp;tmsId=SH016211620000</url>
+		<episode-num system="dd_progid">SH01621162.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826140000 -0400" stop="20220826155800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">100 pour cent nouvelles</title>
+		<desc lang="en">En semaine, Julie Marcoux et Paul Larocque nous informent des événements et suivent à la minute près les plus récentes nouvelles régionales, nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">118</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9477322_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01617542&amp;tmsId=SH016175420000</url>
+		<episode-num system="dd_progid">SH01617542.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826155800 -0400" stop="20220826165800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">La joute</title>
+		<desc lang="en">On analyse et l&apos;on échange sur les enjeux politiques qui préoccupent les Québécois sur les scènes provinciale, fédérale, américaine et municipale.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13163253_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02488336&amp;tmsId=SH024883360000</url>
+		<episode-num system="dd_progid">SH02488336.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220826165800 -0400" stop="20220826175800 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826175800 -0400" stop="20220826182900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826182900 -0400" stop="20220826190000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826190000 -0400" stop="20220826200000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826200000 -0400" stop="20220826210000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Mario Dumont</title>
+		<desc lang="en">Pour approfondir l&apos;actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc.; pour des entrevues avec les acteurs de l&apos;actualité et les nouvelles de la matinée.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9426305_b_v13_pu.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01605928&amp;tmsId=SH016059280000</url>
+		<episode-num system="dd_progid">SH01605928.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220826210000 -0400" stop="20220826213000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826213000 -0400" stop="20220826215900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826215900 -0400" stop="20220826223500 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">36</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826223500 -0400" stop="20220826233000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le bilan</title>
+		<desc lang="en">Paul Larocque avec ses invités fait le bilan de la journée; entrevues, analyses, opinions et le billet de Régine Laurent.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">55</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20714341_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04029982&amp;tmsId=SH040299820000</url>
+		<episode-num system="dd_progid">SH04029982.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220826233000 -0400" stop="20220827000000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pour faire le tour des nouvelles et connaître les sujets qui font les manchettes à Montréal et partout au Québec; pour écouter les reportages de nos journalistes dans toutes les régions, les entrevues sur les sujets les plus chauds.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9490107_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01621171&amp;tmsId=SH016211710000</url>
+		<episode-num system="dd_progid">SH01621171.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827000000 -0400" stop="20220827003000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827003000 -0400" stop="20220827010000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827010000 -0400" stop="20220827013000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827013000 -0400" stop="20220827020000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827020000 -0400" stop="20220827023000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827023000 -0400" stop="20220827030000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827030000 -0400" stop="20220827033000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827033000 -0400" stop="20220827040000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827040000 -0400" stop="20220827043000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827043000 -0400" stop="20220827050000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827050000 -0400" stop="20220827053000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827053000 -0400" stop="20220827060000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sj.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827060000 -0400" stop="20220827100000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">Le Québec matin week-end</title>
+		<desc lang="en">Dans une ambiance décontractée, on reste au fait de l&apos;actualité et de tout ce qui se passe sur les scènes sportives et culturelles en compagnie de Frédérique Guay.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">240</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10178759_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01789342&amp;tmsId=SH017893420000</url>
+		<episode-num system="dd_progid">SH01789342.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827100000 -0400" stop="20220827103000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827103000 -0400" stop="20220827110000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827110000 -0400" stop="20220827113000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827113000 -0400" stop="20220827120000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827120000 -0400" stop="20220827123000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220827123000 -0400" stop="20220827130000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220827130000 -0400" stop="20220827140000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">La face cachée des énergies vertes</title>
+		<desc lang="en">Face au changement climatique, de nombreux pays se sont engagés dans la transition énergétique; depuis la COP21 qui a fixé en 2015 d&apos;exigeants objectifs de réduction des gaz à effet de serre, les énergies vertes ont le vent en poupe.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19073357_b_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03833843&amp;tmsId=SH038338430000</url>
+		<episode-num system="dd_progid">SH03833843.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827140000 -0400" stop="20220827143000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827143000 -0400" stop="20220827150000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827150000 -0400" stop="20220827153000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827153000 -0400" stop="20220827160000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827160000 -0400" stop="20220827163000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827163000 -0400" stop="20220827170000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827170000 -0400" stop="20220827173000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827173000 -0400" stop="20220827175900 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220827175900 -0400" stop="20220827183000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220827183000 -0400" stop="20220827190000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220827190000 -0400" stop="20220827200000 -0400" channel="ICA| LCN HD.67231.zap2it.com">
+		<title lang="en">La face cachée des énergies vertes</title>
+		<desc lang="en">Face au changement climatique, de nombreux pays se sont engagés dans la transition énergétique; depuis la COP21 qui a fixé en 2015 d&apos;exigeants objectifs de réduction des gaz à effet de serre, les énergies vertes ont le vent en poupe.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19073357_b_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03833843&amp;tmsId=SH038338430000</url>
+		<episode-num system="dd_progid">SH03833843.0000</episode-num>
+		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
 </tv>
