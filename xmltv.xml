@@ -26,95 +26,6 @@
 		<display-name>CIVMDT</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/63040/s15725_h3_aa.png" />
 	</channel>
-	<programme start="20230402075800 -0400" stop="20230402080700 -0400" channel="IRadio-Canada.72981.zap2it.com">
-		<title lang="en">L&apos;agent Jean</title>
-		<sub-title lang="en">La possession</sub-title>
-		<desc lang="en">La Terre A est menacée par de super vilains aux idées et aux ambitions plus démoniaques les unes que les autres. Heureusement pour ses habitants, l&apos;Agence s&apos;occupe de tout à leur insu.</desc>
-		<category lang="en">Family</category>
-		<category lang="en">Series</category>
-		<length units="minutes">9</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p19397255_e_v10_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02988539&amp;tmsId=EP029885390061</url>
-		<episode-num system="common">S03E09</episode-num>
-		<episode-num system="dd_progid">EP02988539.0061</episode-num>
-		<episode-num system="xmltv_ns">2.8.</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20230402080700 -0400" stop="20230402081400 -0400" channel="IRadio-Canada.72981.zap2it.com">
-		<title lang="en">L&apos;agent Jean</title>
-		<sub-title lang="en">Qui a kidnappé Farine?</sub-title>
-		<desc lang="en">La Terre A est menacée par de super vilains aux idées et aux ambitions plus démoniaques les unes que les autres. Heureusement pour ses habitants, l&apos;Agence s&apos;occupe de tout à leur insu.</desc>
-		<category lang="en">Family</category>
-		<category lang="en">Series</category>
-		<length units="minutes">7</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p19439804_e_v13_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02988539&amp;tmsId=EP029885390062</url>
-		<episode-num system="common">S03E12</episode-num>
-		<episode-num system="dd_progid">EP02988539.0062</episode-num>
-		<episode-num system="xmltv_ns">2.11.</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20230402081400 -0400" stop="20230402081500 -0400" channel="IRadio-Canada.72981.zap2it.com">
-		<title lang="en">Léon</title>
-		<sub-title lang="en">La conversation</sub-title>
-		<desc lang="en">Léon entretient une conversation interminable au téléphone, au grand malheur du Chat.</desc>
-		<category lang="en">Family</category>
-		<category lang="en">Series</category>
-		<length units="minutes">1</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p21392416_e_v9_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02242367&amp;tmsId=EP022423670174</url>
-		<episode-num system="dd_progid">EP02242367.0174</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20230402081500 -0400" stop="20230402082700 -0400" channel="IRadio-Canada.72981.zap2it.com">
-		<title lang="en">Le village enchanté de Pinocchio</title>
-		<sub-title lang="en">Le lutin le plus cool du monde</sub-title>
-		<desc lang="en">En tentant de retrouver son cartable perdu en forêt, Folet entraîne Pinocchio et Betulla jusqu&apos;à une étrange ermite qui vit dans une clairière dissimulée derrière des ronces magiques.</desc>
-		<date>20230402</date>
-		<category lang="en">Family</category>
-		<category lang="en">Series</category>
-		<length units="minutes">12</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p21358390_e_v9_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04445992&amp;tmsId=EP044459920032</url>
-		<episode-num system="common">S01E29</episode-num>
-		<episode-num system="dd_progid">EP04445992.0032</episode-num>
-		<episode-num system="xmltv_ns">0.28.</episode-num>
-		<new />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20230402082700 -0400" stop="20230402083000 -0400" channel="IRadio-Canada.72981.zap2it.com">
-		<title lang="en">Angry Birds Toons</title>
-		<sub-title lang="en">Lentement, mais en éternuant</sub-title>
-		<desc lang="en">Un porcelet est choisi pour porter la litière du Roi, mais il se demande s&apos;il sera capable de se retenir d&apos;éternuer assez longtemps pour accomplir son devoir.</desc>
-		<category lang="en">Family</category>
-		<category lang="en">Series</category>
-		<length units="minutes">3</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p10769776_e_v9_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02100601&amp;tmsId=EP021006010034</url>
-		<episode-num system="common">S01E19</episode-num>
-		<episode-num system="dd_progid">EP02100601.0034</episode-num>
-		<episode-num system="xmltv_ns">0.18.</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
 	<programme start="20230402083000 -0400" stop="20230402085300 -0400" channel="IRadio-Canada.72981.zap2it.com">
 		<title lang="en">Les Croods: (pré)histoires de famille</title>
 		<sub-title lang="en">Enfin seuls ... ou presque</sub-title>
@@ -6578,23 +6489,6 @@
 		<previously-shown start="20230405000000" />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20230402080000 -0400" stop="20230402083000 -0400" channel="INoovo.72886.zap2it.com">
-		<title lang="en">Pompiers: la relève</title>
-		<sub-title lang="en">Sauvetage en hauteur</sub-title>
-		<desc lang="en">Les élèves de l&apos;IPIQ font du sauvetage en hauteur et de la désincarcération de victimes d&apos;accidents de la route.</desc>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p16881155_e_v10_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03179322&amp;tmsId=EP031793220009</url>
-		<episode-num system="common">S01E09</episode-num>
-		<episode-num system="dd_progid">EP03179322.0009</episode-num>
-		<episode-num system="xmltv_ns">0.8.</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
 	<programme start="20230402083000 -0400" stop="20230402090000 -0400" channel="INoovo.72886.zap2it.com">
 		<title lang="en">Les génies de la vitesse</title>
 		<sub-title lang="en">Audi TT RS vs Mercedes SLS</sub-title>
@@ -12685,23 +12579,6 @@
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00154411&amp;tmsId=MV001544110000</url>
 		<episode-num system="dd_progid">MV00154411.0000</episode-num>
 		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20230402080000 -0400" stop="20230402082800 -0400" channel="ITele-Quebec.63040.zap2it.com">
-		<title lang="en">Passe-Partout</title>
-		<sub-title lang="en">Le crapaud de Cannelle</sub-title>
-		<desc lang="en">Pour un bal costumé, les fantaisistes cherchent des déguisements inspirés par le jeu des contraires; Mélodie propose de jouer avec ses figurines: une sirène, un griffon et un crapaud; Cannelle hérite du crapaud.</desc>
-		<category lang="en">Family</category>
-		<category lang="en">Series</category>
-		<length units="minutes">28</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p16546726_b_v13_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03156448&amp;tmsId=EP031564480182</url>
-		<episode-num system="common">S05E09</episode-num>
-		<episode-num system="dd_progid">EP03156448.0182</episode-num>
-		<episode-num system="xmltv_ns">4.8.</episode-num>
-		<previously-shown />
 		<rating>
 			<value>G</value>
 		</rating>
