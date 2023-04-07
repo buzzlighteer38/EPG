@@ -32,20 +32,6 @@
 		<display-name>TELEHD</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/72599/s72599_h3_aa.png" />
 	</channel>
-	<programme start="20230406193000 -0400" stop="20230406200000 -0400" channel="IRadio-Canada.72981.zap2it.com">
-		<title lang="en">Infoman</title>
-		<desc lang="en">Avec humour, Jean-René Dufort rend compte des événements chauds de l&apos;actualité.</desc>
-		<date>20230406</date>
-		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p248201_b_v9_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00400805&amp;tmsId=EP004008050310</url>
-		<episode-num system="common">S23E26</episode-num>
-		<episode-num system="dd_progid">EP00400805.0310</episode-num>
-		<episode-num system="xmltv_ns">22.25.</episode-num>
-		<new />
-		<subtitles type="teletext" />
-	</programme>
 	<programme start="20230406200000 -0400" stop="20230406210000 -0400" channel="IRadio-Canada.72981.zap2it.com">
 		<title lang="en">Zénith</title>
 		<desc lang="en">Demi-finale de la génération des Boomers; avec Martin Fontaine, Kim Richardson, Johanne Blouin et Patsy Gallant.</desc>
@@ -108,7 +94,6 @@
 	<programme start="20230406233400 -0400" stop="20230407010400 -0400" channel="IRadio-Canada.72981.zap2it.com">
 		<title lang="en">On va se le dire</title>
 		<desc lang="en">Sébastien Diaz reçoit des personnalités de tous les horizons qui discutent des sujets qui alimentent l&apos;actualité et qui ont un impact sur notre quotidien. Les invités sont choisis en fonction des sujets abordés.</desc>
-		<date>20230406</date>
 		<category lang="en">Talk</category>
 		<category lang="en">Series</category>
 		<length units="minutes">90</length>
@@ -117,7 +102,7 @@
 		<episode-num system="common">S04E108</episode-num>
 		<episode-num system="dd_progid">EP03300692.0461</episode-num>
 		<episode-num system="xmltv_ns">3.107.</episode-num>
-		<previously-shown start="20230406000000" />
+		<previously-shown />
 	</programme>
 	<programme start="20230407010400 -0400" stop="20230407020400 -0400" channel="IRadio-Canada.72981.zap2it.com">
 		<title lang="en">Victoria</title>
@@ -597,7 +582,6 @@
 	<programme start="20230407093000 -0400" stop="20230407110000 -0400" channel="IRadio-Canada.72981.zap2it.com">
 		<title lang="en">On va se le dire</title>
 		<desc lang="en">Sébastien Diaz reçoit des personnalités de tous les horizons qui discutent des sujets qui alimentent l&apos;actualité et qui ont un impact sur notre quotidien. Les invités sont choisis en fonction des sujets abordés.</desc>
-		<date>20230406</date>
 		<category lang="en">Talk</category>
 		<category lang="en">Series</category>
 		<length units="minutes">90</length>
@@ -606,7 +590,7 @@
 		<episode-num system="common">S04E108</episode-num>
 		<episode-num system="dd_progid">EP03300692.0461</episode-num>
 		<episode-num system="xmltv_ns">3.107.</episode-num>
-		<previously-shown start="20230406000000" />
+		<previously-shown />
 	</programme>
 	<programme start="20230407110000 -0400" stop="20230407113000 -0400" channel="IRadio-Canada.72981.zap2it.com">
 		<title lang="en">Ricardo</title>
@@ -651,7 +635,6 @@
 	<programme start="20230407123000 -0400" stop="20230407130000 -0400" channel="IRadio-Canada.72981.zap2it.com">
 		<title lang="en">Silence, on joue!</title>
 		<desc lang="en">Avec Debbie Lynch-White, Marc Fournier, Alexandre Goyette et Marie-Lyne Joncas.</desc>
-		<date>20230406</date>
 		<category lang="en">Series</category>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p12065319_b_v9_aa.jpg" />
@@ -659,7 +642,7 @@
 		<episode-num system="common">S08E124</episode-num>
 		<episode-num system="dd_progid">EP02253186.1181</episode-num>
 		<episode-num system="xmltv_ns">7.123.</episode-num>
-		<previously-shown start="20230406000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
 	<programme start="20230407130000 -0400" stop="20230407140000 -0400" channel="IRadio-Canada.72981.zap2it.com">
@@ -2668,7 +2651,6 @@
 	<programme start="20230409225500 -0400" stop="20230409232500 -0400" channel="IRadio-Canada.72981.zap2it.com">
 		<title lang="en">Infoman</title>
 		<desc lang="en">Avec humour, Jean-René Dufort rend compte des événements chauds de l&apos;actualité.</desc>
-		<date>20230406</date>
 		<category lang="en">Series</category>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p248201_b_v9_ac.jpg" />
@@ -2676,7 +2658,7 @@
 		<episode-num system="common">S23E26</episode-num>
 		<episode-num system="dd_progid">EP00400805.0310</episode-num>
 		<episode-num system="xmltv_ns">22.25.</episode-num>
-		<previously-shown start="20230406000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
 	<programme start="20230409232500 -0400" stop="20230410012600 -0400" channel="IRadio-Canada.72981.zap2it.com">
@@ -5996,22 +5978,103 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20230406193000 -0400" stop="20230406200000 -0400" channel="INoovo.72886.zap2it.com">
-		<title lang="en">Combien tu m&apos;aimes?</title>
-		<sub-title lang="en">Un peu, beaucoup, passionnément: jeudi</sub-title>
-		<desc lang="en">Martin surprend les couples avec le dévoilement de leur chimie sexuelle; les résultats et surtout les réactions de certains causent des remous dans la maison.</desc>
-		<date>20230406</date>
+	<programme start="20230413200000 -0400" stop="20230413210000 -0400" channel="IRadio-Canada.72981.zap2it.com">
+		<title lang="en">Zénith</title>
+		<desc lang="en">Grande finale.</desc>
+		<date>20230414</date>
 		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p24335648_b_v10_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04682769&amp;tmsId=EP046827690002</url>
-		<episode-num system="common">S01E04</episode-num>
-		<episode-num system="dd_progid">EP04682769.0002</episode-num>
-		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23722464_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04592499&amp;tmsId=EP045924990013</url>
+		<episode-num system="common">S01E13</episode-num>
+		<episode-num system="dd_progid">EP04592499.0013</episode-num>
+		<episode-num system="xmltv_ns">0.12.</episode-num>
+		<last-chance />
 		<new />
 		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413210000 -0400" stop="20230413220000 -0400" channel="IRadio-Canada.72981.zap2it.com">
+		<title lang="en">Bonsoir bonsoir!</title>
+		<desc lang="en">Dans un décor chaleureux et convivial, Jean-Philippe Wauthier reçoit chaque soir trois invités; qu&apos;ils soient au féminin ou au masculin, queer, non-genré, actrice, sportif, mairesse, Jean-Philippe est curieux et veut comprendre ce qui les anime.</desc>
+		<date>20230414</date>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16705062_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03185418&amp;tmsId=EP031854180361</url>
+		<episode-num system="common">S06E04</episode-num>
+		<episode-num system="dd_progid">EP03185418.0361</episode-num>
+		<episode-num system="xmltv_ns">5.3.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413220000 -0400" stop="20230413230000 -0400" channel="IRadio-Canada.72981.zap2it.com">
+		<title lang="en">Le téléjournal</title>
+		<desc lang="en">Magazine d&apos;information quotidien sur les enjeux qui nous touchent de près ainsi que les nouvelles qui dominent l&apos;actualité mondiale. Analyses, entrevues, vérification des faits et reportages sur les sujets les plus importants.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13344781_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02523848&amp;tmsId=SH025238480000</url>
+		<episode-num system="dd_progid">SH02523848.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413230000 -0400" stop="20230413230500 -0400" channel="IRadio-Canada.72981.zap2it.com">
+		<title lang="en">Sports express</title>
+		<desc lang="en">Une capsule sur le sport.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">5</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14482747_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02764435&amp;tmsId=SH027644350000</url>
+		<episode-num system="dd_progid">SH02764435.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413230500 -0400" stop="20230413233400 -0400" channel="IRadio-Canada.72981.zap2it.com">
+		<title lang="en">Le téléjournal Saguenay-Lac-St-Jean</title>
+		<desc lang="en">Les nouvelles du Saguenay-Lac-Saint-Jean.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p256572_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01089427&amp;tmsId=SH010894270000</url>
+		<episode-num system="dd_progid">SH01089427.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413233400 -0400" stop="20230414010400 -0400" channel="IRadio-Canada.72981.zap2it.com">
+		<title lang="en">On va se le dire</title>
+		<desc lang="en">Sébastien Diaz reçoit des personnalités de tous les horizons qui discutent des sujets qui alimentent l&apos;actualité et qui ont un impact sur notre quotidien. Les invités sont choisis en fonction des sujets abordés.</desc>
+		<date>20230413</date>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17308589_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03300692&amp;tmsId=EP033006920465</url>
+		<episode-num system="common">S04E112</episode-num>
+		<episode-num system="dd_progid">EP03300692.0465</episode-num>
+		<episode-num system="xmltv_ns">3.111.</episode-num>
+		<previously-shown start="20230413000000" />
+	</programme>
+	<programme start="20230414010400 -0400" stop="20230414020300 -0400" channel="IRadio-Canada.72981.zap2it.com">
+		<title lang="en">Victoria</title>
+		<sub-title lang="en">Et in Arcadia</sub-title>
+		<desc lang="en">Albert aime passer du temps en famille à Osborne House, loin de Londres, mais Victoria veut à tout prix retourner au palais et aux affaires politiques.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16229590_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02805128&amp;tmsId=EP028051280022</url>
+		<episode-num system="common">S03E03</episode-num>
+		<episode-num system="dd_progid">EP02805128.0022</episode-num>
+		<episode-num system="xmltv_ns">2.2.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
 		<rating>
-			<value>8+</value>
+			<value>G</value>
 		</rating>
 	</programme>
 	<programme start="20230406200000 -0400" stop="20230406210000 -0400" channel="INoovo.72886.zap2it.com">
@@ -6081,7 +6144,6 @@
 		<title lang="en">Survivor Québec</title>
 		<sub-title lang="en">Jeudi: la quotidienne, semaine 1</sub-title>
 		<desc lang="en">Pendant 44 jours, 20 joueurs isolés sur une île exotique des Philippines seront confrontés à des épreuves mentales et physiques extrêmes.</desc>
-		<date>20230406</date>
 		<category lang="en">Series</category>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p24335588_b_v13_ab.jpg" />
@@ -6089,7 +6151,7 @@
 		<episode-num system="common">S01E06</episode-num>
 		<episode-num system="dd_progid">EP04682758.0006</episode-num>
 		<episode-num system="xmltv_ns">0.5.</episode-num>
-		<previously-shown start="20230406000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>8+</value>
@@ -6099,7 +6161,6 @@
 		<title lang="en">Le fabuleux printemps de Marie-Lyne</title>
 		<sub-title lang="en">FouKi</sub-title>
 		<desc lang="en">Marie-Lyne et FouKi concluent cette semaine à célébrer le temps des sucres; entre deux révélations sur son parcours, le rappeur chante les années 80 au milieu des chaudières débordantes de sève.</desc>
-		<date>20230406</date>
 		<category lang="en">Talk</category>
 		<category lang="en">Series</category>
 		<length units="minutes">30</length>
@@ -6108,7 +6169,7 @@
 		<episode-num system="common">S02E04</episode-num>
 		<episode-num system="dd_progid">EP04246845.0045</episode-num>
 		<episode-num system="xmltv_ns">1.3.</episode-num>
-		<previously-shown start="20230406000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
@@ -6297,7 +6358,6 @@
 		<title lang="en">Survivor Québec</title>
 		<sub-title lang="en">Jeudi: la quotidienne, semaine 1</sub-title>
 		<desc lang="en">Pendant 44 jours, 20 joueurs isolés sur une île exotique des Philippines seront confrontés à des épreuves mentales et physiques extrêmes.</desc>
-		<date>20230406</date>
 		<category lang="en">Series</category>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p24335588_b_v13_ab.jpg" />
@@ -6305,7 +6365,7 @@
 		<episode-num system="common">S01E06</episode-num>
 		<episode-num system="dd_progid">EP04682758.0006</episode-num>
 		<episode-num system="xmltv_ns">0.5.</episode-num>
-		<previously-shown start="20230406000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>8+</value>
@@ -9347,21 +9407,140 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20230406193000 -0400" stop="20230406200000 -0400" channel="ITVA.72747.zap2it.com">
-		<title lang="en">La tour</title>
-		<desc lang="en">Gildor a une belle rencontre avec Rodger Brulotte et Bianca Gervais.</desc>
-		<date>20230406</date>
+	<programme start="20230413200000 -0400" stop="20230413210000 -0400" channel="INoovo.72886.zap2it.com">
+		<title lang="en">L&apos;amour est dans le pré</title>
+		<sub-title lang="en">Le rassemblement</sub-title>
+		<desc lang="en">Katherine Levac convie les agriculteurs et les couples de la 11e saison au Manoir du lac William pour un rassemblement festif; en plus de découvrir où chacun en est depuis le voyage, elle en profite pour jaser plus en détail de leurs aventures.</desc>
+		<date>20230414</date>
 		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p18797640_b_v13_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03616801&amp;tmsId=EP036168010326</url>
-		<episode-num system="common">S03E108</episode-num>
-		<episode-num system="dd_progid">EP03616801.0326</episode-num>
-		<episode-num system="xmltv_ns">2.107.</episode-num>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9040237_b_v10_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01522916&amp;tmsId=EP015229160147</url>
+		<episode-num system="common">S11E12</episode-num>
+		<episode-num system="dd_progid">EP01522916.0147</episode-num>
+		<episode-num system="xmltv_ns">10.11.</episode-num>
 		<new />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413210000 -0400" stop="20230413220000 -0400" channel="INoovo.72886.zap2it.com">
+		<title lang="en">Qui sait chanter?</title>
+		<sub-title lang="en">Marc-André R.</sub-title>
+		<desc lang="en">Jeu musical animé par Phil Roy où le concurrent Marc-André doit trouver parmi six chanteurs secrets, lesquels sont bons et lesquels sont mauvais.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20561505_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03982077&amp;tmsId=EP039820770002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03982077.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413220000 -0400" stop="20230413223000 -0400" channel="INoovo.72886.zap2it.com">
+		<title lang="en">Noovo Le Fil 22</title>
+		<desc lang="en">Grâce à une équipe d&apos;animateurs, de journalistes et de collaborateurs aguerris, on rend compte de l&apos;actualité sous des angles différents avec des formats dynamiques et incarnés.</desc>
+		<date>20230414</date>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19688380_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03807422&amp;tmsId=EP038074220203</url>
+		<episode-num system="common">S03E74</episode-num>
+		<episode-num system="dd_progid">EP03807422.0203</episode-num>
+		<episode-num system="xmltv_ns">2.73.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413223000 -0400" stop="20230413230000 -0400" channel="INoovo.72886.zap2it.com">
+		<title lang="en">Les débatteurs de Noovo</title>
+		<desc lang="en">L&apos;animateur Michel Bherer est entouré d&apos;une équipe de débatteurs diversifiée, expérimentée et représentative de la société québécoise qui sait poser un regard franc sur l&apos;actualité.</desc>
+		<date>20230414</date>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22833735_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04434242&amp;tmsId=EP044342420107</url>
+		<episode-num system="common">S01E108</episode-num>
+		<episode-num system="dd_progid">EP04434242.0107</episode-num>
+		<episode-num system="xmltv_ns">0.107.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413230000 -0400" stop="20230413233000 -0400" channel="INoovo.72886.zap2it.com">
+		<title lang="en">Survivor Québec</title>
+		<desc lang="en">Pendant 44 jours, 20 joueurs isolés sur une île exotique des Philippines seront confrontés à des épreuves mentales et physiques extrêmes.</desc>
+		<date>20230413</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p24335588_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04682758&amp;tmsId=EP046827580012</url>
+		<episode-num system="common">S01E12</episode-num>
+		<episode-num system="dd_progid">EP04682758.0012</episode-num>
+		<episode-num system="xmltv_ns">0.11.</episode-num>
+		<previously-shown start="20230413000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20230413233000 -0400" stop="20230414000000 -0400" channel="INoovo.72886.zap2it.com">
+		<title lang="en">Le fabuleux printemps de Marie-Lyne</title>
+		<sub-title lang="en">Pierre-François Legendre</sub-title>
+		<desc lang="en">Pierre-François Legendre apprend à Marie-Lyne à protéger son quartier contre les zombies tout en lui partageant sa nouvelle passion pour les fromages.</desc>
+		<date>20230413</date>
+		<category lang="en">Talk</category>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21884345_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04246845&amp;tmsId=EP042468450049</url>
+		<episode-num system="common">S02E08</episode-num>
+		<episode-num system="dd_progid">EP04246845.0049</episode-num>
+		<episode-num system="xmltv_ns">1.7.</episode-num>
+		<previously-shown start="20230413000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230414000000 -0400" stop="20230414010000 -0400" channel="INoovo.72886.zap2it.com">
+		<title lang="en">NCIS: Los Angeles</title>
+		<sub-title lang="en">Sauver les justes</sub-title>
+		<desc lang="en">L&apos;équipe aide une ancienne technicienne du NCIS à retrouver son ancien partenaire, qui pourrait être lié à des vendeurs d&apos;armes qu&apos;ils n&apos;ont pas réussi à arrêter plusieurs années auparavant.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18123644_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01316542&amp;tmsId=EP013165420356</url>
+		<episode-num system="common">S11E21</episode-num>
+		<episode-num system="dd_progid">EP01316542.0356</episode-num>
+		<episode-num system="xmltv_ns">10.20.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20230414010000 -0400" stop="20230414030000 -0400" channel="INoovo.72886.zap2it.com">
+		<title lang="en">Ce bébé est à moi!</title>
+		<sub-title lang="en">Movie (2018)</sub-title>
+		<desc lang="en">Une déséquilibrée s&apos;emploie à récupérer le bébé qu&apos;elle a porté dans son ventre pour le compte d&apos;un couple infertile.</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15952616_p_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01575025&amp;tmsId=MV015750250000</url>
+		<episode-num system="dd_progid">MV01575025.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
 		</rating>
 	</programme>
 	<programme start="20230406200000 -0400" stop="20230406210000 -0400" channel="ITVA.72747.zap2it.com">
@@ -9422,7 +9601,6 @@
 	<programme start="20230406223500 -0400" stop="20230406230500 -0400" channel="ITVA.72747.zap2it.com">
 		<title lang="en">La tour</title>
 		<desc lang="en">Gildor a une belle rencontre avec Rodger Brulotte et Bianca Gervais.</desc>
-		<date>20230406</date>
 		<category lang="en">Series</category>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p18797640_b_v13_ac.jpg" />
@@ -9430,7 +9608,7 @@
 		<episode-num system="common">S03E108</episode-num>
 		<episode-num system="dd_progid">EP03616801.0326</episode-num>
 		<episode-num system="xmltv_ns">2.107.</episode-num>
-		<previously-shown start="20230406000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
@@ -11904,20 +12082,95 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20230406193000 -0400" stop="20230406200000 -0400" channel="ITele-Quebec.63040.zap2it.com">
-		<title lang="en">L&apos;indice Mc$ween</title>
-		<sub-title lang="en">Internaliser les externalités, ça veut dire quoi; Le ministère de l&apos;Environnement</sub-title>
-		<desc lang="en">Mini pose la question: acheter une voiture électrique, oui, mais à quel prix; externalités et économie de l&apos;environnement; l&apos;histoire d&apos;un ministère créé pour contrôler la pollution; on se demande si on a plus d&apos;argent en ville ou en campagne.</desc>
+	<programme start="20230413200000 -0400" stop="20230413210000 -0400" channel="ITVA.72747.zap2it.com">
+		<title lang="en">La recrue</title>
+		<sub-title lang="en">Cinq minutes</sub-title>
+		<desc lang="en">La rencontre des agents Nolan et Chen avec un voleur notoire les met sur la piste d&apos;un vol potentiellement important autour du grand gala du Getty; pendant ce temps, Nolan trouve le courage de demander à Bailey de sortir avec lui.</desc>
+		<date>20230414</date>
 		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p14468822_b_v13_to.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02761285&amp;tmsId=EP027612850129</url>
-		<episode-num system="common">S06E04</episode-num>
-		<episode-num system="dd_progid">EP02761285.0129</episode-num>
-		<episode-num system="xmltv_ns">5.3.</episode-num>
-		<previously-shown />
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20641206_e_v9_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03178560&amp;tmsId=EP031785600058</url>
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="dd_progid">EP03178560.0058</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413210000 -0400" stop="20230413220000 -0400" channel="ITVA.72747.zap2it.com">
+		<title lang="en">L&apos;île de l&apos;amour</title>
+		<desc lang="en">Des célibataires âgés de 20 à 30 ans tentent de trouver l&apos;amour; pour rester sur l&apos;île, les Insulaires doivent absolument former un couple; tout au long de la saison, de nouveaux participants viennent chambouler la vie dans la villa.</desc>
+		<date>20230414</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20533167_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03975838&amp;tmsId=EP039758380070</url>
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="dd_progid">EP03975838.0070</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413220000 -0400" stop="20230413223500 -0400" channel="ITVA.72747.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Pierre-Olivier Zappa présente l&apos;actualité de dernière heure en temps réel, les nouvelles régionales, internationales et économiques, et plus encore.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Series</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7842532_b_v13_sk.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01187134&amp;tmsId=SH011871340000</url>
+		<episode-num system="dd_progid">SH01187134.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413223500 -0400" stop="20230413230500 -0400" channel="ITVA.72747.zap2it.com">
+		<title lang="en">La tour</title>
+		<desc lang="en">Gildor Roy reçoit chez lui amis et invités pour discuter, rire et refaire le monde; échanges authentiques, performances musicales et moments de complicité sont au rendez-vous.</desc>
+		<date>20230413</date>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18797640_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03616801&amp;tmsId=EP036168010330</url>
+		<episode-num system="common">S03E112</episode-num>
+		<episode-num system="dd_progid">EP03616801.0330</episode-num>
+		<episode-num system="xmltv_ns">2.111.</episode-num>
+		<previously-shown start="20230413000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413230500 -0400" stop="20230414000500 -0400" channel="ITVA.72747.zap2it.com">
+		<title lang="en">La joute</title>
+		<desc lang="en">Paul Larocque et ses collaborateurs analysent et échangent sur les enjeux politiques qui préoccupent les Québécois sur les scènes provinciale, fédérale, américaine et municipale.</desc>
+		<date>20230414</date>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13163253_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02488336&amp;tmsId=EP024883360159</url>
+		<episode-num system="dd_progid">EP02488336.0159</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230414000500 -0400" stop="20230414022000 -0400" channel="ITVA.72747.zap2it.com">
+		<title lang="en">La fille du train</title>
+		<sub-title lang="en">Movie (2016)</sub-title>
+		<desc lang="en">Rachel est témoin d&apos;un événement extrêmement choquant et se retrouve malgré elle étroitement mêlée à un angoissant mystère.</desc>
+		<date>2016</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">135</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12770646_p_v9_ao.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00936779&amp;tmsId=MV009367790000</url>
+		<episode-num system="dd_progid">MV00936779.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
 		</rating>
 	</programme>
 	<programme start="20230406200000 -0400" stop="20230406210000 -0400" channel="ITele-Quebec.63040.zap2it.com">
@@ -19475,32 +19728,127 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20230406193000 -0400" stop="20230406200000 -0400" channel="I1119.72599.zap2it.com">
-		<title lang="en">Trucker(euse) pour la vie</title>
-		<desc lang="en">Le métier de camionneur est souvent sous-estimé. On découvre leurs histoires ainsi que toutes les facettes du camionnage.</desc>
+	<programme start="20230413200000 -0400" stop="20230413210000 -0400" channel="ITele-Quebec.63040.zap2it.com">
+		<title lang="en">De garde 24/7</title>
+		<sub-title lang="en">Motivation</sub-title>
+		<desc lang="en">Malgré le stress et l&apos;imprévisibilité des journées, le personnel soignant trouve sa motivation grâce au contact privilégié qu&apos;il entretient avec les patients et le sentiment de faire une différence dans la vie des personnes qui les consultent.</desc>
 		<category lang="en">Series</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p19347476_b_v9_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03744831&amp;tmsId=SH037448310000</url>
-		<episode-num system="dd_progid">SH03744831.0000</episode-num>
-		<new />
-		<subtitles type="teletext" />
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22844126_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02249077&amp;tmsId=EP022490770077</url>
+		<episode-num system="common">S08E02</episode-num>
+		<episode-num system="dd_progid">EP02249077.0077</episode-num>
+		<episode-num system="xmltv_ns">7.1.</episode-num>
+		<previously-shown />
 		<rating>
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20230406200000 -0400" stop="20230406203000 -0400" channel="I1119.72599.zap2it.com">
-		<title lang="en">Voyages Magazine</title>
-		<desc lang="en">Le magazine découvre les possibilités infinies offertes par le monde du voyage.</desc>
+	<programme start="20230413210000 -0400" stop="20230413213000 -0400" channel="ITele-Quebec.63040.zap2it.com">
+		<title lang="en">L&apos;air d&apos;aller</title>
+		<sub-title lang="en">Roméo d&apos;eau</sub-title>
+		<desc lang="en">Jimmy vient soutenir son amie Katrine, qui est sur le point d&apos;entrer en salle d&apos;opération pour avoir sa greffe de poumon, mais les parents de celle-ci commencent à en avoir assez de leurs niaiseries.</desc>
+		<date>20230414</date>
 		<category lang="en">Series</category>
 		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p8759972_b_v9_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01438643&amp;tmsId=SH014386430000</url>
-		<episode-num system="dd_progid">SH01438643.0000</episode-num>
+		<icon src="https://zap2it.tmsimg.com/assets/p24157425_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04663588&amp;tmsId=EP046635880005</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP04663588.0005</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
 		<new />
-		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230413213000 -0400" stop="20230413220000 -0400" channel="ITele-Quebec.63040.zap2it.com">
+		<title lang="en">Like-moi</title>
+		<desc lang="en">Pat Lafond, Gaby Gravel et son nouveau concept: make-over surprise et la diffusion en direct de la parade gaie à la télé communautaire régionale des Bois-Francs.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16590996_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02326044&amp;tmsId=EP023260440046</url>
+		<episode-num system="common">S04E04</episode-num>
+		<episode-num system="dd_progid">EP02326044.0046</episode-num>
+		<episode-num system="xmltv_ns">3.3.</episode-num>
+		<previously-shown />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20230413220000 -0400" stop="20230414000000 -0400" channel="ITele-Quebec.63040.zap2it.com">
+		<title lang="en">L&apos;homme des hautes plaines</title>
+		<sub-title lang="en">Movie (1973)</sub-title>
+		<desc lang="en">Un inconnu consent à assumer la protection d&apos;un village, mais impose aux habitants d&apos;étranges conditions.</desc>
+		<date>1973</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3464_p_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00030127&amp;tmsId=MV000301270000</url>
+		<episode-num system="dd_progid">MV00030127.0000</episode-num>
+		<rating>
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20230414000000 -0400" stop="20230414003000 -0400" channel="ITele-Quebec.63040.zap2it.com">
+		<title lang="en">L&apos;indice Mc$ween</title>
+		<sub-title lang="en">Le CELIAPP, la nouvelle aide fiscale; Survol du sans égard à la faute de la SAAQ</sub-title>
+		<desc lang="en">Enquête sur les alternatives de bonbonnes de CO2; un nouveau compte libre d&apos;impôt pour faciliter l&apos;accès à la propriété; la couverture sans faute avec Me Bellemare; le concept d&apos;enrichissement injustifié, c&apos;est quoi; investissement et cryptomonnaie.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14468822_b_v13_to.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02761285&amp;tmsId=EP027612850128</url>
+		<episode-num system="common">S06E03</episode-num>
+		<episode-num system="dd_progid">EP02761285.0128</episode-num>
+		<episode-num system="xmltv_ns">5.2.</episode-num>
+		<previously-shown />
 		<rating>
 			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230414003000 -0400" stop="20230414010000 -0400" channel="ITele-Quebec.63040.zap2it.com">
+		<title lang="en">Génial!</title>
+		<desc lang="en">Nous fabriquons un véhicule à voile et nous inspirons des dessins animés pour nous interroger sur son comportement; on fait passer un billet de banque à travers l&apos;écorce d&apos;un citron et le jeu du Combat est sur le thème de l&apos;horticulture.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8255691_b_v9_py.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01317389&amp;tmsId=EP013173890589</url>
+		<episode-num system="common">S12E12</episode-num>
+		<episode-num system="dd_progid">EP01317389.0589</episode-num>
+		<episode-num system="xmltv_ns">11.11.</episode-num>
+		<previously-shown />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230414010000 -0400" stop="20230414014600 -0400" channel="ITele-Quebec.63040.zap2it.com">
+		<title lang="en">La période de questions</title>
+		<desc lang="en">La partie questions-réponses des séances de l&apos;Assemblée nationale.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">46</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9719889_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01683200&amp;tmsId=SH016832000000</url>
+		<episode-num system="dd_progid">SH01683200.0000</episode-num>
+		<new />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20230414014600 -0400" stop="20230414023800 -0400" channel="ITele-Quebec.63040.zap2it.com">
+		<title lang="en">Bienvenue à Sanditon</title>
+		<desc lang="en">Charlotte commence son nouvel emploi chez le mystérieux Alexander; Alison est déterminée à retrouver son galant et Georgiana reçoit de mauvaises nouvelles; Lady Denham reçoit une visite inattendue; Tom et le colonel Lennox font des projets.</desc>
+		<date>20230412</date>
+		<category lang="en">Series</category>
+		<length units="minutes">52</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21413421_e_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03855146&amp;tmsId=EP038551460010</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03855146.0010</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20230412000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>13+</value>
 		</rating>
 	</programme>
 	<programme start="20230406203000 -0400" stop="20230406210000 -0400" channel="I1119.72599.zap2it.com">
@@ -23832,6 +24180,146 @@
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03744831&amp;tmsId=SH037448310000</url>
 		<episode-num system="dd_progid">SH03744831.0000</episode-num>
 		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413200000 -0400" stop="20230413203000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Voyages Magazine</title>
+		<desc lang="en">Le magazine découvre les possibilités infinies offertes par le monde du voyage.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8759972_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01438643&amp;tmsId=SH014386430000</url>
+		<episode-num system="dd_progid">SH01438643.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413203000 -0400" stop="20230413210000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Virage plus</title>
+		<desc lang="en">Les majeurs de l&apos;industrie automobile, à ce qu&apos;ils offrent aujourd&apos;hui et à l&apos;avenir.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8760018_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01438658&amp;tmsId=SH014386580000</url>
+		<episode-num system="dd_progid">SH01438658.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413210000 -0400" stop="20230413220000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Aventure chasse pêche</title>
+		<desc lang="en">Animé par Martin Bourget, Kate Nadeau Mercier et leur équipe, &quot;Aventure chasse pêche&quot; est une émission axée sur la chasse, la pêche et le plein air. Une équipe de passionnés fait le tour des pourvoiries et territoires du Québec pour vous.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17297846_b_v9_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03298921&amp;tmsId=SH032989210000</url>
+		<episode-num system="dd_progid">SH03298921.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413220000 -0400" stop="20230413223000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">AMS Motoneige</title>
+		<desc lang="en">Chaque semaine, Mathieu Thomassin présente un nouveau modèle et l&apos;essaie.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12567951_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02359738&amp;tmsId=SH023597380000</url>
+		<episode-num system="dd_progid">SH02359738.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413223000 -0400" stop="20230413230000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Découverte extra</title>
+		<desc lang="en">Un point de vue différent sur l&apos;actualité économique, sociale et culturelle.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11234981_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02046570&amp;tmsId=SH020465700000</url>
+		<episode-num system="dd_progid">SH02046570.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413230000 -0400" stop="20230413233000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Leurre juste</title>
+		<desc lang="en">On suit les aventures de pêche de Daniel Robitaille et son équipe aux quatre coins du Québec.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12448407_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02334116&amp;tmsId=SH023341160000</url>
+		<episode-num system="dd_progid">SH02334116.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230413233000 -0400" stop="20230414000000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Voyages Magazine</title>
+		<desc lang="en">Le magazine découvre les possibilités infinies offertes par le monde du voyage.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8759972_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01438643&amp;tmsId=SH014386430000</url>
+		<episode-num system="dd_progid">SH01438643.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230414000000 -0400" stop="20230414003000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Trucker(euse) pour la vie</title>
+		<desc lang="en">Le métier de camionneur est souvent sous-estimé. On découvre leurs histoires ainsi que toutes les facettes du camionnage.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19347476_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03744831&amp;tmsId=SH037448310000</url>
+		<episode-num system="dd_progid">SH03744831.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230414003000 -0400" stop="20230414013000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Virage</title>
+		<desc lang="en">Virage s&apos;intéresse au monde fascinant de l&apos;industrie automobile.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8760033_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01438668&amp;tmsId=SH014386680000</url>
+		<episode-num system="dd_progid">SH01438668.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20230414013000 -0400" stop="20230414020000 -0400" channel="I1119.72599.zap2it.com">
+		<title lang="en">Découverte extra</title>
+		<desc lang="en">Un point de vue différent sur l&apos;actualité économique, sociale et culturelle.</desc>
+		<category lang="en">Series</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11234981_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02046570&amp;tmsId=SH020465700000</url>
+		<episode-num system="dd_progid">SH02046570.0000</episode-num>
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
